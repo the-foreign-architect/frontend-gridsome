@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+
+html, body {
+  @apply font-sans antialiased;
+}
+
+:root {
+  --link-underline-color: #dae1e7;
+}
+
+a {
+  @apply no-underline;
+  @apply text-black;
+  box-shadow: inset 0 -0.5em 0 var(--link-underline-color);
+  transition: box-shadow 0.2s ease-in-out;
+}
+
+a:hover {
+  box-shadow: inset 0 -0.1em 0 var(--link-underline-color);
+}
+
+a.no-decoration, a.no-decoration:hover {
+  box-shadow: none;
+  transition:none;
+}
+
+a.white-link, a.white-link:hover {
+  @apply text-white;
+  --link-underline-color: #4A5568;
+}
+
+@tailwind utilities;
