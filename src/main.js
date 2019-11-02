@@ -14,12 +14,27 @@ require('typeface-poppins');
 require('typeface-source-sans-pro');
 import SocialSharing from 'vue-social-sharing';
 
+import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
+import { config, library } from '@fortawesome/fontawesome-svg-core';
+import {
+  faGithub,
+  faTwitter,
+  faLinkedin,
+  faPinterest,
+  faInstagram,
+} from '@fortawesome/free-brands-svg-icons';
+import '@fortawesome/fontawesome-svg-core/styles.css';
+
+config.autoAddCss = false;
+library.add(faGithub, faTwitter, faLinkedin, faPinterest, faInstagram);
+
 import DefaultLayout from '~/layouts/Default.vue';
 import '~/assets/css/tailwind.css';
 
 export default function(Vue, { router, head, isClient }) {
   // Set default layout as a global component
   Vue.use(SocialSharing);
+  Vue.component('font-awesome', FontAwesomeIcon);
   Vue.component('Layout', DefaultLayout);
   Vue.filter('formatDate', function(value, dateFormat = 'dd.MMM.yy') {
     if (value) {

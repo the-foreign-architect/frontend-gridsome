@@ -7,6 +7,7 @@ html, body {
 
 :root {
   --link-underline-color: #dae1e7;
+  --offset: .5rem;
 }
 
 a {
@@ -28,6 +29,54 @@ a.no-decoration, a.no-decoration:hover {
 a.white-link, a.white-link:hover {
   @apply text-white;
   --link-underline-color: #4A5568;
+}
+
+.stripe-shadow-black {
+  @apply border-2 relative border-white;
+}
+.stripe-shadow-black::after {
+  position: absolute;
+  z-index: -1;
+  content: "";
+  bottom: calc(-1 * var(--offset));
+  left: var(--offset);
+  right: calc(-1 * var(--offset));
+  top: var(--offset);
+  background: repeating-linear-gradient(
+    45deg,
+    black,
+    black 1px,
+    white 1px,
+    white 3px
+  );
+
+}
+
+.stripe-shadow-white {
+  z-index: 1;
+  @apply border-2 relative border-transparent;
+}
+
+.stripe-shadow-white::after {
+  position: absolute;
+  z-index: -1;
+  content: "";
+  bottom: calc(-1 * var(--offset));
+  left: var(--offset);
+  right: calc(-1 * var(--offset));
+  top: var(--offset);
+  background: repeating-linear-gradient(
+    45deg,
+    white,
+    white 1px,
+    transparent 1px,
+    transparent 3px
+  );
+}
+.image-cover {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 @tailwind utilities;
