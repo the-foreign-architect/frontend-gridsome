@@ -31,10 +31,10 @@ a.white-link, a.white-link:hover {
   --link-underline-color: #4A5568;
 }
 
-.stripe-shadow-black {
-  @apply border-2 relative border-white;
+.stripe-shadow-black, .content h2 {
+  @apply border-2 relative border-white text-white bg-black;
 }
-.stripe-shadow-black::after {
+.stripe-shadow-black::after, .content h2::after {
   position: absolute;
   z-index: -1;
   content: "";
@@ -54,7 +54,7 @@ a.white-link, a.white-link:hover {
 
 .stripe-shadow-white {
   z-index: 1;
-  @apply border-2 relative border-transparent;
+  @apply border-2 relative border-transparent bg-white;
 }
 
 .stripe-shadow-white::after {

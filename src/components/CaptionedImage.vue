@@ -1,7 +1,9 @@
 <template>
-  <figure class="my-8">
-    <img :src="url" :alt="alt" class="border-2 border-black">
-    <figcaption class="text-sm">{{ caption }}</figcaption>
+  <figure class="full-width my-8">
+    <div class="mx-auto" :class="format === 'v' ? 'max-w-sm' : 'max-w-2xl'">
+      <img :src="url" :alt="alt" class="mx-auto border-2 border-black">
+      <figcaption class="text-sm">{{ caption }}</figcaption>
+    </div>
   </figure>
 </template>
 <script>
@@ -19,6 +21,10 @@ export default {
       type: String,
       default: '',
     },
+    format: {
+      type: String,
+      default: 'h'
+    }
   },
   computed: {
     url() {

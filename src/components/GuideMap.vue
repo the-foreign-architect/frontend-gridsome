@@ -1,6 +1,7 @@
 <template>
-  <div>
-    <iframe :title="title" :src="map" width="100%" height="500" class="my-4"></iframe>
+  <div class="full-width px-4 my-8">
+    <div class="overlay w-full h-full absolute top-left bg-transparent" onClick="style.pointerEvents='none'"></div>
+    <iframe :title="title" :src="map" height="500" scrolling="no" class="w-full border-2 border-black"></iframe>
   </div>
 </template>
 
@@ -20,6 +21,7 @@ name: 'GuideMap',
   }
 </script>
 
-<style lang="scss" scoped>
+<style>
+
 
 </style>

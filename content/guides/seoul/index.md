@@ -13,6 +13,8 @@ city: Seoul
 coverImage: ./_imgs/cover.jpg
 pinterestMedia: v1552415993/guides/seoul/TFA-Seoul-architecture-guide.jpg
 ---
+## toc
+
 import GuideMap from '~/components/GuideMap.vue'
 import CaptionedImage from '~/components/CaptionedImage.vue'
 import BuildingInfoContainer from '~/components/BuildingInfoContainer.vue'
@@ -34,13 +36,13 @@ Contemporary architecture in Seoul, at that time, was starting to show its face 
 
 ### This guide
 
-After seven years, I finally had the chance to visit Seoul again. It was a short weekend trip from Beijing, but I tried to eat as much as I could and see as much architecture as possible during my brief stay. I tried to collect it all in this little guide and in the included map. The focus will be architecture, with some food interludes in between. Of course, I could not see all I wanted or all that Seoul has to offer. This little guide is still a work in progress, which I hope to keep updating after my future visits to the city, which will still be many. \
+After seven years, I finally had the chance to visit Seoul again. It was a short weekend trip from Beijing, but I tried to eat as much as I could and see as much architecture as possible during my brief stay. I tried to collect it all in this little guide and in the included map. The focus will be architecture, with some food interludes in between. Of course, I could not see all I wanted or all that Seoul has to offer. This little guide is still a work in progress, which I hope to keep updating after my future visits to the city, which will still be many.
 
 <mc-get-guide-form guide="Seoul"/>
 
 ### Buildings
 
-[[toc]]
+
 
 ### Map
 
@@ -52,7 +54,7 @@ In the meantime, it should help you get started. Here is the map of everything I
 
 I first visited the site back in 2009, when it was still a hole in the ground. I quickly dismissed it as another weird building by Zaha, but I was so wrong. It is a quirky, strange building, which manages to deliver fantastic outdoor public spaces and a wide diversity of interior spaces, fulfilling its function as a new meeting point for Seoul.
 
-<captioned-image alt="Dongdaemun Design Plaza" caption="Oullim Square, part of the DDP complex" imgFile="v1552501062/guides/seoul/Dongdaemun-Design-Plaza-39.jpg"/>
+<captioned-image alt="Dongdaemun Design Plaza" caption="Oullim Square, part of the DDP complex" imgFile="v1552501062/guides/seoul/Dongdaemun-Design-Plaza-39.jpg" format="v"/>
 
 I like it so much that I decided to dedicate a special post just for it. Check it out here to see more photos and other info about this great building: [The one building you have to visit in Seoul](http://theforeignarchitect.com/dongdaemun-design-plaza-seoul/)
 
@@ -104,7 +106,7 @@ It is a university, but open to the city. There are no closed gates or identity 
 
 I am not a fan of malls, but this one, designed by South Korean architects GA.A, is one of the few malls that I truly like.
 
-<captioned-image alt="Ssamziegil Mall" caption="Ssamziegil Mall's courtyard" imgFile="v1552501528/guides/seoul/Ssamgiezil-1-595x892.jpg"/>
+<captioned-image alt="Ssamziegil Mall" caption="Ssamziegil Mall's courtyard" imgFile="v1552501528/guides/seoul/Ssamgiezil-1-595x892.jpg" format="v"/>
 
 To start with, it is located in Insadong, where one of my favorite pedestrian streets connects with many small little alleys full of shops, cafes and street food. The mall works with that and recognizes the importance of this street life by creating an alley that continues from the street all the way up the building. It spirals up around a large courtyard, passing along small shops and ending on the rooftop area, where gardens, resting spaces, and coffee shops create a bustling public space.
 
@@ -116,7 +118,7 @@ It is very a very popular and unique little mall. There is always something goin
 
 ## Samsung Jong-ro Tower - Rafael Vinoly
 
-<captioned-image alt="Jongro Tower" caption="The Jongro Tower visible in a small alley in Insadong" imgFile="v1552501659/guides/seoul/161210-124949-KR-Seoul.jpg" />
+<captioned-image alt="Jongro Tower" caption="The Jongro Tower visible in a small alley in Insadong" imgFile="v1552501659/guides/seoul/161210-124949-KR-Seoul.jpg" format="v"/>
 
 The Jong-ro Tower is a classic I still did not go visit. It is also a bizarre tower: three sections, one triangular base, one rectangular mid-section, and a large ring at the top, connected by three exposed elevator cores. But it somehow fits perfectly to its context and to the idea we westerners have of neon-lit futuristic big Asian capitals.
 
@@ -198,7 +200,7 @@ The Apgujung Road is an 8-lane avenue lined with luxury big name shops. You can 
 
 Another fantastic tower by MASS Studies. As in the S-Trenue tower, the architects tried to combine developer wishes and planning regulations into something creative and original. By removing chunks of what would be a simple c-shaped extruded tower, they created voids throughout the building that serve as gardens and light wells for its occupants.
 
-<captioned-image alt="Boutique Monaco" caption="© MASS Studies" imgFile="v1552502036/guides/seoul/monaco-007.jpg"/>
+<captioned-image alt="Boutique Monaco" caption="© MASS Studies" imgFile="v1552502036/guides/seoul/monaco-007.jpg" format="v"/>
 
 Additionally, they escaped from the simple floorplan repetitions and developed 49 different typologies of apartments combined in varied ways to complete 172 units. It's a building that never gets boring.
 
@@ -242,7 +244,7 @@ The top floors are public, containing what is said to be the highest art gallery
 
 ## S-Trenue Tower - MASS Studies
 
-<captioned-image alt="S-Trenue Tower" caption="S-Trenue Tower © Yong-Kwan Kim" imgFile="v1552502363/guides/seoul/stringio.jpg"/>
+<captioned-image alt="S-Trenue Tower" caption="S-Trenue Tower © Yong-Kwan Kim" imgFile="v1552502363/guides/seoul/stringio.jpg" format="v"/>
 
 The S-Trenue is an exceptional tower. It escapes from the boring, overdone boxy highrise by being creative with how you deal with FAR and GFA requirements. Instead of building a low and chunky building, like most of its neighbors, MASS Studies designed a group of slender, slanted towers which lean on and off each other, creating gaps in between filled with green.
 

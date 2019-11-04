@@ -19,18 +19,18 @@ module.exports = {
     },
   },
   plugins: [
-    {
-      use: '@gridsome/source-graphql',
-      options: {
-        url: 'https://api.theforeignarchitect.com/graphql',
-        fieldName: 'buildings',
-        typeName: 'buildingType',
+    // {
+    //   use: '@gridsome/source-graphql',
+    //   options: {
+    //     url: 'https://api.theforeignarchitect.com/graphql',
+    //     fieldName: 'buildings',
+    //     typeName: 'buildingType',
 
-        /* headers: {
-          Authorization: `Bearer ${process.env.AUTH_TOKEN}`,
-        }, */
-      },
-    },
+    //     /* headers: {
+    //       Authorization: `Bearer ${process.env.AUTH_TOKEN}`,
+    //     }, */
+    //   },
+    // },
     {
       use: '@gridsome/vue-remark',
       options: {
@@ -38,6 +38,7 @@ module.exports = {
         baseDir: './content/guides', // Where .md files are located
         pathPrefix: '/guides', // Add route prefix. Optional
         template: './src/templates/Guide.vue',
+        //plugins: ['remark-toc'],
       },
     },
     {
@@ -47,7 +48,15 @@ module.exports = {
         baseDir: './content/blog', // Where .md files are located
         pathPrefix: '/blog', // Add route prefix. Optional
         template: './src/templates/Blog.vue',
+        //plugins: ['remark-toc'],
       },
     },
+
+
   ],
+  transformers: {
+    remark: {
+      plugins: ['remark-toc'],
+    },
+  },
 };
