@@ -11,6 +11,7 @@ if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss());
 
 module.exports = {
   siteName: 'The Foreign Architect',
+  siteUrl: 'https://theforeignarchitect.com',
   css: {
     loaderOptions: {
       postcss: {
@@ -74,26 +75,13 @@ module.exports = {
         template: './src/templates/SinglePage.vue'
       },
     },
-    {
-      use: '@gridsome/plugin-sitemap',
-      options: {
-        cacheTime: 600000, // default
-        config: {
-          '/blog/*': {
-            changefreq: 'weekly',
-            priority: 0.5,
-          },
-          '/guides/*': {
-            changefreq: 'weekly',
-            priority: 0.5,
-          },
-          '/about': {
-            changefreq: 'monthly',
-            priority: 0.7,
-          },
-        },
-      },
-    },
+    // {
+    //   use: '@gridsome/plugin-sitemap',
+    //   options: {
+    //     cacheTime: 600000, // default
+
+    //   },
+    // },
     {
       use: 'gridsome-plugin-gtm',
       options: {
