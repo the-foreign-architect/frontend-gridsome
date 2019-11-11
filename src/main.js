@@ -13,6 +13,7 @@ require('typeface-merriweather');
 require('typeface-poppins');
 require('typeface-source-sans-pro');
 import SocialSharing from 'vue-social-sharing';
+import VueDisqus from 'vue-disqus';
 
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 import { config, library } from '@fortawesome/fontawesome-svg-core';
@@ -23,11 +24,24 @@ import {
   faPinterest,
   faInstagram,
 } from '@fortawesome/free-brands-svg-icons';
-import { faArrowLeft, faArrowRight, faArrowDown} from '@fortawesome/free-solid-svg-icons';
+import {
+  faArrowLeft,
+  faArrowRight,
+  faArrowDown,
+} from '@fortawesome/free-solid-svg-icons';
 import '@fortawesome/fontawesome-svg-core/styles.css';
 
 config.autoAddCss = false;
-library.add(faArrowDown, faArrowRight, faArrowLeft, faGithub, faTwitter, faLinkedin, faPinterest, faInstagram);
+library.add(
+  faArrowDown,
+  faArrowRight,
+  faArrowLeft,
+  faGithub,
+  faTwitter,
+  faLinkedin,
+  faPinterest,
+  faInstagram
+);
 
 import DefaultLayout from '~/layouts/Default.vue';
 import '~/assets/css/tailwind.css';
@@ -39,6 +53,7 @@ export default function(Vue, { router, head, isClient }) {
   // Set default layout as a global component
   Vue.use(SocialSharing);
   Vue.use(VueMasonry);
+  Vue.use(VueDisqus);
   Vue.component('font-awesome', FontAwesomeIcon);
   Vue.component('series-navigation', SeriesNavigation);
   Vue.component('Layout', DefaultLayout);

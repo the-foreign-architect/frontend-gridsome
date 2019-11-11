@@ -19,6 +19,7 @@
     "typeface-merriweather": "0.0.72",
     "typeface-poppins": "0.0.72",
     "typeface-source-sans-pro": "0.0.75",
+    "vue-disqus": "^3.0.5",
     "vue-gallery": "^2.0.1",
     "vue-social-sharing": "^2.4.6"
   },
