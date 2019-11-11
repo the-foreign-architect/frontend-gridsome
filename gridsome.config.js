@@ -66,6 +66,15 @@ module.exports = {
       },
     },
     {
+      use: '@gridsome/vue-remark',
+      options: {
+        typeName: 'SinglePage', // Required
+        baseDir: './content/pages', // Where .md files are located
+        pathPrefix: '/', // Add route prefix. Optional
+        template: './src/templates/SinglePage.vue'
+      },
+    },
+    {
       use: '@gridsome/plugin-sitemap',
       options: {
         cacheTime: 600000, // default
