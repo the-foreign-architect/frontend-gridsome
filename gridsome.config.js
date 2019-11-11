@@ -53,7 +53,7 @@ module.exports = {
         typeName: 'Blog', // Required
         baseDir: './content/blog', // Where .md files are located
         pathPrefix: '/blog', // Add route prefix. Optional
-        template: './src/templates/Blog.vue',
+        template: './src/templates/Post.vue',
         plugins: [
           [
             'remark-toc',
