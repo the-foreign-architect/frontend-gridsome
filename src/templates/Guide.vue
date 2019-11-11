@@ -8,6 +8,7 @@
           image-cover
           guide-cover
           mb-8
+          max-h-full
           sm:flex sm:items-center sm:justify-center"
         :style="`background-image: url('${$page.guide.coverImage.src}')`">
           <span class="stripe-shadow-white max-w-xl mx-auto p-4 font-bold text-3xl uppercase leading-none tracking-wide">
@@ -21,8 +22,20 @@
         <p class="text-xl ">{{ $page.guide.excerpt }}</p>
       </div>
     </section>
+    <section v-if="$page.guide.series && $page.guide.chapter > 0" class="content px-4 max-w-xl mx-auto">
+      <series-navigation
+        :total-chapters="$page.guide.series.belongsTo.totalCount"
+        :current-chapter="$page.guide.chapter"
+        :chapters="$page.guide.series.belongsTo.edges.map(edge => edge.node)"/>
+    </section>
     <section class="content px-4 max-w-xl mx-auto">
       <vue-remark-content />
+    </section>
+    <section v-if="$page.guide.series && $page.guide.chapter > 0" class="content px-4 max-w-xl mx-auto">
+      <series-navigation
+        :total-chapters="$page.guide.series.belongsTo.totalCount"
+        :current-chapter="$page.guide.chapter"
+        :chapters="$page.guide.series.belongsTo.edges.map(edge => edge.node)"/>
     </section>
   </Layout>
 </template>
@@ -33,15 +46,32 @@ query Guide ($id: ID!) {
     title
     excerpt
     city
+    chapter
+    series {
+      id
+      belongsTo {
+        totalCount
+        edges {
+          node {
+            ...on Guide {
+              id
+              title
+              path
+              chapter
+            }
+          }
+        }
+      }
+    }
     coverImage (width: 1920, height: 800, quality: 90)
   }
 }
-</page-query>
+</page-query
 
 <script>
-  export default {
+export default {
 
-  }
+}
 </script>
 
 <style>
@@ -57,19 +87,21 @@ query Guide ($id: ID!) {
 .content h3 {
   @apply text-lg;
 }
-
-.full-width {
-	left: 50%;
-	margin-left: -50vw;
-	margin-right: -50vw;
-	max-width: 100vw;
-	position: relative;
-	right: 50%;
-  width: 100vw;
-
+.content  ul {
+  @apply mb-4;
+  list-style-type: square;
 }
-
+.content  ul > li {
+  @apply mb-2;
+}
 .guide-cover {
   height: 320px;
+}
+
+.content #buildings + ul, .content nav > ul {
+  @apply list-none;
+}
+.content #buildings + ul > li, .content nav > p, .content nav > ul > li {
+  @apply mb-1;
 }
 </style>

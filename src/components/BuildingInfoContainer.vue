@@ -10,7 +10,7 @@
           :src="
       'https://www.google.com/maps/embed?pb='+building.gmapsEmbed"
           width="100%"
-          height="300"
+          height="100%"
           frameborder="0"
           style="border:0"
         ></iframe>
@@ -21,7 +21,7 @@
           <ul class="flex flex-wrap">
             <li v-for="({architect}, index) in building.architectBuildings.nodes" :key="architect.id">
               <a v-if="architect.website" :href="architect.website">{{architect.name}}</a>
-              <span v-else>{{architect.name}}</span><span v-if="index < building.architectBuildings.nodes.length">,&nbsp;</span>
+              <span v-else>{{architect.name}}</span><span v-if="index < building.architectBuildings.nodes.length-1">,&nbsp;</span>
             </li>
           </ul>
         </section>
@@ -71,8 +71,16 @@ export default {
 }
 </script>
 
-<style >
+<style scoped>
 .building-info p {
+  @apply m-0;
+
+}
+.building-info ul{
+  @apply list-none m-0;
+}
+
+.building-info ul >li {
   @apply m-0;
 }
 

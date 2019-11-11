@@ -34,10 +34,7 @@
         Before, during, and after I go in a trip, I spend a lot of time building maps with selection of buildings I wanna see. Here is the latest one.
       </template>
       <template #content>
-        <guide-map
-          title="Latest Map"
-          map="https://www.google.com/maps/d/embed?mid=19Bg9JybbEZ-nxtg_LGtidjBKz3M"
-        />
+        <iframe title="Latest Map" src="https://www.google.com/maps/d/embed?mid=19Bg9JybbEZ-nxtg_LGtidjBKz3M" height="500" scrolling="no" class="w-full border-2 border-black"></iframe>
       </template>
     </home-section>
 

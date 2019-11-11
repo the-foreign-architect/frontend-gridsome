@@ -19,18 +19,6 @@ module.exports = {
     },
   },
   plugins: [
-    // {
-    //   use: '@gridsome/source-graphql',
-    //   options: {
-    //     url: 'https://api.theforeignarchitect.com/graphql',
-    //     fieldName: 'buildings',
-    //     typeName: 'buildingType',
-
-    //     /* headers: {
-    //       Authorization: `Bearer ${process.env.AUTH_TOKEN}`,
-    //     }, */
-    //   },
-    // },
     {
       use: '@gridsome/vue-remark',
       options: {
@@ -38,7 +26,25 @@ module.exports = {
         baseDir: './content/guides', // Where .md files are located
         pathPrefix: '/guides', // Add route prefix. Optional
         template: './src/templates/Guide.vue',
-        //plugins: ['remark-toc'],
+        refs: {
+          tags: {
+            typeName: 'Tag',
+            create: true,
+          },
+          series: {
+            typeName: 'Series',
+            create: true,
+          },
+        },
+        plugins: [
+          [
+            'remark-toc',
+            {
+              heading: 'Buildings',
+              maxDepth: 2,
+            },
+          ],
+        ],
       },
     },
     {
@@ -48,15 +54,44 @@ module.exports = {
         baseDir: './content/blog', // Where .md files are located
         pathPrefix: '/blog', // Add route prefix. Optional
         template: './src/templates/Blog.vue',
-        //plugins: ['remark-toc'],
+        plugins: [
+          [
+            'remark-toc',
+            {
+              heading: 'Buildings',
+              maxDepth: 2,
+            },
+          ],
+        ],
       },
     },
-
-
-  ],
-  transformers: {
-    remark: {
-      plugins: ['remark-toc'],
+    {
+      use: '@gridsome/plugin-sitemap',
+      options: {
+        cacheTime: 600000, // default
+        config: {
+          '/blog/*': {
+            changefreq: 'weekly',
+            priority: 0.5,
+          },
+          '/guides/*': {
+            changefreq: 'weekly',
+            priority: 0.5,
+          },
+          '/about': {
+            changefreq: 'monthly',
+            priority: 0.7,
+          },
+        },
+      },
     },
-  },
+    {
+      use: 'gridsome-plugin-gtm',
+      options: {
+        id: 'GTM-W6CV7LX',
+        enabled: false,
+        debug: true,
+      },
+    },
+  ],
 };

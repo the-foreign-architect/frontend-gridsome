@@ -1,18 +1,16 @@
 ---
 title: Lisbon Contemporary Architecture Guide
 date: 2017-04-09
-published: true
-guide: true
 excerpt: Lisbon is a wonderful city, home not only to beautiful historic attractions and amazing weather but also to great contemporary architecture.
 description: Lisbon is a wonderful city, home not only to beautiful historic attractions and amazing weather but also to great contemporary architecture.
 tags:
   - Lisbon
   - Portugal
 city: Lisbon
-series: true
+series: Lisbon
 chapter: 0
 coverImage: ./_imgs/cover-0.jpg
-pinterestMedia: v1552411498/guides/lisbon/TFA-Lisbon-Architecture-Guide.jpg
+pinterestMedia: /guides/lisbon/TFA-Lisbon-Architecture-Guide.jpg
 ---
 
 import GuideMap from '~/components/GuideMap.vue'
@@ -22,35 +20,37 @@ import McGetGuideForm from '~/components/McGetGuideForm.vue'
 
 Ah, Lisbon. I remember getting out of my 15-hour flight from Beijing, where the heat and smog were suffocating, and riding the taxi into Lisbon, feeling the breeze of its mild summertime, the fresh air blowing from the Tagus river, the blue skies. It all made me fall for this city at touchdown. Headed to my little [Airbnb flat](https://www.airbnb.com/rooms/2086734) up a small alley on the top of the Alfama neighborhood, passing by small alleys and squares, smelling the home cooking and overhearing conversations, I felt at home.
 
-<captioned-image alt="My address in Alfama" caption="My address in Alfama" imgFile="v1552411553/guides/lisbon/150711-185636-lisbon-DSC05989.jpg"/>
+<captioned-image alt="My address in Alfama" caption="My address in Alfama" imgFile="/guides/lisbon/150711-185636-lisbon-DSC05989.jpg" format="v"/>
 
 Lisbon is where we, Brazilians, came from. As we learned in school, from the sea explorers reaching our shores in 1500 to the accosted Portuguese monarch escaping ravaging crowds to take refuge in our country, somehow all our history leads back to Portugal. It all crossed my mind as I walked up the stairs to my flat and looked out the window, already in love with the city. It was my first and only visit to Lisbon. Until then I was always ashamed of not making the trip to the tip of Europe, as I was living in Berlin for such a long time. Now, from the other side of the globe, I finally did it. And among the desire to walk and explore, I wanted to try as much food as possible and see as much good architecture as I could.
 
+<mc-get-guide-form guide="Lisbon"/>
+
 Lisbon has tons to see. Contemporary architecture in the city is great, but it is a tiny piece of all the Portuguese capital can offer. This guide will walk you through some of the architecture I was so glad to see and experience in person. I divided it into three large sections:
 
-## 1. [Expo '98](./lisbon-01-expo-98.md)
+## 1. Expo '98
 
-<captioned-image alt="Oriente Station" caption="East entrance to the Oriente Station" imgFile="v1552411572/guides/lisbon/150712-094609-lisbon-DSC06013.jpg"/>
+<captioned-image alt="Oriente Station" caption="East entrance to the Oriente Station" imgFile="/guides/lisbon/150712-094609-lisbon-DSC06013.jpg"/>
 
 The area of the Expo 98 and the parks north of it deserves its own chapter. It is a great destination, with masterpieces from Calatrava and Siza, as well as incredible sights and pleasant walks along the Tagus river.
 
-[Go check it out >>](./lisbon-01-expo-98.md)
+**[Go check it out >>](./lisbon-01-expo-98)**
 
-## 2. [City Center](./lisbon-02-city-center.md)
+## 2. City Center
 
-<captioned-image alt="Museum Calouste Gulbekian" caption="Museum Calouste Gulbekian" imgFile="v1552746225/guides/lisbon/lisbon-1-1100x589.jpg"/>
+<captioned-image alt="Museum Calouste Gulbekian" caption="Museum Calouste Gulbekian" imgFile="/guides/lisbon/lisbon-1-1100x589.jpg"/>
 
 Lisbon is a historic city and has so many beautiful buildings and squares and streets in which you will (and should!) get lost. Among colonial buildings and old cathedrals, you’ll find some great contemporary architecture.
 
-[Go check it out >>](./lisbon-02-city-center.md)
+**[Go check it out >>](./lisbon-02-city-center)**
 
-## 3. [Belem](./lisbon-03-belem.md)
+## 3. Belem
 
-<captioned-image alt="Centro Cultural de Belem" caption="Centro Cultural de Belem's courtyard" imgFile="v1552411574/guides/lisbon/150717-135912-belem-DSC06487.jpg"/>
+<captioned-image alt="Centro Cultural de Belem" caption="Centro Cultural de Belem's courtyard" imgFile="/guides/lisbon/150717-135912-belem-DSC06487.jpg"/>
 
 People go to Belem to see the Tower and eat the egg tarts. That alone is reason enough to go. However, Belem’s waterfront is full of great new architecture you have to add to your itinerary.
 
-[Go check it out >>](./lisbon-03-belem.md)
+**[Go check it out >>](./lisbon-03-belem)**
 
 ---
 
@@ -69,7 +69,5 @@ You can find countless online resources about Lisbon. General travel guides, foo
 This is a map of the places mentioned in this guide, and more ([direct link](https://drive.google.com/open?id=1KNQk_F9UYTMJ-Fg6EU8rlljC9fA&usp=sharing)). Each section also has its own map. black icons are mentioned in the articles, while gray ones are further recommendations.
 
 <guide-map title="Architecture Map of Lisbon" map="https://www.google.com/maps/d/u/1/embed?mid=1KNQk_F9UYTMJ-Fg6EU8rlljC9fA" />
-
-<mc-get-guide-form guide="Lisbon"/>
 
 <back-to-top />

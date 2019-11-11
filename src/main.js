@@ -23,18 +23,24 @@ import {
   faPinterest,
   faInstagram,
 } from '@fortawesome/free-brands-svg-icons';
+import { faArrowLeft, faArrowRight, faArrowDown} from '@fortawesome/free-solid-svg-icons';
 import '@fortawesome/fontawesome-svg-core/styles.css';
 
 config.autoAddCss = false;
-library.add(faGithub, faTwitter, faLinkedin, faPinterest, faInstagram);
+library.add(faArrowDown, faArrowRight, faArrowLeft, faGithub, faTwitter, faLinkedin, faPinterest, faInstagram);
 
 import DefaultLayout from '~/layouts/Default.vue';
 import '~/assets/css/tailwind.css';
 
+import VueMasonry from 'vue-masonry-css';
+import SeriesNavigation from '~/components/SeriesNavigation';
+
 export default function(Vue, { router, head, isClient }) {
   // Set default layout as a global component
   Vue.use(SocialSharing);
+  Vue.use(VueMasonry);
   Vue.component('font-awesome', FontAwesomeIcon);
+  Vue.component('series-navigation', SeriesNavigation);
   Vue.component('Layout', DefaultLayout);
   Vue.filter('formatDate', function(value, dateFormat = 'dd.MMM.yy') {
     if (value) {

@@ -1,9 +1,8 @@
 ---
 title: "Beyond egg tarts: the exciting new architecture in Lisbon's Belém neighborhood"
 date: 2017-04-14
-published: true
 city: Lisbon
-series: true
+series: Lisbon
 chapter: 3
 excerpt: Lisbon’s Belem is not only egg tarts and old towers. There is great new architecture happening in the area along the river Tagus.
 description: Lisbon’s Belem is not only egg tarts and old towers. There is great new architecture happening in the area along the river Tagus.
@@ -11,7 +10,7 @@ tags:
   - Lisbon
   - Portugal
 coverImage: ./_imgs/cover-3.jpg
-pinterestMedia: v1552411498/guides/lisbon/TFA-Lisbon-Architecture-Guide.jpg
+pinterestMedia: vguides/lisbon/TFA-Lisbon-Architecture-Guide.jpg
 ---
 import GuideMap from '~/components/GuideMap.vue'
 import CaptionedImage from '~/components/CaptionedImage.vue'
@@ -21,11 +20,6 @@ import ImageTiles from '~/components/ImageTiles.vue'
 import VideoPlayer from '~/components/VideoPlayer.vue'
 import BackToTop from '~/components/BackToTop.vue'
 import McGetGuideForm from '~/components/McGetGuideForm.vue' 
-
-::: tip
-_This is **Part 3** (of 3) of the **Lisbon Contemporary Architecture Guide**._  
-_You can also go back to the **[Intro](./index.md)**, or check **[Part 1](./lisbon-01-expo-98.md)** and **[Part 2](./lisbon-02-city-center.md)**._
-:::
 
 **Time to go west and enjoy the beauties of Belém.**
 
@@ -43,11 +37,11 @@ Check the map for this section below ([direct link](https://drive.google.com/ope
 
 ### Buildings
 
-[[toc]]
+toc
 
 ## Centro Cultural de Belém - Vittorio Gregotti & Manuel Salgado
 
-<captioned-image alt="Centro Cultural de Belem" caption="By João Carvalho (Own work)" imgFile="v1552411589/guides/lisbon/Centro_Cultural_de_Bele%CC%81m_8297.jpg"/>
+<captioned-image alt="Centro Cultural de Belem" caption="By João Carvalho (Own work)" imgFile="/guides/lisbon/Centro_Cultural_de_Belem.jpg"/>
 
 This huge building right next to the Monastery of Jeronimos was built to host Portugal's presidency of the European Union in 1992. It has since become the host of numerous international exhibitions (from photography to mixed-media installations), cultural events and congresses, and is also the arts complex with the city's largest auditorium.
 
@@ -55,13 +49,13 @@ This huge building right next to the Monastery of Jeronimos was built to host P
 
 It currently houses the [Berardo Museum of Modern and Contemporary Art](http://www.museuberardo.com/) with an incredible permanent collection and rotating exhibits. If you don’t fancy getting in, just walk around the outdoor areas and don’t miss the terrace overlooking the Monument for the Discoveries. For opening times, check the [General Information page](https://www.ccb.pt/Default/en/Homepage/GeneralInformation) at their website.
 
-<image-gallery tag="ccb-gallery" />
+<image-gallery folder="/guides/lisbon/" :imgs="['ccb-01', 'ccb-02', 'ccb-03']"/>
 
 <building-info-container id=17 />
 
 ## Champalimaud Centre for the Unknown - Charles Correa Associates
 
-<captioned-image alt="Campalimaud Center for the Unknown" caption="By Carlos Luis M C da Cruz (Own work)" imgFile="v1552751196/guides/lisbon/Champalimaud_Centre_for_the_Unknown__2821_29.jpg"/>
+<captioned-image alt="Campalimaud Center for the Unknown" caption="By Carlos Luis M C da Cruz (Own work)" imgFile="/guides/lisbon/Champalimaud_Centre_for_the_Unknown__2821_29.jpg"/>
 
 Not my favorite building on the list but deserving its place in this chapter about Belem. The Champalimaud is a medical research center designed by Charles Correa, who wrote that, despite looking like a museum of modern art, it is a medical research center that uses architecture and sculptural beauty as a form of therapy.
 
@@ -73,7 +67,7 @@ If not for the building, go for the public space it offers. Large plazas and an 
 
 ## National Coach Museum - Paulo Mendes da Rocha, MMBB, bak gordon arquitectos
 
-<captioned-image alt="National Coach Museum" caption="National Coach Museum's inner plaza" imgFile="v1552411580/guides/lisbon/150717-163945-belem-DSC06500.jpg"/>
+<captioned-image alt="National Coach Museum" caption="National Coach Museum's inner plaza" imgFile="/guides/lisbon/150717-163945-belem-DSC06500.jpg"/>
 
 As the architect puts it, the museum does not have a door and relates to all sides; more than a museum, the project functions as an urban infrastructure offering public space to the city. The new building is composed by a central pavilion with an elevated body, and an annex, both connected by a bridge. Their position on the site creates a gate condition that leads to an internal square, to which the other historic buildings on the block turn to. The large cantilevers and the glass boxes composing the entrances and elevators give the building a lightness that is inviting. Go for the outdoor areas, check the gift shop and stay for the coaches.
 
@@ -81,13 +75,13 @@ As the architect puts it, the museum does not have a door and relates to all sid
 
 The Museum is composed of two buildings. The one mentioned in this article houses the permanent and temporary exhibitions, reception halls, a workshop for conservation and restoration, a gift shop, and a tourist information center. The original museum is located at the The Royal Riding School, which used to belong to the Royal Palace of Belém, currently the official residence of the President of the Republic. It can be visited as an exhibition nucleus of the National Coach Museum. For opening times and other information, take a look at the museum's [Visit page](http://museudoscoches.pt/en/visite/).
 
-<image-gallery tag="museu-coches-gallery" />
+<image-gallery folder="/guides/lisbon/" :imgs="['coches-01', 'coches-02', 'coches-03', 'coches-04', 'coches-05', 'coches-06']"/>
 
 <building-info-container id=19 />
 
 ## Museum of Art, Architecture and Technology (MAAT) - Amanda Levete Architects
 
-<captioned-image alt="MAAT" caption="© Francisco Nogueira" imgFile="v1552411584/guides/lisbon/AL_A_MAAT_Francisco_Nogueira__01.jpg"/>
+<captioned-image alt="MAAT" caption="© Francisco Nogueira" imgFile="/guides/lisbon/AL_A_MAAT_Francisco_Nogueira__01.jpg"/>
 
 It was still a construction site when I visited, in my mind just an ugly render published long ago on the web. Completed this year, Amanda Levete's Museum of Art, Architecture and Technology is the latest occupant of Belem's waterfront, and it looks stunning. Its sinuous curves with its ceramic tiled facades were are hit on all design publications last year, and the site is popular also with the Portuguese people, who crowd its steps overlooking the Tagus river facing the afternoon sun.
 
@@ -98,8 +92,3 @@ The MAAT distributed its ten exhibition spaces in two buildings: a renovated po
 <building-info-container id=20 />
 
 <mc-get-guide-form guide="Lisbon"/>
-
-::: tip
-_This is **Part 3** (of 3) of the **Lisbon Contemporary Architecture Guide**._  
-_You can also go back to the **[Intro](./index.md)**, or check **[Part 1](./lisbon-01-expo-98.md)** and **[Part 2](./lisbon-02-city-center.md)**._
-:::

@@ -1,8 +1,6 @@
 ---
 title: 'Seoul: a small guide to the best contemporary architecture in town'
 date: 2017-03-25
-published: true
-series: false
 chapter: 0
 description: A fascinating city where architecture is fresh and the food is delicious.
 excerpt: A fascinating city where architecture is fresh and the food is delicious.
@@ -11,10 +9,8 @@ tags:
   - South Korea
 city: Seoul
 coverImage: ./_imgs/cover.jpg
-pinterestMedia: v1552415993/guides/seoul/TFA-Seoul-architecture-guide.jpg
+pinterestMedia: guides/seoul/TFA-Seoul-architecture-guide.jpg
 ---
-## toc
-
 import GuideMap from '~/components/GuideMap.vue'
 import CaptionedImage from '~/components/CaptionedImage.vue'
 import BuildingInfoContainer from '~/components/BuildingInfoContainer.vue'
@@ -23,6 +19,7 @@ import ImageTiles from '~/components/ImageTiles.vue'
 import VideoPlayer from '~/components/VideoPlayer.vue'
 import BackToTop from '~/components/BackToTop.vue'
 import McGetGuideForm from '~/components/McGetGuideForm.vue' 
+
 
 Seoul is a city very dear to me. It was there that I had my first adventure in the far east when I accepted a job offer in town in 2009. Back then, I had no idea what it was like to land in a place where everyone and everything is different from you and what you are used to. It was a shock, but a good one. The people were great, the culture of the place fascinating, but it was the food the left the deepest impression on me. Deeper, even, than architecture.
 
@@ -42,7 +39,7 @@ After seven years, I finally had the chance to visit Seoul again. It was a short
 
 ### Buildings
 
-
+toc
 
 ### Map
 
@@ -54,9 +51,9 @@ In the meantime, it should help you get started. Here is the map of everything I
 
 I first visited the site back in 2009, when it was still a hole in the ground. I quickly dismissed it as another weird building by Zaha, but I was so wrong. It is a quirky, strange building, which manages to deliver fantastic outdoor public spaces and a wide diversity of interior spaces, fulfilling its function as a new meeting point for Seoul.
 
-<captioned-image alt="Dongdaemun Design Plaza" caption="Oullim Square, part of the DDP complex" imgFile="v1552501062/guides/seoul/Dongdaemun-Design-Plaza-39.jpg" format="v"/>
+<captioned-image alt="Dongdaemun Design Plaza" caption="Oullim Square, part of the DDP complex" imgFile="guides/seoul/Dongdaemun-Design-Plaza-39.jpg" format="v"/>
 
-I like it so much that I decided to dedicate a special post just for it. Check it out here to see more photos and other info about this great building: [The one building you have to visit in Seoul](http://theforeignarchitect.com/dongdaemun-design-plaza-seoul/)
+I like it so much that I decided to dedicate a special post just for it. Check it out here to see more photos and other info about this great building: **[The one building you have to visit in Seoul](http://theforeignarchitect.com/dongdaemun-design-plaza-seoul/)**
 
 ### Visit
 
@@ -72,7 +69,7 @@ It is a must-see for any architect visiting Seoul. You can get into it without p
 
 Rem Koolhaas, Mario Botta, Jean Nouvel. Three architecture giants. Few cities are lucky enough to have some of their masterpieces part of their urban fabric, but even fewer are lucky enough to have all three of them, part of the same compound. Enter the Leeum Samsung Museum, a complex of two museums and an education center done each by one of the architects above, standing proudly on the hills of Itaewon.
 
-<captioned-image alt="Leeum Samsung Museum" caption="The sculpture garden surrounded by the three buildings: Koolhaas on the left, Botta in the center, Nouvel on the right" imgFile="v1552501286/guides/seoul/Leeum-Samsung-Museum-1.jpg"/>
+<captioned-image alt="Leeum Samsung Museum" caption="The sculpture garden surrounded by the three buildings: Koolhaas on the left, Botta in the center, Nouvel on the right" imgFile="guides/seoul/Leeum-Samsung-Museum-1.jpg"/>
 
 Hidden in the back alleys of this expat neighborhood, the Leeum Samsung Museum was inaugurated in 2004, housing a mixed permanent collection of Korean traditional artifacts and contemporary national and international artists, as well as frequent temporary exhibitions. Coming up the street, you can see all three buildings at once: Koolhaas's glass and concrete blocks, Nouvel's black metal boxes and Botta's terra-cotta cylinder. In front of it all an elevated sculpture garden, at the time of my visit housing huge reflective sculptures by Anish Kapoor.
 
@@ -82,7 +79,7 @@ Museum 2 was by far my favorite. Designed by Nouvel, it houses various works fro
 
 Koolhaas building is undeniably his. Housing the Samsung Child Education & Culture Center, it is large space with tall concrete columns and a glass facade, housing another smaller volume, rendered in beautiful black concrete, and all exhibition areas occupying the spaces in-between. A wide diversity of surfaces and volumes allowing for a large variety of uses. At the time of my visit, a temporary exhibition from Olafur Eliasson showcased not only great art but also the flexibility of that space.
 
-<image-gallery tag="leeum-gallery" />
+<image-gallery folder="guides/seoul/" :imgs="['leeum-1', 'leeum-2', 'leeum-3']" />
 
 ### Visit
 
@@ -92,9 +89,9 @@ The garden is open and free to visit, and chances are you’ll be able to see on
 
 ## Ewha Womans University - Dominique Perrault
 
-This a marvelous building, probably my favorite in Seoul. "Building", "landscape", "sculpture", all names fit this work by Dominique Perrault. It invites you in many ways, its scale grows and shrinks as you traverse its spaces. Another building that deserves its own post. Go check it out: [Ewha Womans University: the unique work of Dominique Perrault in Seoul](http://theforeignarchitect.com/ewha-womans-university-perrault/)
+This a marvelous building, probably my favorite in Seoul. "Building", "landscape", "sculpture", all names fit this work by Dominique Perrault. It invites you in many ways, its scale grows and shrinks as you traverse its spaces. Another building that deserves its own post. Go check it out: **[Ewha Womans University: the unique work of Dominique Perrault in Seoul](http://theforeignarchitect.com/ewha-womans-university-perrault/)**
 
-<captioned-image alt="Ewha Womans University" caption="Ewha Womans University's central valley" imgFile="v1552501455/guides/seoul/Ewha-Womans-University-17-1.jpg"/>
+<captioned-image alt="Ewha Womans University" caption="Ewha Womans University's central valley" imgFile="guides/seoul/Ewha-Womans-University-17-1.jpg"/>
 
 ### Visit
 
@@ -106,7 +103,7 @@ It is a university, but open to the city. There are no closed gates or identity 
 
 I am not a fan of malls, but this one, designed by South Korean architects GA.A, is one of the few malls that I truly like.
 
-<captioned-image alt="Ssamziegil Mall" caption="Ssamziegil Mall's courtyard" imgFile="v1552501528/guides/seoul/Ssamgiezil-1-595x892.jpg" format="v"/>
+<captioned-image alt="Ssamziegil Mall" caption="Ssamziegil Mall's courtyard" imgFile="guides/seoul/Ssamgiezil-1-595x892.jpg" format="v"/>
 
 To start with, it is located in Insadong, where one of my favorite pedestrian streets connects with many small little alleys full of shops, cafes and street food. The mall works with that and recognizes the importance of this street life by creating an alley that continues from the street all the way up the building. It spirals up around a large courtyard, passing along small shops and ending on the rooftop area, where gardens, resting spaces, and coffee shops create a bustling public space.
 
@@ -118,7 +115,7 @@ It is very a very popular and unique little mall. There is always something goin
 
 ## Samsung Jong-ro Tower - Rafael Vinoly
 
-<captioned-image alt="Jongro Tower" caption="The Jongro Tower visible in a small alley in Insadong" imgFile="v1552501659/guides/seoul/161210-124949-KR-Seoul.jpg" format="v"/>
+<captioned-image alt="Jongro Tower" caption="The Jongro Tower visible in a small alley in Insadong" imgFile="guides/seoul/161210-124949-KR-Seoul.jpg" format="v"/>
 
 The Jong-ro Tower is a classic I still did not go visit. It is also a bizarre tower: three sections, one triangular base, one rectangular mid-section, and a large ring at the top, connected by three exposed elevator cores. But it somehow fits perfectly to its context and to the idea we westerners have of neon-lit futuristic big Asian capitals.
 
@@ -132,7 +129,7 @@ You can reach the tower by subway, Jonggak Station (Line 1, Exit 3). The top rin
 
 Since I first saw plans for this project I was very curious to see how it would turn out. Unfortunately, it became one of those projects that are so over the top and complicated, that you are left wondering “why?”.
 
-<captioned-image alt="The Seoul City Hall" caption="Seoul City Hall" imgFile="v1552501738/guides/seoul/161210-100250-KR-Seoul.jpg"/>
+<captioned-image alt="The Seoul City Hall" caption="Seoul City Hall" imgFile="guides/seoul/161210-100250-KR-Seoul.jpg"/>
 
 The idea is interesting. Adding a building that works as an extension to the public square in front of it, respecting the existing Old City hall building and embracing it in a transparent swooping gesture. But the result is just a very wacky building. From a glance, it is impressive, but at closer inspection, it reveals itself as a mess of structure and patterns. The bulging front facade has such a massive space frame holding it up that, from the inside, it is the only thing you can see. Add to it the geometric patterns on the side facades, or the oval object at the top sticking out, and it is all very confusing. Such an important site and program, and such an interesting idea, messed up by technical restrictions and bad execution. Another missed opportunity.
 
@@ -150,7 +147,7 @@ Try to pass by it on your way to somewhere else, but do not make it a destinatio
 
 This is another building that was not there when I first came to Seoul in 2009, so I looking forward to seeing what came to be of the famous competition for the Museum of Modern and Contemporary Art.
 
-<captioned-image alt="Modern Museum of Contemporary Art" caption="Modern Museum of Contemporary Art" imgFile="v1552501800/guides/seoul/161210-110628-KR-Seoul.jpg"/>
+<captioned-image alt="Modern Museum of Contemporary Art" caption="Modern Museum of Contemporary Art" imgFile="guides/seoul/161210-110628-KR-Seoul.jpg"/>
 
 In its prominent site right next to the Gyeongbokgung Palace, the MMCA is wonderful. The building starts on the brick-facade of the old Defense Security Command, renovated and standing proud as the memory of the site. What seems like a small gallery museum, opens up to reveal large exhibition halls spread on the site. But the architect’s accomplishment is that they do not feel huge. A lot of it is underground, and the friendly scale of the elements above ground fits so well within the context of its historic neighborhood. A public path lets you cross the museum site, along which courtyards open up to reveal the buildings inner workings, as well as historical buildings preserved on the site. The change of scales, directions, and elevations of this public path offers a great way to experience the building and its surroundings.
 
@@ -166,7 +163,7 @@ A lot of it is freely accessible. The entrance building houses shops, through wh
 
 ## Kukje Gallery 3 - SO-IL
 
-<captioned-image alt="Kukje Gallery 3 in Seoul" caption="" imgFile="v1554191535/guides/seoul/289256.jpg"/>
+<captioned-image alt="Kukje Gallery 3 in Seoul" caption="" imgFile="guides/seoul/289256.jpg"/>
 
 The Samcheong-ro neighborhood is very popular in Seoul due to its old-style houses lining up its small streets and alleys, full of cafes, shops, and galleries. Chances are you’ll eventually stumble upon some interesting exhibitions around the area. On my visit, I had a list ready, had reserved a whole morning to do some gallery hopping, only to find them all either closed or changing exhibitions. The Kukje Gallery 3 gathered a lot of attention online when pictures of its simple white body wrapped in a metal fabric made their way into popular architecture websites. So I was curious to go take a peek. Unfortunately, also closed. It is one of three buildings which compose Kukje Gallery, and it was the only one not open. Tucked behind the parking lot of Kukje, it was also quite tricky to find.
 
@@ -182,11 +179,11 @@ You cannot see it from the street, as it is hidden behind a building. But follow
 
 The Chungha Building was another one hard to find. We used it as facade reference for a recent project, so I was quite curious to see how it looked in person.
 
-<captioned-image alt="Chungha Building" caption="© Kyungsub Shin" imgFile="v1552501901/guides/seoul/0_MVRDV.jpg"/>
+<captioned-image alt="Chungha Building" caption="© Kyungsub Shin" imgFile="guides/seoul/0_MVRDV.jpg"/>
 
 MVRDV’s job was to renovate an existing commercial building which, among its newer fancy luxurious brands stores, was out of place on the chic and expensive Apgujung Road. They accomplished it by creating these large windows with thick soft frames, jutting out of the building body. At night, LED lights illuminate the windows giving the building a fresh and contemporary appearance.
 
-<captioned-image alt="Chungha Building" caption="Chungha Building's windows" imgFile="v1552501971/guides/seoul/161211-150145-KR-Seoul.jpg"/>
+<captioned-image alt="Chungha Building" caption="Chungha Building's windows" imgFile="guides/seoul/161211-150145-KR-Seoul.jpg"/>
 
 I was most impressed by the materials. The walls look like smooth plaster from afar, but upon closer inspection, it reveals a mosaic glossy texture, which is also repeated in the window glass panels. It all contributes to turning it into a fun modern building, much more interesting than all its too-cool-to-be-true neighbors.
 
@@ -200,7 +197,7 @@ The Apgujung Road is an 8-lane avenue lined with luxury big name shops. You can 
 
 Another fantastic tower by MASS Studies. As in the S-Trenue tower, the architects tried to combine developer wishes and planning regulations into something creative and original. By removing chunks of what would be a simple c-shaped extruded tower, they created voids throughout the building that serve as gardens and light wells for its occupants.
 
-<captioned-image alt="Boutique Monaco" caption="© MASS Studies" imgFile="v1552502036/guides/seoul/monaco-007.jpg" format="v"/>
+<captioned-image alt="Boutique Monaco" caption="© MASS Studies" imgFile="guides/seoul/monaco-007.jpg" format="v"/>
 
 Additionally, they escaped from the simple floorplan repetitions and developed 49 different typologies of apartments combined in varied ways to complete 172 units. It's a building that never gets boring.
 
@@ -214,15 +211,15 @@ The building is placed on top of a commercial plinth open to the public. I have
 
 Seoul’s first super tall, KPF’s Lotte tower is a 555m tall building located in Gangam. Its shape is quite unique, if not a little weird: it looks like a corn ear, half-open, or like a large rocket ready to take off. Add to that the funny-looking split tip, and you have a one-of-a-kind skyscraper.
 
-<captioned-image alt="Lotte World Tower" caption="© Kohn Pedersen Fox Associates PC" imgFile="v1552502135/guides/seoul/Lotte_World_Tower_hero.jpg"/>
+<captioned-image alt="Lotte World Tower" caption="© Kohn Pedersen Fox Associates PC" imgFile="guides/seoul/Lotte_World_Tower_hero.jpg"/>
 
 Surrounding it, another gigantic shopping mall, over six floors of shops and restaurants, half of it just for luxury goods. Unless you are into this kind of stuff, just skip it. At first, I thought the tower was only accessible through the mall, for me a huge disappointment. But, to my surprise, it stands mostly free. Instead of approaching it through the mall, you can approach it by the opposite side along a lake, a much more suitable setting for such a scale.
 
-<captioned-image alt="Lotte World Tower" imgFile="v1552502206/guides/seoul/lotte-2.jpg"/>
+<captioned-image alt="Lotte World Tower" imgFile="guides/seoul/lotte-2.jpg"/>
 
 At the time of my visit, it was still not finished, so no visiting allowed. But I believe its future observatory at almost 500m height will be a must-visit destination in Seoul, competing to the Namsan Tower as the best view in town.
 
-<image-gallery tag="lotte-gallery" />
+<image-gallery folder="guides/seoul/" :imgs="['lotte-1', 'lotte-4', 'lotte-3']" />
 
 ### Visit
 
@@ -232,7 +229,7 @@ The tower is set to open in April 2017. The top ten stories of the building are 
 
 ## 63 Building (Korea Life Insurance Building) - SOM
 
-<captioned-image alt="63 Building" caption="© Jirka Matousek" imgFile="v1552502282/guides/seoul/63.Building.original.6158.jpg"/>
+<captioned-image alt="63 Building" caption="© Jirka Matousek" imgFile="guides/seoul/63.Building.original.6158.jpg"/>
 
 The first skyscraper in Seoul, the 63-Building is quite striking in its 80’s aesthetics, with a shiny golden facade and sleek skirt shape. At 250m, it used to be the tallest building in South Korea, completed in 1985 as a symbol for the 1988 Olympics in Seoul.
 
@@ -244,7 +241,7 @@ The top floors are public, containing what is said to be the highest art gallery
 
 ## S-Trenue Tower - MASS Studies
 
-<captioned-image alt="S-Trenue Tower" caption="S-Trenue Tower © Yong-Kwan Kim" imgFile="v1552502363/guides/seoul/stringio.jpg" format="v"/>
+<captioned-image alt="S-Trenue Tower" caption="S-Trenue Tower © Yong-Kwan Kim" imgFile="guides/seoul/stringio.jpg" format="v"/>
 
 The S-Trenue is an exceptional tower. It escapes from the boring, overdone boxy highrise by being creative with how you deal with FAR and GFA requirements. Instead of building a low and chunky building, like most of its neighbors, MASS Studies designed a group of slender, slanted towers which lean on and off each other, creating gaps in between filled with green.
 
@@ -256,12 +253,14 @@ The tower is a mix of commercial, residential and office. The lower podium conta
 
 ## More...
 
-- Get a prepaid SIM card: in Seoul, you can purchase it at major convenience stores, Incheon airport or Korean mobile service provider stores (KT, SKT, LG). I got a 4G Unlimited from KT.
-- [CityMapper app](https://citymapper.com/apps): one of the best apps to help navigate public transport works really well in Seoul. It helps you find subway and bus routes and even tell you where to get o while you ride. [You can also use it online.](https://citymapper.com/seoul)
+- **Get a prepaid SIM card**: in Seoul, you can purchase it at major convenience stores, Incheon airport or Korean mobile service provider stores (KT, SKT, LG). I got a 4G Unlimited from KT.
+- **[CityMapper app](https://citymapper.com/apps)**: one of the best apps to help navigate public transport works really well in Seoul. It helps you find subway and bus routes and even tell you where to get o while you ride. [You can also use it online.](https://citymapper.com/seoul)
 - I tried to rent the Seoul city bikes and, after a long and messy registration process, I realized the bikes were unusable if you are taller than the average Korean population. The seats are really low and won’t extend enough. Not recommended.
-- There are many other resources online for you to make the best of Seoul. These are two of my favorites:
-  - [**Seoul Travel Guide for Food Lovers**](https://migrationology.com/travel-guides/seoul-korea/) Written by Mark Wiens at [Migrationology](https://migrationology.com), whose food tips are always on the spot.
-  - **[Explore Parts Unknown: Korea](https://explorepartsunknown.com/destination/korea/)** My favorite traveler Anthony Bourdain once did a great episode of his show Parts Unknown in Korea. This is the accompanying article and it is great.
+
+There are many other resources online for you to make the best of Seoul. These are two of my favorites:
+
+- **[Seoul Travel Guide for Food Lovers](https://migrationology.com/travel-guides/seoul-korea/)** Written by Mark Wiens at [Migrationology](https://migrationology.com), whose food tips are always on the spot.
+- **[Explore Parts Unknown: Korea](https://explorepartsunknown.com/destination/korea/)** My favorite traveler Anthony Bourdain once did a great episode of his show Parts Unknown in Korea. This is the accompanying article and it is great.
 
 <mc-get-guide-form guide="Seoul"/>
 
