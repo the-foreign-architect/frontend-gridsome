@@ -14,7 +14,7 @@
           </p>
         </div>
           <div class="w-full md:w-2/3 xl:w-full">
-            <blog-grid :posts="$page.blog.edges" :show-excerpt="true"/>
+            <blog-grid :posts="$page.posts.edges" :show-excerpt="true"/>
           </div>
       </div>
     </section>
@@ -22,7 +22,7 @@
 </template>
 <page-query>
   query {
-    blog: allBlog (limit:10){
+    posts: allPost (limit:20){
       edges {
         node {
           id
@@ -30,6 +30,7 @@
           excerpt
           coverImage (width: 300, height: 200, quality: 90)
           date
+          path
         }
       }
     }

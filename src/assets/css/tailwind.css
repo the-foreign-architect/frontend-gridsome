@@ -90,4 +90,16 @@ a.white-link, a.white-link:hover {
 
 }
 
+.content-page p, .content-page h2, .content-page h3 {
+  @apply mb-4;
+}
+
+.content-page h2 {
+  @apply font-bold text-2xl;
+}
+
+blockquote {
+  @apply italic text-lg border-l-2 border-black pl-4 my-8;
+}
+
 @tailwind utilities;

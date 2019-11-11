@@ -136,15 +136,13 @@ query {
     edges {
       node {
         id
-        title
-        excerpt
         city
         coverImage (width: 500, height: 500, quality: 90)
         path
       }
     }
   }
-  blog: allBlog (limit:4){
+  blog: allPost (limit:4){
     edges {
       node {
         id
@@ -152,6 +150,7 @@ query {
         excerpt
         coverImage (width: 300, height: 200, quality: 90)
         date
+        path
       }
     }
   }
@@ -183,6 +182,16 @@ export default {
   grid-gap: 1rem;
 }
 @screen sm {
+  .guide-grid, .blog-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@screen md {
+  .guide-grid, .blog-grid {
+    grid-template-columns: 1fr;
+  }
+}
+@screen lg {
   .guide-grid, .blog-grid {
     grid-template-columns: repeat(2, 1fr);
   }
