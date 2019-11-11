@@ -17,7 +17,7 @@ In my quest to visit **tall buildings** all over the world, there was one on top
 
 ## The Burj Khalifa
 
-<captioned-image alt="The Burj Khalifa in Dubai: the tallest of all" caption="The Burj Khalifa in Dubai: the tallest of all" imgFile="v1553069886/blog/170212-burj-khalifa/Burj-Khalifa-Dubai-1.jpg" />
+<captioned-image alt="The Burj Khalifa in Dubai: the tallest of all" caption="The Burj Khalifa in Dubai: the tallest of all" imgFile="/blog/170212-burj-khalifa/Burj-Khalifa-Dubai-1.jpg" :blog="true"/>
 
 The Burk Khalifa is a marvel of architecture and engineering. Designed by [SOM](http://www.som.com/), it stands at **828 m tall** (163 floors). It is 196 m higher than the second tallest in the world, the **Shanghai Tower**. It should guarantee its top position until at least 2020 when the 1000m-high **Jeddah Tower** is planned to top-off. Until then it is still on top and is a must-visit for any architect interested in high-rises.
 
@@ -35,13 +35,13 @@ When I visited, I got the Sky ticket, but next time I would stick to the cheaper
 
 After one whole day driving around Dubai, I arrived at the Dubai Mall one hour before my visit. Not a friend of malls, but a friend of mega-buildings, I also wanted to take a look at "the largest mall in the world." Boring as hell, by the way, just a large shopping mall, nothing special. The entrance to the tower is at the mall, somewhere in the ground floor level. It was a bit disappointing to reach such a huge building via another huge building, which reinforced my distaste for towers on top of large plinths.
 
-<captioned-image alt="A gigantic mall on the base of a gigantic building" caption="A gigantic mall on the base of a gigantic building" imgFile="v1553069886/blog/170212-burj-khalifa/Burj-Khalifa-Dubai-11.jpg" />
+<captioned-image alt="A gigantic mall on the base of a gigantic building" caption="A gigantic mall on the base of a gigantic building" imgFile="/blog/170212-burj-khalifa/Burj-Khalifa-Dubai-11.jpg" :blog="true"/>
 
 ## Enjoy the elevator rides
 
 I was able to quickly alleviate the stress of the Dubai Mall at the observatory reception process. A group of around 20 people (all booked at the same time, I reckon) were directed to a room with plush sofas, served tea and Arabian snacks, and given a brief explanation of what was about to happen.
 
-<captioned-image alt="Waiting lounge to go up the tower: tea and dates" caption="Waiting lounge to go up the tower: tea and dates" imgFile="v1553070403/blog/170212-burj-khalifa/IMG_2711.jpg" />
+<captioned-image alt="Waiting lounge to go up the tower: tea and dates" caption="Waiting lounge to go up the tower: tea and dates" imgFile="/blog/170212-burj-khalifa/IMG_2711.jpg" :blog="true" format="v"/>
 
 Then we were led to the elevators, non-stop taking a few minutes to reach level 148. There were the usual fancy elevator displays you find in most tall observation decks, but nothing memorable as all we wanted to see was the view from above.
 
@@ -49,7 +49,7 @@ Then we were led to the elevators, non-stop taking a few minutes to reach level 
 
 At arrival on floor 148, we were greeted by another drink and more snacks. Then you finally see it: Dubai from above.
 
-<captioned-image alt="The first view at 555m: Sheikh Zayed Road skyscrapers and Foster's Index Tower in the foreground" caption="The first view at 555m: Sheikh Zayed Road skyscrapers and Foster's Index Tower in the foreground" imgFile="v1553069886/blog/170212-burj-khalifa/Burj-Khalifa-Dubai-9.jpg" />
+<captioned-image alt="The first view at 555m: Sheikh Zayed Road skyscrapers and Foster's Index Tower in the foreground" caption="The first view at 555m: Sheikh Zayed Road skyscrapers and Foster's Index Tower in the foreground" imgFile="/blog/170212-burj-khalifa/Burj-Khalifa-Dubai-9.jpg" :blog="true" format="v"/>
 
 The view in the first room is to the north, where you can see Sheikh Zayed Road lined with Dubai's first skyscrapers (including Fosters+Partners magnificent Index Tower). The airport is visible to the northeast, beyond the Dubai Creek. To the east, you can see the desert, and to the west, the sea. The islands composing the famous artificial archipelago The World are barely visible on the horizon. This room, however, was indoors, and the window space was quite disputed, its reflections not helping our frantic photo-taking. Time to move on.
 
@@ -57,15 +57,14 @@ The view in the first room is to the north, where you can see Sheikh Zayed Road 
 
 On the lower level 124 (452 m), however, was the real gem: an outdoor observation deck, where we could finally have unobstructed views of the city. And oh, the view was **fantastic**. Right down, the houses and hotel around the Dubai Fountain looked like a realistic scale model. Southwest, the Burj Al Arab standing on the water did look like the sails of a ship starting off-shore. Further south, The Palm was visible spreading its leaves on the sea, right next to the pinnacles at the Dubai Marina.
 
-<captioned-image alt="Directly below us: the Dubai Fountain and Lake and surrounding buildings (the tall tower on the left is the infamous The Address which caught fire in 2015 and still undergoing repairs)" caption="Directly below us: the Dubai Fountain and Lake and surrounding buildings (the tall tower on the left is the infamous The Address which caught fire in 2015 and still undergoing repairs)" imgFile="v1553069886/blog/170212-burj-khalifa/Burj-Khalifa-Dubai-12.jpg" />
+<captioned-image alt="Directly below us: the Dubai Fountain and Lake and surrounding buildings (the tall tower on the left is the infamous The Address which caught fire in 2015 and still undergoing repairs)" caption="Directly below us: the Dubai Fountain and Lake and surrounding buildings (the tall tower on the left is the infamous The Address which caught fire in 2015 and still undergoing repairs)" imgFile="/blog/170212-burj-khalifa/Burj-Khalifa-Dubai-12.jpg" :blog="true"/>
 
 In between all this, city and roads. Dubai is much larger than I expected, the roads are broad and long, the lower neighborhoods are vast. Then came in the fog. The famous Dubai fog. How lucky we were, to see the whole scenery transformed by this fog coming from the sea. Suddenly we only saw the tops of most buildings, all surrounded by this smoke made golden by the setting sun.
 
-<captioned-image alt="Dubai fog at sunset" caption="Dubai fog at sunset" imgFile="v1553069886/blog/170212-burj-khalifa/Burj-Khalifa-Dubai-24.jpg" />
+<captioned-image alt="Dubai fog at sunset" caption="Dubai fog at sunset" imgFile="/blog/170212-burj-khalifa/Burj-Khalifa-Dubai-24.jpg" :blog="true"/>
 
 By nightfall, the fog had dissipated a bit and, when the lights came on, another spectacle. The wide roads were constantly moving, and the twinkling lights of all the houses and building made it all look like a cleaner version of Blade Runner. It was breath-taking. Down the foot of the towers, we could see the dancing fountains start the first show of the night. After a couple of minutes, we decided it was time to say goodbye to the scenery and take a look at those.
 
-<image-gallery tag='burj-khalifa-gallery' />
 
 ## Check the exhibition at the exit
 
@@ -75,4 +74,8 @@ On our way down, another surprise: an **exhibition about the design and construc
 
 On the way out, a quick look at the little **dancing fountains show**, which is also quite nice. A last look up, the tower fully illuminated. The pundits can say all they want, waste of money, unnecessary display o wealth, it does not matter. It is still a magnificent piece of engineering and architecture that deserves to be experienced by everyone. **If there is one thing you do in Dubai, let it be a visit to the Burj Khalifa.**
 
-<captioned-image alt="Burj Khalifa at night" caption="Burj Khalifa at night" imgFile="v1553069886/blog/170212-burj-khalifa/Burj-Khalifa-Dubai-46.jpg" />
+<captioned-image alt="Burj Khalifa at night" caption="Burj Khalifa at night" imgFile="/blog/170212-burj-khalifa/Burj-Khalifa-Dubai-46.jpg" :blog="true" format="v"/>
+
+<building-info-container id=53 />
+
+<image-gallery folder="/blog/170212-burj-khalifa/" prefix="burj" :num-images="22"/>

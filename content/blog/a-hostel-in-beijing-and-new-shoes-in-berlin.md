@@ -16,11 +16,11 @@ This week was crazy busy at work. It started well with a good amount of tasks to
 
 ## Cool projects
 
-<captioned-image alt="Xiezuo Hutong Capsule Hotel in Beijing / B.L.U.E. Architecture Studio" caption="Xiezuo Hutong Capsule Hotel in Beijing / B.L.U.E. Architecture Studio" imgFile="v1553066204/blog/180128/batch___DSC5322.jpg" />
+<captioned-image alt="Xiezuo Hutong Capsule Hotel in Beijing / B.L.U.E. Architecture Studio" caption="Xiezuo Hutong Capsule Hotel in Beijing / B.L.U.E. Architecture Studio" imgFile="/blog/180128/batch___DSC5322.jpg" :blog="true"/>
 
 As I write the guide to **Beijing’s Architecture**, I always keep an eye for new buildings in the city. [This hostel ](https://www.archdaily.com/886515/xiezuo-hutong-capsule-hotel-in-beijing-blue-architecture-studio)(or “capsule hotel”, as they call it), from B.L.U.E. Architecture Studio, occupies two courtyard homes in Beijing’s old hutongs, and is a charm. Very simple and well executed, a mixture of clean Scandinavian design and rough Chinese brickwork. Very different from the dirty hostels from my backpacking time!
 
-<captioned-image alt="Dornbirn’s Exhibition Center" caption="Dornbirn’s Exhibition Center" imgFile="v1553066201/blog/180128/zumtobel-lighting-sustainable-austria-promotions_dezeen_2364_col_6.jpg" />
+<captioned-image alt="Dornbirn’s Exhibition Center" caption="Dornbirn’s Exhibition Center" imgFile="/blog/180128/zumtobel-lighting-sustainable-austria-promotions_dezeen_2364_col_6.jpg" :blog="true"/>
 
 I was very impressed by [ Faruk Pinjo’s photos](https://www.dezeen.com/2018/01/17/promotion-zumtobel-led-lighting-messe-dornbirn-exhibition-centre-marte-marte-architects/) of **Dornbirn’s Exhibition Center**. Having recently designed an exhibition center for a competition, I know how hard it is to make these spaces simple and functional, as well as beautiful and inspiring. [Studio Marte.Marte](http://www.marte-marte.com/) did just that, with their mix of black and red to a very dramatic effect.
 
@@ -34,11 +34,11 @@ I was very impressed by [ Faruk Pinjo’s photos](https://www.dezeen.com/2018/0
 
 ## Fashion?
 
-<captioned-image alt="Koolhaas’s bulletproof vest style bag" caption="Koolhaas’s bulletproof vest style bag" imgFile="v1553066211/blog/180128/original.jpg" />
+<captioned-image alt="Koolhaas’s bulletproof vest style bag" caption="Koolhaas’s bulletproof vest style bag" imgFile="/blog/180128/original.jpg" :blog="true"/>
 
 It would probably be quite an interesting project to participate in. Rem Koolhaas, Herzog & De Meuron, the Bouroullec brothers, and Konstantin Grcic, [designed pieces for Prada’s 2018 fall menswear collection](https://archpaper.com/2018/01/koolhaas-herzog-meuron-industrial-pradas/). Black nylon was the material and “industrial” was the keyword. I am not a fan of luxury brands such as Prada, but I love the result, especially Koolhaas’s bulletproof vest style bag, picture above.
 
-<captioned-image alt="Adidas collaborationg with the Berliner BVG" caption="Adidas collaborationg with the Berliner BVG" imgFile="v1553066200/blog/180128/adidas-trainers-bvg-collaboration-eqt-support-93-berlin-fashion-_dezeen_hero1-852x479.jpg" />
+<captioned-image alt="Adidas collaborationg with the Berliner BVG" caption="Adidas collaborationg with the Berliner BVG" imgFile="/blog/180128/adidas-trainers-bvg-collaboration-eqt-support-93-berlin-fashion-_dezeen_hero1-852x479.jpg" :blog="true"/>
 
 The design details in Berlin’s vast subway system are an infinite source of amazement. From the [wonderful signage](http://endbahnhof.tumblr.com/) to the [mildly-infuriating window decals](https://withberlinlove.com/2016/01/13/berlin-u-bahn-windows-wonky-brandenburg-gate-graphics/), one would never imagined they would become a coveted fashion accessory. **Adidas** released new shoes featuring the same **camouflage pattern** used in the city’s train seats, with an sewed-in annual transit pass. It drew huge crowds which [queued for days to get a pair](https://www.thelocal.de/20180116/hundreds-of-berliners-line-up-for-shoe-with-annual-transit-ticket-sewn-into-it), but mostly because of its price: 180€ for a pair of shoes containing a 728€ train ticket. --
 
@@ -46,6 +46,6 @@ The design details in Berlin’s vast subway system are an infinite source of am
 
 ## I want
 
-<captioned-image alt="Brutalist wallpaper mural" caption="" imgFile="v1553066199/blog/180128/Brutalist-Welbeck-Street-WEBSITE-CHAIR-820x532.jpg" />
+<captioned-image alt="Brutalist wallpaper mural" caption="" imgFile="/blog/180128/Brutalist-Welbeck-Street-WEBSITE-CHAIR-820x532.jpg" :blog="true"/>
 
 [This wallpaper collection](https://www.dezeen.com/2018/01/12/brutalist-architecture-concrete-wallpaper-murals-design/) (real wallpapers, for your wall, not your screen) left me drooling. **Concrete** all over it, looks great with those beautiful chairs and will look great in my apartment as well.
