@@ -8,7 +8,6 @@ excerpt: This week, Product Hunt delivered their awards, Babish delighted us wit
 coverImage: ./_imgs/golden-kitties-views-above.jpg
 ---
 import CaptionedImage from '~/components/CaptionedImage.vue'
-import BuildingInfoContainer from '~/components/BuildingInfoContainer.vue'
 import Divider from '~/components/ImageGallery.vue'
 import VideoPlayer from '~/components/VideoPlayer.vue'
 
@@ -34,7 +33,7 @@ Of the many Youtube channels I follow, **[Binging with Babish](https://www.youtu
 
 ## [Looking Down at the Decks of Massive Cruise Ships](http://www.slate.com/blogs/behold/2015/05/19/jeffrey_milstein_photographs_cruise_ships_in_his_series_cruise_ships.html)
 
-<captioned-image alt="Caribbean Princess Cruise Ship from above" caption="© Jeffrey Milstein" imgFile="/blog/180204/Caribbeanprincess.jpg.CROP_.original-original.jpg" :blog="true"/>
+<captioned-image alt="Caribbean Princess Cruise Ship from above" caption="© Jeffrey Milstein" imgFile="/blog/180204/Caribbeanprincess.jpg" :blog="true"/>
 
 I am a sucker for aerial photos. Be it from a satellite or a little drone, they never cease to amaze me. I have even been trying a bit with it since I got my drone last year. So much fun. [This series](http://www.slate.com/blogs/behold/2015/05/19/jeffrey_milstein_photographs_cruise_ships_in_his_series_cruise_ships.html) from photographer [Jeffrey Milstein](http://jeffreymilstein.com/) shows huge cruise ships from above. I love how symmetrical and neat and small they all seem from up above, in contrast to the big mass of corridors and decks and people they really are.
 
