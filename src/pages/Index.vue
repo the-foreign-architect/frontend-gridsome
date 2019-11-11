@@ -47,7 +47,7 @@
         Musings about architecture and travel.
       </template>
       <template #content>
-        <blog-grid :posts="$page.blog.edges"/>
+        <blog-grid :posts="$page.blog.edges" :show-excerpt="true"/>
       </template>
     </home-section>
 
