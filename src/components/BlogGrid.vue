@@ -1,12 +1,13 @@
 <template>
   <div class="grid blog-grid">
     <div v-for="{node} in posts" :key="node.id"
-      class="border-2 border-black flex items-center"
+      class="border-2 border-black flex"
     >
-      <g-image :src="node.coverImage" class="w-24 h-24 lg:h-32 lg:w-32 xl:w-48 xl:h-48"/>
-      <div class="px-4 sm:pr-6">
+      <g-image :src="node.coverImage" class="w-24 min-height object-cover object-center  lg:w-32 xl:w-48"/>
+      <div class="p-4 sm:pr-6">
         <p class="text-xs uppercase">{{node.date | formatDate("dd.MMM")}}</p>
         <h3 class="font-bold leading-none">{{node.title}}</h3>
+        <p v-if="showExcerpt" class="text-sm leading-tight pt-2">{{node.excerpt}}</p>
       </div>
     </div>
   </div>
@@ -20,10 +21,26 @@
         type: Array,
         required: true
       },
+      showExcerpt: {
+        type: Boolean,
+        default: false
+      }
     },
   }
 </script>
 
-<style lang="scss" scoped>
-
+<style scoped>
+.min-height {
+  min-height: 6rem;
+}
+@screen lg {
+  .min-height {
+    min-height: 8rem;
+  }
+}
+@screen xl {
+  .min-height {
+    min-height: 12rem;
+  }
+}
 </style>
