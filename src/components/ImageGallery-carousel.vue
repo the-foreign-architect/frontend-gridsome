@@ -1,21 +1,16 @@
 <template>
   <div class="full-width px-4">
-      <div class="max-w-4xl mx-auto mb-8" >
-        <client-only>
-          <masonry
-            :cols="{default: maxNumCols, 1024: maxNumCols,  768: maxNumCols, 640: 2, 375: 1}"
-            :gutter="0"
-          >
-            <div v-for="(item, index) in imgUrls" :key="index" class="py-1 sm:px-1">
-              <img :src="`${item}?w=600`" loading="lazy" class="border-2 border-black"/>
-            </div>
-          </masonry>
-        </client-only>
-      </div>
+    <div class="max-w-4xl mx-auto mb-8" >
+      <ClientOnly>
+        <carousel :images="imgUrls"/>
+      </ClientOnly>
+    </div>
   </div>
 </template>
 
 <script>
+
+import Carousel from '~/components/Carousel'
 
 export default {
   name: 'ImageGallery',
@@ -32,6 +27,9 @@ export default {
       type:Number,
       default: 0
     }
+  },
+  components: {
+    Carousel
   },
   computed: {
     maxNumCols() {
