@@ -79,7 +79,7 @@ Museum 2 was by far my favorite. Designed by Nouvel, it houses various works fro
 
 Koolhaas building is undeniably his. Housing the Samsung Child Education & Culture Center, it is large space with tall concrete columns and a glass facade, housing another smaller volume, rendered in beautiful black concrete, and all exhibition areas occupying the spaces in-between. A wide diversity of surfaces and volumes allowing for a large variety of uses. At the time of my visit, a temporary exhibition from Olafur Eliasson showcased not only great art but also the flexibility of that space.
 
-<image-gallery folder="guides/seoul/" :imgs="['leeum-1', 'leeum-2', 'leeum-3']" />
+<image-gallery folder="guides/seoul/" prefix="leeum" :num-imgs="3" />
 
 ### Visit
 
@@ -219,7 +219,7 @@ Surrounding it, another gigantic shopping mall, over six floors of shops and res
 
 At the time of my visit, it was still not finished, so no visiting allowed. But I believe its future observatory at almost 500m height will be a must-visit destination in Seoul, competing to the Namsan Tower as the best view in town.
 
-<image-gallery folder="guides/seoul/" :imgs="['lotte-1', 'lotte-4', 'lotte-3']" />
+<image-gallery folder="guides/seoul/" prefix="lotte" :imgs="3" />
 
 ### Visit
 

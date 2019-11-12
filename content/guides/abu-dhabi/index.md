@@ -59,7 +59,7 @@ In reality, only a tiny percentage of that is now standing (around 300,000sqm of
 
 I came in by taxi, so I just asked the driver to drop me off at the **Siemens Building**. It seems to be an entrance point to the compound. I was there for about 2 hours, walking around all streets and getting into some buildings by myself (mostly to the lobbies or stairwells). There are several cafes and some restaurants, so it seems to be a good place for a **quick lunch** or breakfast. I did not find any visitor center for more information and forgot to check the electric autonomous vehicles in the basement.
 
-<image-gallery folder="/guides/abu-dhabi/" :imgs="['masdar-01', 'masdar-02', 'masdar-03', 'masdar-04', 'masdar-05', 'masdar-06', 'masdar-07', 'masdar-08', 'masdar-09', 'masdar-10', 'masdar-11', 'masdar-12', 'masdar-13', 'masdar-14', 'masdar-15', 'masdar-16', 'masdar-17', 'masdar-18', 'masdar-19']"/>
+<image-gallery folder="/guides/abu-dhabi/" prefix="masdar" :num-imgs="19"/>
 
 <building-info-container id="86"/>
 
@@ -73,7 +73,7 @@ From Masdar, I took another taxi to **Yas Island**, to visit the building that p
 
 The hotel has several areas open to the public. You can take the elevator in the lobby of the circuit tower all the way to the **9th floor** to enjoy a view of the roof terrace and the **swimming pool**. Going back to the second floor, you can cross the bridge to the marina building, where another elevator can take you to another swimming pool on the 7th and 8th floors. This small tour offers you a glimpse of the interiors and a close-up of the Grid Shell structure, which is quite impressive. It also allows glances to the racing track below. I went on a cloudy morning, and the **dirt** accumulated on the white steel structure was obviously not that attractive. I believe the whole building livens up at night when the Grid Shell is illuminated. Or during the F1 season in November, obviously.
 
-<image-gallery folder="/guides/abu-dhabi/" :imgs="['yas-01', 'yas-02', 'yas-03', 'yas-04', 'yas-05']"/>
+<image-gallery folder="/guides/abu-dhabi/" prefix="yas" :num-imgs="5"/>
 
 <building-info-container id="87"/>
 
@@ -165,7 +165,7 @@ Check out the time-lapse of its construction below. Also, the pictures published
 
 Well, it is a shopping mall, so it is easy to visit and walk around. The terraces are also totally open, and you can access them directly from the street. The towers are closed, though, with only the lobby open to the public. It is one of the main stops of the Big Bus, and easily accessible also by taxis.
 
-<image-gallery folder="/guides/abu-dhabi/" :imgs="['wtc-01', 'wtc-02', 'wtc-03', 'wtc-04', 'wtc-05', 'wtc-06', 'wtc-07', 'wtc-08', 'wtc-09', 'wtc-10', 'wtc-11', 'wtc-12']"/>
+<image-gallery folder="/guides/abu-dhabi/" prefix="wtc" :num-imgs="12"/>
 
 <building-info-container id="94"/>
 

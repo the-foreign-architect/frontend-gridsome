@@ -139,7 +139,7 @@ Being on the Palm feels like being in a beachside town, one that is under heavy 
 
 When you reach the top of the Palm, so called “the Crescent," you’ll find the opulent Atlantis Hotel: an underwater-themed luxury resort, shopping malls, and several upscale restaurants, including outposts of famous international restaurants such as Nobu or Gordon Ramsay’s Bread Street. If the Atlantis is too much for you, 27 other hotel options (!) spread along the crescent for you to choose from. Although it is all pretty solid as a real island, I couldn’t help but feel the fakeness of it. How artificial those beaches were, or how lifeless the sea looked. The rocks had no seaweeds, or moss, or all the natural stuff that appear on regular shorelines. As much as I looked for it, I could not see one single fish in the waters. Many of the houses were empty and some even turning derelict. And despite all this, the construction continued on. My WTF-moments were then intensified when I learned that the Palm’s much larger sibling was also on full construction some kilometers down the shore. So much for lessons (not) learned.
 
-<image-gallery folder="/guides/dubai/" :imgs="['palm-01', 'palm-02']"/>
+<image-gallery folder="/guides/dubai/" prefix="palm" :num-imgs="2"/>
 
 ### Visit
 
@@ -153,7 +153,7 @@ Take the monorail at the bottom of the Palm's "stem" and ride it all the way to 
 
 The Dubai Marina is a mindblowing area of Dubai. From afar, it is like a bundle of skyscrapers, thin and super tall. From within, it is a whole world of beachfront, marina, boardwalks, skyscrapers, and lots of yachts. Opulence as expected from Dubai. However, most towers in the area are eye-sores, either tacky, arabesque-inspired buildings, or non-descript glass and stone blocks.
 
-<image-gallery folder="/guides/dubai/" :imgs="['cayan-01', 'cayan-02', 'cayan-03', 'cayan-04']"/>
+<image-gallery folder="/guides/dubai/" prefix="cayan" :num-imgs="4"/>
 
 
 The Cayan Tower, however, is unique. It is a simple move, immortalized by Calatrava in its Turning Torso building in Sweden, and taken to taller extremes in the latest Shanghai Tower: floor plan rotation along its height. The Cayman features square-shaped floor slabs rotated a full 90-degrees from base to tip. SOM uses both the views (bottom-half views to the marina, top-half views to the Gulf) and the wind (the twisted block “confuses” the wind) to justify the rotation.
@@ -222,7 +222,7 @@ After the winning a bid against Brazil, Turkey, and Russia back in 2013, Dubai w
 
 World expos are also a playground for architecture. Several iconic designs were displayed in past expos, and some remain, until today, as remarkable examples of breakthrough design ideas and techniques. The Eiffel Tower (1889), the Seattle Space Needle (1962), BIG's Danish Pavilion and Heatherwick's British Pavilion (2010), are just some of the most memorable and enduring examples. Dubai's 2020 Expo will certainly score high on the list of great world expos. A few designs were already unveiled to inhabit HOK's master plan, including **Foster + Partners Mobility Pavilion**, **BIG's Opportunity Pavilion**, and **Grimshaw's Sustainability Pavilion**.
 
-<image-gallery folder="/guides/dubai/" :imgs="['expo-01', 'expo-02', 'expo-03']"/>
+<image-gallery folder="/guides/dubai/" prefix="expo" :num-imgs="3"/>
 
 <back-to-top/>
 

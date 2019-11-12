@@ -49,7 +49,7 @@ This huge building right next to the Monastery of Jeronimos was built to host P
 
 It currently houses the [Berardo Museum of Modern and Contemporary Art](http://www.museuberardo.com/) with an incredible permanent collection and rotating exhibits. If you don’t fancy getting in, just walk around the outdoor areas and don’t miss the terrace overlooking the Monument for the Discoveries. For opening times, check the [General Information page](https://www.ccb.pt/Default/en/Homepage/GeneralInformation) at their website.
 
-<image-gallery folder="/guides/lisbon/" :imgs="['ccb-01', 'ccb-02', 'ccb-03']"/>
+<image-gallery folder="/guides/lisbon/" prefix="ccb" :num-imgs="3"/>
 
 <building-info-container id=17 />
 
@@ -75,7 +75,7 @@ As the architect puts it, the museum does not have a door and relates to all sid
 
 The Museum is composed of two buildings. The one mentioned in this article houses the permanent and temporary exhibitions, reception halls, a workshop for conservation and restoration, a gift shop, and a tourist information center. The original museum is located at the The Royal Riding School, which used to belong to the Royal Palace of Belém, currently the official residence of the President of the Republic. It can be visited as an exhibition nucleus of the National Coach Museum. For opening times and other information, take a look at the museum's [Visit page](http://museudoscoches.pt/en/visite/).
 
-<image-gallery folder="/guides/lisbon/" :imgs="['coches-01', 'coches-02', 'coches-03', 'coches-04', 'coches-05', 'coches-06']"/>
+<image-gallery folder="/guides/lisbon/" prefix="coches" :imgs="6"/>
 
 <building-info-container id=19 />
 

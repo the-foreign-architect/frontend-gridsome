@@ -46,7 +46,7 @@ toc
 If taking the train from the city center, your stop will be the Oriente Station, Calatrava's transport hub built for the Expo and serving as its arrival point. You’ll arrive at the upper level, covered by a translucent roof composed of a reticulated roof structure which gave the station its fame. It is beautiful, light and bright, a real welcoming gesture to the arriving passengers. The lower levels, however, impressed me the most. Composed of five identical concrete bridge structure, spanning a total of 80m wide and 260m long, these vaulted spaces are at the same time extremely contrasting to the lightness above and so fitting to the whole language of the building. The shapes formed by the symmetries in the structure curiously lead you through the spaces in a fluid and natural manner. Low ceiling corridors give way to great halls semi-enclosed under the station's structure.
 
 
-<image-gallery folder="/guides/lisbon/" :imgs="['oriente-01', 'oriente-02', 'oriente-03', 'oriente-04', 'oriente-05', 'oriente-06', 'oriente-07']"/>
+<image-gallery folder="/guides/lisbon/" prefix="oriente" :num-imgs="7"/>
 
 It is one of the busiest transportation hubs in Europe, providing intermodal access to subway, buses and trains, both short and long distances. It seems to do so, however, with minimum interference of its architecture.
 
@@ -58,7 +58,7 @@ It is one of the busiest transportation hubs in Europe, providing intermodal acc
 
 The jewel of the Expo site is this small building from Siza. I still remember seeing it for the first time in my student years: the thin and light roof hanging delicately from two massive porticoes, the surprise of learning it was not a cloth, but heavy concrete, done with such mastery and structural honesty. Now years later there I was, under that same roof. Pictures cannot describe how it feels like. It is a simple roof, yes, but you feel that at any moment the wind will blow and the whole thing will just fly away. Except it is motionless, solid as if frozen in time. Spaning 70 by 50 meters, its construction details are also beautiful, such as the bare steel cables connecting the roof to the side walls, or the asymmetric rhythm of each portico’s tile-covered columns.
 
-<image-gallery folder="/guides/lisbon/" :imgs="['pavilion-01', 'pavilion-03', 'pavilion-04']"/>
+<image-gallery folder="/guides/lisbon/" prefix="pavilion" :num-imgs="4"/>
 
 Done in collaboration with master engineer Cecil Balmond and fellow countryman Eduardo Souto de Moura, the Pavilion is considered one of Siza's masterpiece.
 
@@ -118,7 +118,7 @@ If you still have the energy, continue up north along the river, past the Vasco 
 
 The bridge itself it not exactly exciting, but its sheer scale is. Standing under it, you can better realize how massive such structures are, and the fact that the city made the space surrounding it into such a vibrant park is quite a wonderful.
 
-<image-gallery folder="/guides/lisbon/" :imgs="['vasco-01', 'vasco-02', 'vasco-03']"/>
+<image-gallery folder="/guides/lisbon/"  prefix="vasco" :num-imgs="3"/>
 
 Lots of people playing sports, skating, doing some yoga or just resting under the sun. It is a perfect place for a picnic or a beer enjoying the sunset.
 
