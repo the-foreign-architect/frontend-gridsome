@@ -29,9 +29,23 @@ query singlePage ($id: ID!) {
 </page-query>
 
 <script>
-  export default {
-
-  }
+export default {
+  metaInfo() {
+    return {
+      title: this.$page.singlePage.title,
+      meta: [
+        { key: "twitter:title",name: "twitter:title", content: this.$page.post.title },
+        { key: "og:title",name: "og:title", content: this.$page.post.title },
+        {
+          key: "article:published_time",
+          name: "article:published_time",
+          content: this.$page.post.date
+        },
+      ],
+      script: [{ src: "https://platform.twitter.com/widgets.js", async: true }]
+    };
+  },
+}
 </script>
 
 <style >

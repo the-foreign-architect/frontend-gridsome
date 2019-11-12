@@ -62,8 +62,42 @@ export default function(Vue, { router, head, isClient }) {
       return format(new Date(String(value)), dateFormat, { enUS });
     }
   });
-  /* head.link.push({
-    rel: 'stylesheet',
-    href: 'https://use.typekit.net/nyx7nxd.css',
-  }); */
+  head.meta.push({
+    key: 'og:description',
+    name: 'og:description',
+    content: `Contemporary architecture city guides. Travel for architecture.`,
+  });
+
+  head.meta.push({
+    key: 'twitter:description',
+    name: 'twitter:description',
+    content: `Contemporary architecture city guides. Travel for architecture.`,
+  });
+  head.meta.push({ key: 'author', name: 'author', content: 'Daniel da Rocha' });
+  head.meta.push({
+    key: 'description',
+    name: 'description',
+    content: 'Contemporary architecture city guides. Travel for architecture.',
+  });
+  head.meta.push({ name: 'twitter:title', content: 'The Foreign Architect' });
+  head.meta.push({ name: 'twitter:site', content: '@theforeignarch' });
+  head.meta.push({ name: 'twitter:creator', content: '@danrocc' });
+  head.meta.push({
+    name: 'twitter:image',
+    key: 'twitter:image',
+    content: `${process.env.GRIDSOME_IMGIX_URL}the-foreign-architect.jpg`,
+  });
+  head.meta.push({
+    name: 'og:image',
+    key: 'og:image',
+    content: `${process.env.GRIDSOME_IMGIX_URL}the-foreign-architect.jpg`,
+  });
+  router.beforeEach((to, _from, next) => {
+    head.meta.push({
+      key: 'og:url',
+      name: 'og:url',
+      content: process.env.GRIDSOME_BASE_PATH + to.path,
+    });
+    next();
+  });
 }

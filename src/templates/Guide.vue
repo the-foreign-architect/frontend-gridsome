@@ -70,7 +70,27 @@ query Guide ($id: ID!) {
 
 <script>
 export default {
-
+  metaInfo() {
+    return {
+      title: this.$page.guide.title,
+      meta: [
+        { key: "description", name: "description", content: this.$page.guide.excerpt },
+        { key: "twitter:description", name: "twitter:description", content: this.$page.guide.excerpt },
+        { key: "twitter:title",name: "twitter:title", content: this.$page.guide.title },
+        { key: "twitter:image",name: "twitter:image", content: this.$page.guide.coverImage.src },
+        { key: "og:type",name: "og:type", content: "article" },
+        { key: "og:title",name: "og:title", content: this.$page.guide.title },
+        { key: "og:description", name: "og:description", content: this.$page.guide.excerpt },
+        {
+          key: "article:published_time",
+          name: "article:published_time",
+          content: this.$page.guide.date
+        },
+        { key: "og:image", name: "og:image",content: this.$page.guide.coverImage.src },
+      ],
+      script: [{ src: "https://platform.twitter.com/widgets.js", async: true }]
+    };
+  }
 }
 </script>
 

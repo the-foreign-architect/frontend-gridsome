@@ -40,11 +40,16 @@
 <script>
 import BlogGrid from '~/components/BlogGrid'
 
-  export default {
-    components: {
-      BlogGrid
+export default {
+  metaInfo() {
+    return {
+      title: 'Blog - TFA',
     }
+  },
+  components: {
+    BlogGrid
   }
+}
 </script>
 
 <style scoped>

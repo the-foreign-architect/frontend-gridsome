@@ -38,13 +38,18 @@ query {
 import GuideGrid from '~/components/GuideGrid'
 import HomeSection from '~/components/HomeSection'
 
-  export default {
-    components: {
-      GuideGrid,
-      HomeSection
+export default {
+  metaInfo() {
+    return {
+      title: 'City Guides for Contemporary Architecture - TFA',
     }
-
+  },
+  components: {
+    GuideGrid,
+    HomeSection
   }
+
+}
 </script>
 
 <style scoped>

@@ -164,7 +164,7 @@ import GuideGrid from '~/components/GuideGrid'
 import BlogGrid from '~/components/BlogGrid'
 export default {
   metaInfo: {
-    title: 'Hello, world!'
+    title: 'The Foreign Architect - Travel for architecture'
   },
   components: {
     HomeSection,
