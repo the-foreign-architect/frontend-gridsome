@@ -1,6 +1,5 @@
 <template>
   <div class="full-width px-4">
-    <client-only>
       <div class="max-w-4xl mx-auto mb-8" >
         <masonry
           :cols="{default: maxNumCols, 1024: maxNumCols,  768: maxNumCols, 640: 2, 375: 1}"
@@ -11,7 +10,6 @@
           </div>
         </masonry>
       </div>
-    </client-only>
   </div>
 </template>
 
