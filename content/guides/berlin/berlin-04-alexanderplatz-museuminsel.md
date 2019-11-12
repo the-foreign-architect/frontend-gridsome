@@ -20,7 +20,7 @@ import ImageGallery from '~/components/ImageGallery.vue'
 import VideoPlayer from '~/components/VideoPlayer.vue'
 import BackToTop from '~/components/BackToTop.vue'
 import Divider from '~/components/Divider.vue'
-import ImageTiles from '~/components/ImageTiles.vue'
+
 
 
 In this chapter of the **[Berlin Contemporary Architecture Guide](./index)**, we are heading east. We cross the former Wall line and walk towards **Alexanderplatz**. On the way, we’ll check some buildings around Unter den Linden, one of the city’s principal axes: **Frank Gehry**’s **Pierre Boulez Saal**, the **German Historical Museum Extension Hall** by **I.M. Pei**, and a gallery building by **David Chipperfield**.

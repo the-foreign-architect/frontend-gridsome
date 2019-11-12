@@ -15,7 +15,7 @@ import GuideMap from '~/components/GuideMap.vue'
 import CaptionedImage from '~/components/CaptionedImage.vue'
 import BuildingInfoContainer from '~/components/BuildingInfoContainer.vue'
 import ImageGallery from '~/components/ImageGallery.vue'
-import ImageTiles from '~/components/ImageTiles.vue'
+
 import VideoPlayer from '~/components/VideoPlayer.vue'
 import BackToTop from '~/components/BackToTop.vue'
 import McGetGuideForm from '~/components/McGetGuideForm.vue' 
