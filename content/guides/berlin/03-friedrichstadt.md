@@ -155,7 +155,7 @@ There are many libraries in Berlin, but this is the classiest. It belongs to **H
 
 <building-info-container id=102 />
 
-## Boros Collection / Realalrchitektur
+## Boros Collection / Realarchitektur
 
 <captioned-image alt="Boros Collection Berlin" caption="The bunker from outside" imgFile="/guides/berlin/7215565600_c3f460a025_b.jpg" />
 
