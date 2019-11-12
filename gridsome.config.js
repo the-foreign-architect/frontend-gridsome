@@ -41,6 +41,7 @@ module.exports = {
           [
             'remark-toc',
             {
+              heading: 'Buildings',
               maxDepth: 2,
             },
           ],
@@ -54,6 +55,21 @@ module.exports = {
         baseDir: './content/blog', // Where .md files are located
         pathPrefix: '/blog', // Add route prefix. Optional
         template: './src/templates/Post.vue',
+        refs: {
+          tags: {
+            typeName: 'Tag',
+            create: true,
+          },
+        },
+        plugins: [
+          [
+            'remark-toc',
+            {
+              heading: 'Buildings',
+              maxDepth: 2,
+            },
+          ],
+        ],
       },
     },
     {
@@ -62,9 +78,19 @@ module.exports = {
         typeName: 'SinglePage', // Required
         baseDir: './content/pages', // Where .md files are located
         pathPrefix: '/', // Add route prefix. Optional
-        template: './src/templates/SinglePage.vue'
+        template: './src/templates/SinglePage.vue',
+        plugins: [
+          [
+            'remark-toc',
+            {
+              heading: 'Buildings',
+              maxDepth: 2,
+            },
+          ],
+        ],
       },
     },
+
     // {
     //   use: '@gridsome/plugin-sitemap',
     //   options: {

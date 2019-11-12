@@ -53,7 +53,7 @@ There as just so many building in the city, and the map should help you identify
 
 ### Buildings
 
-toc
+[[toc]]
 
 ## Burj Khalifa - SOM
 
