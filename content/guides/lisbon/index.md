@@ -34,7 +34,7 @@ Lisbon has tons to see. Contemporary architecture in the city is great, but it i
 
 The area of the Expo 98 and the parks north of it deserves its own chapter. It is a great destination, with masterpieces from Calatrava and Siza, as well as incredible sights and pleasant walks along the Tagus river.
 
-**[Go check it out >>](./lisbon-01-expo-98)**
+**[Go check it out >>](./01-expo-98)**
 
 ## 2. City Center
 
@@ -42,7 +42,7 @@ The area of the Expo 98 and the parks north of it deserves its own chapter. It 
 
 Lisbon is a historic city and has so many beautiful buildings and squares and streets in which you will (and should!) get lost. Among colonial buildings and old cathedrals, you’ll find some great contemporary architecture.
 
-**[Go check it out >>](./lisbon-02-city-center)**
+**[Go check it out >>](./02-city-center)**
 
 ## 3. Belem
 
@@ -50,7 +50,7 @@ Lisbon is a historic city and has so many beautiful buildings and squares and st
 
 People go to Belem to see the Tower and eat the egg tarts. That alone is reason enough to go. However, Belem’s waterfront is full of great new architecture you have to add to your itinerary.
 
-**[Go check it out >>](./lisbon-03-belem)**
+**[Go check it out >>](./03-belem)**
 
 ---
 

@@ -22,7 +22,7 @@ import Divider from '~/components/Divider.vue'
 
 ### Friedrichstadt and the Friedrichstraße
 
-The next group of building in the [Berlin Contemporary Architecture Guide](https://theforeignarchitect.com/berlin-contemporary-architecture-guide/) is located around an area called **Friedrichstadt**. If you look at a map of Berlin at the time of the planning of Friedrichstadt, you’ll see a strong contrast between the organic layout of the city’s older parts and the orthogonal layout of the then-new neighborhood.
+The next group of building in the [Berlin Contemporary Architecture Guide](./) is located around an area called **Friedrichstadt**. If you look at a map of Berlin at the time of the planning of Friedrichstadt, you’ll see a strong contrast between the organic layout of the city’s older parts and the orthogonal layout of the then-new neighborhood.
 
 <captioned-image alt="A map of Berlin in 1710. Friedrichstadt appears in the lower left, with Friedrichstraße cutting it from North to South." caption="A map of Berlin in 1710. Friedrichstadt appears in the lower left, with Friedrichstraße cutting it from North to South." imgFile="/guides/berlin/Map_de_berlin_1710-1100x838.jpg" />
 

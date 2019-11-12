@@ -190,7 +190,3 @@ That alone is so unique. The system works downhill in the morning, taking commut
 
 It is a must-experience, something you can only see in Hong Kong. Check out the site Hong Kong Extras for a [detailed guide of the escalators](http://www.hongkongextras.com/_midlevels_escalators.html), including a little map.
 
-
-
-_This is **Part 2** (of 4) of the **Hong Kong Contemporary Architecture Guide**._  
-_Go back to the **[Intro](./index)**, or move on to **[Part 3: Architecture of Ghost In The Shell in Hong Kong](./hong-kong-03-ghost-in-the-shell)**_

@@ -32,7 +32,7 @@ In my recent trip to Hong Kong, I visited several buildings spread both througho
 
 **Kowloon** and the **New Territories** are currently Hong Kong's largest architecture playground, with new buildings and daring urban development plans such as the New Central Business District in Kowloon East, or the Kowloon West Cultural District.
 
-**[Go check it out >>](./hong-kong-01-kowloon)**
+**[Go check it out >>](./01-kowloon)**
 
 ## 2. Hong Kong Island: architectural classics and new projects in the heart of the city
 
@@ -40,7 +40,7 @@ In my recent trip to Hong Kong, I visited several buildings spread both througho
 
 **Hong Kong Island** is the postcard of Hong Kong. Its small footprint led to development both dense and tall. While Sheung Wang, Central and Wan Chai hold most of Hong Kong’s architectural icons and offer close to zero spaces for new developments, the east side of the island is witnessing a lot of changes with new infrastructure projects and buildings.
 
-**[Go check it out >>](./hong-kong-02-hong-kong-island)**
+**[Go check it out >>](./02-hong-kong-island)**
 
 ## Bonus 1: Architecture from Ghost in the Shell in Hong Kong
 
@@ -48,7 +48,7 @@ In my recent trip to Hong Kong, I visited several buildings spread both througho
 
 While in Hong Kong I watched the recently released movie Ghost In The Shell. Even though the film’s quality is up for discussion, what it does best is portray a fantastic future, most of it based in Hong Kong. Inspired by it, I went to visit some locations where some scenes were filmed, and three of them were incredible.
 
-**[Go check it out >>](./hong-kong-03-ghost-in-the-shell)**
+**[Go check it out >>](./03-ghost-in-the-shell)**
 
 ## Bonus 2: Hong Kong from high up: three buildings to explore
 
@@ -56,7 +56,7 @@ While in Hong Kong I watched the recently released movie Ghost In The Shell. Eve
 
 Being a city of so many skyscrapers, it seems off that it only has one official observation deck located in Kowloon on top of its tallest building, the ICC. After some research, I learned that some buildings in Hong Kong Island offer specific floors which you can access to have free and easy sweeping views of the city. I’ll show you three of them.
 
-**[Go check it out >>](./hong-kong-04-observatories)**
+**[Go check it out >>](./04-observatories)**
 
 ---
 
@@ -76,4 +76,4 @@ This is the full map of the places mentioned in this guide (each section also ha
 
 <guide-map title="Architecture Map of Hong Kong" map="https://www.google.com/maps/d/u/1/embed?mid=1-yMbN0OOANrk_KHWnBdSpjTVpW4" />
 
-Go check the first part: **[Kowloon Peninsula and the New Territories](./hong-kong-01-kowloon)**.
+Go check the first part: **[Kowloon Peninsula and the New Territories](./01-kowloon)**.

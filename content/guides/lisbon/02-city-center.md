@@ -24,7 +24,7 @@ import McGetGuideForm from '~/components/McGetGuideForm.vue'
 
 Lisbon's city center is a joy to get lost in. Do yourself a favor and just walk, no map, no destination. Eat everything that catches your eye and just take the city in. Spend some time soaking your feet in the Tagus, go up some buildings, enjoy some museums, and drink some beers at one of the many terraces overlooking the city. And then get back to your architecture trail.
 
-The buildings in this section are fewer and more sparsely located than in the [Expo '98](./lisbon-01-expo-98) site or in [Belem](./lisbon-03-belem). Take it as an opportunity to walk all over the city and explore it while on the way from one building to the other. We'll start up north at the **Calouste Gulbekian Foundation and Museum**, a masterpiece of Portugal's Modernism, then go back downhill to check three works from Portuguese master **Alvaro Siza**.
+The buildings in this section are fewer and more sparsely located than in the [Expo '98](./01-expo-98) site or in [Belem](./03-belem). Take it as an opportunity to walk all over the city and explore it while on the way from one building to the other. We'll start up north at the **Calouste Gulbekian Foundation and Museum**, a masterpiece of Portugal's Modernism, then go back downhill to check three works from Portuguese master **Alvaro Siza**.
 
 ### Map
 
@@ -38,7 +38,7 @@ toc
 
 ## Calouste Gulbenkian Foundation and Museum - Alberto J. Pessoa, Pedro Cid and Ruy Jervis d'Athouguia
 
- <captioned-image alt="Museum Calouste Gulbekian" caption="Museum Calouste Gulbekian" imgFile="/guides/lisbon/lisbon-1-1100x589.jpg"/>
+ <captioned-image alt="Museum Calouste Gulbekian" caption="Museum Calouste Gulbekian" imgFile="/guides/lisbon/1-1100x589.jpg"/>
 
 Maybe the most valuable specimen of Portugal's Modernism, the Museum Calouste Gulbenkian offers a mix of great architecture, art and landscape design in a beautiful setting. It is a group of austere, simple building distributed throughout a park. The Modern Collection building offers a wide variety of spaces and light situations, while the main Museum is a simpler rectangular building perforated by two courtyards. Its importance was recognized when it received the status of National Monument in 2010. It is a great group of buildings housing excellent art.
 

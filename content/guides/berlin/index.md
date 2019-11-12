@@ -30,7 +30,7 @@ Since then I've been coming back and forth between Beijing and Berlin, two citie
 
 An excellent way to start the exploration of Berlin’s most impressive architecture and most famous sights. It is a walk along the former **Berlin Wall** line: you’ll start at the **Central Station** from **gmp**, pass through great landscape architecture along the river Spree, crossing important government buildings including **Norman Foster**’s **Reichstag**. Further south, past the Branderburger Gate, you check **Frank Gehry**’s **DZ Bank**, next to **Behnisch & Partner**’s **Academy of the Arts**. Finally, crossing through the Academy towards south you’ll end in P**eter Eisenman**’s incredible **Memorial to the Murdered Jews of Europe**.
 
-**[Go check it out >>](./berlin-01-between-east-west)**
+**[Go check it out >>](./01-between-east-west)**
 
 ## 2. The architecture of reunification: Potsdamer Platz and Kulturforum
 
@@ -38,7 +38,7 @@ An excellent way to start the exploration of Berlin’s most impressive architec
 
 Although a continuation from the previous chapter, I decided to dedicate a full chapter to these two areas. They not only carry an incredible history but also house important projects from great architects. Here you’ll find buildings from **Renzo Piano**, **Richard Rogers**, **Helmut Jahn**, **Le Corbusier**, **Hans Scharoun**, among others.
 
-**[Go check it out >>](./berlin-02-reunification)**
+**[Go check it out >>](./02-reunification)**
 
 ## 3. Up north along Friedrichstraße
 
@@ -46,7 +46,7 @@ Although a continuation from the previous chapter, I decided to dedicate a full 
 
 Going east and following Friedrichstrasse from north to south, you’ll find buildings from **Jean Nouvel**, **Sauerbruch Hutton**, **Aldo Rossi**, **Daniel Libeskind**, and an unexpected early building from **Zaha Hadid**.
 
-**[Go check it out >>](./berlin-03-friedrichstadt)**
+**[Go check it out >>](./03-friedrichstadt)**
 
 ## 4. In the heart of East Berlin: Alexanderplatz and Museum Island
 
@@ -54,7 +54,7 @@ Going east and following Friedrichstrasse from north to south, you’ll find bui
 
 In this chapter of the Berlin Contemporary Architecture Guide, we are heading east, walking from Unter den Linden, through Museum Island, to Alexanderplatz. On they way, you'll find building by **Frank Gehry**, **I.M. Pei**, **David Chipperfield**, and others.
 
-**[Go check it out >>](./berlin-04-alexanderplatz-museuminsel)**
+**[Go check it out >>](./04-alexanderplatz-museuminsel)**
 
 ## 5. Modernism in Berlin
 

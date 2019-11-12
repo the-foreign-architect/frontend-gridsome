@@ -1,42 +1,44 @@
 <template>
   <Layout>
-    <section class="mb-8">
-      <!-- COVER IMAGE -->
-      <div class="px-4">
-        <div class="hidden w-full
-          border-2 border-black
-          image-cover
-          guide-cover
-          mb-8
-          max-h-full
-          sm:flex sm:items-center sm:justify-center"
-        :style="`background-image: url('${$page.guide.coverImage.src}')`">
-          <span class="stripe-shadow-white max-w-xl mx-auto p-4 font-bold text-3xl uppercase leading-none tracking-wide">
-              {{$page.guide.city}}
-          </span>
-        </div>
+    <article>
+    <!-- COVER IMAGE -->
+    <div id="image" class="px-4">
+      <div class="hidden w-full
+        border-2 border-black
+        image-cover
+        guide-cover
+        mb-8
+        max-h-full
+        sm:flex sm:items-center sm:justify-center"
+      :style="`background-image: url('${$page.guide.coverImage.src}')`">
+        <span class="stripe-shadow-white max-w-xl mx-auto p-4 font-bold text-3xl uppercase leading-none tracking-wide">
+            {{$page.guide.city}}
+        </span>
       </div>
+    </div>
+    <header id="header" class="mb-8">
       <div class="px-4 max-w-xl mx-auto">
         <h1 class="text-3xl font-bold leading-none mb-2">{{ $page.guide.title }}</h1>
         <!-- <hr class="border-black border-b-2 mb-4"/> -->
         <p class="text-xl ">{{ $page.guide.excerpt }}</p>
       </div>
-    </section>
-    <section v-if="$page.guide.series && $page.guide.chapter > 0" class="content px-4 max-w-xl mx-auto">
+    </header>
+    <section id="navigation-top" v-if="$page.guide.series && $page.guide.chapter > 0" class="content px-4 max-w-xl mx-auto">
       <series-navigation
         :total-chapters="$page.guide.series.belongsTo.totalCount"
         :current-chapter="$page.guide.chapter"
         :chapters="$page.guide.series.belongsTo.edges.map(edge => edge.node)"/>
     </section>
-    <section class="content px-4 max-w-xl mx-auto">
+    <section  id="content" class="content px-4 max-w-xl mx-auto">
       <vue-remark-content />
     </section>
-    <section v-if="$page.guide.series && $page.guide.chapter > 0" class="content px-4 max-w-xl mx-auto">
+    <section  id="navigation-bottom"  v-if="$page.guide.series && $page.guide.chapter > 0" class="content px-4 max-w-xl mx-auto">
       <series-navigation
         :total-chapters="$page.guide.series.belongsTo.totalCount"
         :current-chapter="$page.guide.chapter"
         :chapters="$page.guide.series.belongsTo.edges.map(edge => edge.node)"/>
     </section>
+  </article>
   </Layout>
 </template>
 
@@ -95,6 +97,37 @@ export default {
 </script>
 
 <style>
+/* .grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 1rem;
+}
+#image {
+  grid-area: image;
+}
+#header {
+  grid-area: header;
+}
+#content {
+  grid-area: content;
+}
+#navigation-top {
+  grid-area: navigation-top;
+}
+#navigation-bottom {
+  grid-area: navigation-bottom;
+}
+@screen lg {
+  .grid {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-areas:
+      "image image header header"
+      "image image content content"
+      " . navigation-top content content"
+  }
+} */
+
+
 .content p{
   @apply mb-4;
 }
