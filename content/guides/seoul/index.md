@@ -53,11 +53,11 @@ I first visited the site back in 2009, when it was still a hole in the ground. I
 
 <captioned-image alt="Dongdaemun Design Plaza" caption="Oullim Square, part of the DDP complex" imgFile="guides/seoul/Dongdaemun-Design-Plaza-39.jpg" format="v"/>
 
-I like it so much that I decided to dedicate a special post just for it. Check it out here to see more photos and other info about this great building: **[The one building you have to visit in Seoul](http://theforeignarchitect.com/dongdaemun-design-plaza-seoul/)**
+I like it so much that I decided to dedicate a special post just for it. Check it out here to see more photos and other info about this great building: **[The one building you have to visit in Seoul](/blog/dongdaemun-design-plaza-seoul)**
 
 ### Visit
 
-It is a must-see for any architect visiting Seoul. You can get into it without paying for any tickets, as there is a lot of public circulation around the main galleries. [Check online](http:// http://www.ddp.or.kr "DDP's official website") for all the exhibitions going on to see if anything interests you. Otherwise, just walk around and try to get in as many rooms as possible, many are just open and you can have a peek inside. Do plan to spend some time walking outside, though, as the park and public spaces surrounding it are, for me, the best part. If you manage to come in by the end of the day, the lights usually come on right after sunset and it is quite interesting to see how they managed to make such a solid-looking building during the day look alive and transparent at night. You can reach it easily via subway at the station Dongdaemun History and Culture Park Station (Lines 2, 4, and 5 - exits 1 or 2).
+It is a must-see for any architect visiting Seoul. You can get into it without paying for any tickets, as there is a lot of public circulation around the main galleries. [Check online](http://www.ddp.or.kr "DDP's official website") for all the exhibitions going on to see if anything interests you. Otherwise, just walk around and try to get in as many rooms as possible, many are just open and you can have a peek inside. Do plan to spend some time walking outside, though, as the park and public spaces surrounding it are, for me, the best part. If you manage to come in by the end of the day, the lights usually come on right after sunset and it is quite interesting to see how they managed to make such a solid-looking building during the day look alive and transparent at night. You can reach it easily via subway at the station Dongdaemun History and Culture Park Station (Lines 2, 4, and 5 - exits 1 or 2).
 
 <building-info-container id="2" />
 
