@@ -30,7 +30,7 @@
         :chapters="$page.guide.series.belongsTo.edges.map(edge => edge.node)"/>
     </section>
     <section  id="content" class="content px-4 max-w-xl mx-auto">
-      <vue-remark-content />
+      <vue-remark-content class="flow"/>
     </section>
     <section  id="navigation-bottom"  v-if="$page.guide.series && $page.guide.chapter > 0" class="content px-4 max-w-xl mx-auto">
       <series-navigation
@@ -128,25 +128,22 @@ export default {
 } */
 
 
-.content p{
-  @apply mb-4;
-}
+
 .content h2, h3 {
-  @apply font-bold mb-3 mt-8;
+  @apply font-bold;
 }
 .content h2 {
-  @apply mb-4 mt-16 text-2xl leading-none p-2 inline-block;
+  @apply text-2xl leading-none p-2 inline-block;
 }
 .content h3 {
   @apply text-lg;
 }
 .content  ul {
-  @apply mb-4;
   list-style-type: square;
 }
-.content  ul > li {
+/* .content  ul > li {
   @apply mb-2;
-}
+} */
 .guide-cover {
   height: 320px;
 }
@@ -154,7 +151,7 @@ export default {
 .content #buildings + ul, .content nav > ul {
   @apply list-none;
 }
-.content #buildings + ul > li, .content nav > p, .content nav > ul > li {
+/* .content #buildings + ul > li, .content nav > p, .content nav > ul > li {
   @apply mb-1;
-}
+} */
 </style>

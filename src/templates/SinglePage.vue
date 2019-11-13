@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <section class="mb-12 px-4">
+    <article class="mb-12 px-4">
       <div class="md:flex">
         <div class="mb-4 md:mr-12">
           <h1
@@ -10,13 +10,9 @@
               {{ $page.singlePage.title }}
           </h1>
         </div>
-        <div class="content-page max-w-xl">
-          <VueRemarkContent />
-        </div>
+        <VueRemarkContent  class="flow content-page max-w-xl"/>
       </div>
-    </section>
-
-
+    </article>
   </Layout>
 </template>
 

@@ -9,7 +9,7 @@
         <p class="text-xl px-4 mb-4">{{ $page.post.excerpt }}</p>
       </section>
     <section class="mb-24 content-page">
-      <VueRemarkContent />
+      <VueRemarkContent class="flow"/>
     </section>
     <section class="mb-12">
       <vue-disqus shortname="the-foreign-architect" :identifier="$page.post.title"></vue-disqus>

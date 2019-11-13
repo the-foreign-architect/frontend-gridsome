@@ -12,12 +12,12 @@ export default {
 
 <style scoped>
 .wrapper {
-  padding-bottom: 4rem;
+  --flow-space: 4rem;
 }
 
 .divider {
   position: relative;
-  margin-top: 4rem;
+
   height: 1px;
 }
 

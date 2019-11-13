@@ -90,8 +90,19 @@ a.white-link, a.white-link:hover {
 
 }
 
-.content-page p, .content-page h2, .content-page h3 {
-  @apply mb-4;
+.flow {
+  --flow-space: 1em;
+}
+
+.flow > * + * {
+    margin-top: 1em;
+    margin-top: var(--flow-space);
+}
+.flow h2 {
+  --flow-space: 4rem;
+}
+.flow h3 {
+  --flow-space: 3rem;
 }
 
 .content-page h2 {
