@@ -15,7 +15,6 @@ As an architect, I am fascinated by how spaces make you feel, how a building cha
 
 **Our understanding of the power designed spaces will only evolve when we experience, in person, what’s been done throughout the world, both old and new, in different places and cultures.**
 
-<divider/>
 
 ## Me
 
@@ -27,7 +26,6 @@ When I travel, architecture is almost always the central focus. Sometimes, archi
 
 As much as I love traditional, or small scale architecture, I am also a sucker for large, tall, modern projects. When I travel somewhere, those are the first I like to visit. I like to see how they were built, the details; or how they offer us an entirely different way to interact with its surroundings; or how they fit within the context of the city. I love the power of buildings such as the **CCTV Tower** in Beijing, or the **[Burj Khalifa](../blog/quick-guide-visit-worlds-tallest-building-burj-khalifa-dubai.md)** in Dubai, but I also marvel at the ingenuity of small _hutong_ courtyard houses or houses on stints in river communities.
 
-<divider/>
 
 ## The Foreign Architect
 
