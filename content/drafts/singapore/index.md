@@ -1,21 +1,13 @@
 ---
 title: 'Singapore Contemporary Architecture Guide'
 date: 2019-03-25
-type: post
-published: true
 guide: true
 excerpt: A fascinating city where architecture is fresh and the food is delicious.
 tags:
   - Singapore
-sharingHashtags: singapore,cityguide
 city: Singapore
-series: false
-coverImage: v1552415994/guides/seoul/seoul-cover.jpg
-pinterestMedia: v1552415993/guides/seoul/TFA-Seoul-architecture-guide.jpg
-navbar: true
-permalink: /guides/:slug
+coverImage: ./_imgs/singapore-cover.jpg
 ---
-## Singapore
 
 The city estate of Singapore, located on the southern tip of Malaysia, is a peculiar country. It is an island (plus 62 other islets), located on the southernmost tip of the Malay Peninsula (you basically cross a bridge and are in Malaysia). It started as a British colonial outpost in the early 1800s, suffered turbulent years during World War II, and gained independence in the 1960s:
 
@@ -36,10 +28,11 @@ The map below shows the buildings mentioned in this article in black and other i
 
 <guide-map title="Architecture Map of Singapore" map="https://www.google.com/maps/d/u/1/embed?mid=1GgHEApxhHbHwIj93FmNCl3QT1Mo"/>
 
-### Contents
-[[toc]]
+### Buildings
 
----
+toc
+
+
 ## Jewel Changi Airport - Moshe Safdie
 
 I missed this one when I went, as it was under construction. But you probably saw it all over the news back in April: a fantastic waterfall in the middle of a lush greenhouse. The added monorail lines on the pictures make it look like a space colony from the future. A great introduction to the contemporary architecture of Singapore and Safdie's buildings will come up later, as Singapore is one of his most prolific territories.
