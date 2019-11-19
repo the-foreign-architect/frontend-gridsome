@@ -18,7 +18,8 @@
         City Guides
       </template>
       <template #description>
-        Curated guides with my selection of the most exciting new architecture in each of these cities.
+        <p>Curated guides with my selection of the most exciting new architecture in each of these cities.</p>
+        <p class="font-bold"><g-link to="/guides">See all cities &rarr;</g-link></p>
       </template>
       <template #content>
         <guide-grid :guides="$page.guides.edges" />
@@ -44,7 +45,8 @@
         Blog
       </template>
       <template #description>
-        Musings about architecture and travel.
+        <p>Musings about architecture and travel.</p>
+        <p class="font-bold"><g-link to="/blog">See all posts &rarr;</g-link></p>
       </template>
       <template #content>
         <blog-grid :posts="$page.blog.edges" :show-excerpt="true"/>
