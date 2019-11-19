@@ -17,7 +17,7 @@ export default {
 
 .divider {
   position: relative;
-
+  margin-bottom: 4rem;
   height: 1px;
 }
 

@@ -3,21 +3,24 @@
     <article
       v-if="building"
       :id="'building-info-'+building.id"
-      class="sm:flex mt-8 mb-2 w-full border-2 border-black p-4 building-info"
+      class="mt-8 mb-2 w-full border-2 border-black p-4 building-info"
     >
-      <section class="sm:w-1/2 pb-4 sm:pb-0 sm:mr-4">
+      <section class="h-64  pb-4 ">
         <iframe
           :src="
-      'https://www.google.com/maps/embed?pb='+building.gmapsEmbed"
+      'https://www.google.com/maps/embed?pb='+ building.gmapsEmbed"
           width="100%"
           height="100%"
           frameborder="0"
           style="border:0"
         ></iframe>
       </section>
-      <div class="sm:w-1/2 sm:pr-2">
+      <div class=" sm:pr-2">
         <section class="mb-4">
-          <h5 class="text-xl font-bold">{{building.name}}</h5>
+          <h5 class="text-xl font-bold">
+            <g-link v-if="building.website" :to="building.website">{{building.name}}</g-link>
+            <span v-else>{{building.name}}</span>
+          </h5>
           <ul class="flex flex-wrap">
             <li v-for="({architect}, index) in building.architectBuildings.nodes" :key="architect.id">
               <a v-if="architect.website" :href="architect.website">{{architect.name}}</a>
@@ -27,17 +30,19 @@
         </section>
         <section class="mb-4">
           <ul>
-            <li v-if="building.typology">{{building.typology}}</li>
             <li v-if="building.year">{{building.year}}</li>
-            <li v-if="building.gfa && building.gfa > 0">{{building.gfa}}sqm</li>
-            <li v-if="building.height && building.height > 0">{{building.height}}m</li>
+            <li v-if="building.typology">{{building.typology}}</li>
+            <li v-if="buildingData">{{buildingData}}</li>
+
 
           </ul>
         </section>
         <section v-if="building.links.nodes.length > 0">
           <ul>
-            <li v-for="link in building.links.nodes" :key="link.id">
-              <a :href="link.url">{{link.title}}</a>
+            <li v-for="link in building.links.nodes" :key="link.id" class="pb-1 leading-tight">
+              <a :href="link.url" class="mr-1">
+                <span v-if="link.title">{{link.title}}</span><span v-else>{{link.source.name}}</span></a>
+                <span v-if="link.source && link.source.name.toLowerCase() !== link.title.toLowerCase()" class="text-xs">{{link.source.name}} </span>
             </li>
           </ul>
         </section>
@@ -62,11 +67,15 @@ export default {
   },
   data() {
     return {
-      building: null
+      building: null,
+      buildingData: null
     }
   },
   mounted() {
     this.building = require(`../data/building-${this.id}.json`);
+    const gfa = this.building.gfa > 0 ? `${Number(this.building.gfa).toLocaleString()}sqm` : null;
+    const height = this.building.height > 0 ? `${Number(this.building.height).toLocaleString()}m` : null;
+    this.buildingData = [gfa, height].filter(Boolean).join(" / ");
   }
 }
 </script>

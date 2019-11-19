@@ -110,7 +110,8 @@ a.white-link, a.white-link:hover {
 }
 
 blockquote {
-  @apply italic text-lg border-l-2 border-black pl-4 my-8;
+  /* --flow-space: 4rem; */
+  @apply italic text-lg border-l-2 border-black pl-4;
 }
 
 @tailwind utilities;

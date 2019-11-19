@@ -8,7 +8,9 @@
           lg:text-lg">
             <slot name="title"/>
         </h2>
-        <p class="px-4"><slot name="description"/></p>
+        <div class="px-4">
+          <slot name="description"/>
+        </div>
       </div>
         <div class="px-4 w-full md:w-2/3 xl:w-full">
           <slot name="content"/>
