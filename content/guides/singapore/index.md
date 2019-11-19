@@ -17,7 +17,7 @@ import Divider from '~/components/Divider.vue'
 
 I visited Singapore in 2018. Most of my time was spent running from building to building, checking all the crazy/weird/great/mind-blowing architecture in the city. In one week, I savored delicious food, slept in two buildings from WOHA and in one from Safdie, walked dozens of kilometers all over town, and visited some of the most exciting architecture in Singapore. 
 
-Architecture in Singapore is plentiful and varied. In one week I could only have a taste of it. There is so much to see. Take this list as a simple and small curated list of what I consider the coolest, most daring, most audacious architecture in town.
+Architecture in Singapore is plentiful and varied. In one week, I could only have a taste of it. There is so much to see. Take this list as a simple and small curated list of what I consider the coolest, most daring, most audacious architecture in town.
 
 ### Background
 
@@ -29,7 +29,7 @@ Its rapid development within the last 60 years turned it from a developing count
 
 > The city ranks highly in numerous international rankings, and has been recognised as the most "technology-ready" nation (WEF), top International-meetings city (UIA), city with "best investment potential" (BERI), world's smartest city, world's safest country, world's most competitive economy, recently over-taking United States and Hong Kong. third least-corrupt country, third-largest foreign exchange market, third-largest financial center, third-largest oil refining, and trading center, fifth-most innovative country, and the second-busiest container port.
 
-However, this development is laden with controversy, with accusations of exploration of the low-income workforce and immigrant labor. It is a pattern from many countries where "development at all costs" are practiced. The well-off part of the population thrives, and what tourists see are shiny highrises and a well-kept urban environment. But we should always take it all with a pinch of salt.
+However, this development is laden with controversy, with accusations of exploration of the low-income workforce and immigrant labor. It is a pattern from many countries where "development at all costs" is practiced. The well-off part of the population thrives, and what tourists see are shiny highrises and a well-kept urban environment. But we should always take it all with a pinch of salt.
 
 <captioned-image alt="Marina Bay panorama" caption="Marina Bay panorama" imgFile="/guides/singapore/180302-092307-SG-Singapore.jpg" />
 
@@ -55,9 +55,9 @@ I missed this one when I went, as it was under construction. But you probably sa
 
 With the lovely name of _Rain Vortex_, the waterfall is enormous: 40m above ground, dropping from the middle of the donut-shaped glass ceiling. It is the largest indoor waterfall in the world. 
 
-Under the glass roof, the _Shiseido Forest Valley_ is surrounded by shops and other airport facilities. There, you can either go on a shopping-spree or take a stroll. There are trails and other waterfalls that lead you all the way up the _Canopy Park_, where you can get lost in a hedge maze or walk on a net hung above the trees. 
+Under the glass roof, the _Shiseido Forest Valley_ is surrounded by shops and other airport facilities. There, you can either go on a shopping spree or take a stroll. There are trails and other waterfalls that lead you all the way up the _Canopy Park_, where you can get lost in a hedge maze or walk on a net hung above the trees. 
 
-Sounds like an excellent pastime for long layovers. You connect with nature, let go of the traveling stress and prepare for your next journey.
+It sounds like an excellent pastime for long layovers. You connect with nature, let go of the traveling stress and prepare for your next journey.
 
 
 ### Visit
@@ -70,7 +70,7 @@ Well, it's your arrival point, unless you come crossing by land from the Malaysi
 
 <captioned-image alt="The Marina Bay Sands in Singapore" caption="The Marina Bay Sands and its famous cantilever" imgFile="/guides/singapore/180302-093105-SG-Singapore.jpg" />
 
-> "(...) then we had the dilemma of where are we going to put the swimming pool? How do we make this a resort? That's when the idea of the Sky Park was born. It's on the 57th floor, it's 2.5 acres cantilevering 65 meters off the tower with all these gardens, and it's proven to be magical. It's really put us on the map in Asia that's for sure." 
+> "(...) then we had the dilemma of where are we going to put the swimming pool? How do we make this a resort? That's when the idea of the Sky Park was born. It's on the 57th floor, it's 2.5 acres cantilevering 65 meters off the tower with all these gardens, and it's proven to be magical. It's really put us on the map in Asia; that's for sure." 
 >
 > Moshe Safdie
 
@@ -80,7 +80,7 @@ This is the mother "[arcology](https://simcity.fandom.com/wiki/Arcology)" in Sin
 
 <captioned-image alt="The Marina Bay Sands in Singapore" caption="" imgFile="/guides/singapore/180301-182108-SG-Singapore.jpg" />
 
-It is impressive from far away, but I found approaching it hard, unwelcoming. The taxi dropped me off on a side entrance, where two towers spread apart and you enter the space in between. It was vast and impressive and left me speechless. As I checked in and got to my room, I realized how crazy this lobby is: entirely public, connecting hotel with a casino with shopping with gardens, through bridges and elevators and walkways, all in between six skyscrapers. Just mind-blowing.
+It is impressive from far away, but I found approaching it hard, unwelcoming. The taxi dropped me off on a side entrance, where two towers spread apart, and you enter the space in between. It was vast and impressive and left me speechless. As I checked in and got to my room, I realized how crazy this lobby is: entirely public, connecting hotel with a casino with shopping with gardens, through bridges and elevators and walkways, all in between six skyscrapers. Just mind-blowing.
 
 <captioned-image alt="The Lobby Marina Bay Sands in Singapore" caption="One end of the lobby" imgFile="/guides/singapore/180301-200556-SG-Singapore.jpg" format="v"/>
 
@@ -90,13 +90,13 @@ The room was quite standard, if not a bit on the old-school side. The view was b
 
 The pool is nice. I went at night and hung out there for an hour or so watching the sunset on the Marina Bay and CBD. The crowds made it far from relaxing; it felt more like a chore I had to check from my list before moving on. 
 
-Downstairs, the _Shoppes_ is an endless shopping mall with some good restaurants. You can also ride a gondola on some indoor canals if you fancy (Las Vegas Sands, the operator, also owns the Venetian in Macau, so you can see the influence...). Skip all that, stay on the pool upstairs or head out to the Marina or Gardens By The Bay. The Marina Bay Sands is a building best enjoyed from far away. Or on top of it.
+Downstairs, the _Shoppes_ is an endless shopping mall with some good restaurants. You can also ride a gondola on some indoor canals if you fancy (Las Vegas Sands, the operator, also owns the Venetian in Macau, so you can see the influence...). Skip all that, stay on the pool upstairs, or head out to the Marina or Gardens By The Bay. The Marina Bay Sands is a building best enjoyed from far away. Or on top of it.
 
 <captioned-image alt="The Marina Bay Sands in Singapore seen from across the bay on sunset" caption="Seen from across the bay, with the Art Science Museum and the Shoppes in front" imgFile="/guides/singapore/180302-190332-SG-Singapore.jpg"/>
 
 ### Visit
 
-As I described, you can walk and explore most of the building without barriers. The elevators work with key-cards, but there are just so many people that you can easily catch a ride in an elevator full of guests. Just go there and explore as much as you want. If you fancy staying in the hotel, I would recommend saving money on the room price by getting the ones with worse views, as the view is better on the rooftop anyway. 
+As I described, you can walk and explore most of the buildings without barriers. The elevators work with key-cards, but there are just so many people that you can easily catch a ride in an elevator full of guests. Just go there and explore as much as you want. If you fancy staying in the hotel, I would recommend saving money on the room price by getting the ones with worse views, as the view is better on the rooftop anyway. 
 
 <building-info-container id="112" />
 
@@ -116,7 +116,7 @@ Inside, three levels with 21 galleries house temporary exhibitions dedicated to 
 
 <image-gallery folder="/guides/singapore/" prefix="asm1" :num-images="4"/>
 
-Also called "the welcoming hand of Singapore," It reminds me of modernist architecture in Brazil, especially Niemeyer's, in Brasilia. I was, quite surprised to learn this was not a white concrete building but a complex structure clad in double-curved fiber-reinforced polymer panels. This gives it a seamless appearance and makes it much more performative than Niemeyer's concrete sculpt... ops, buildings. 
+Also called "the welcoming hand of Singapore," It reminds me of modernist architecture in Brazil, especially Niemeyer's, in Brasilia. I was quite surprised to learn this was not a white concrete building but a complex structure clad in double-curved fiber-reinforced polymer panels. This gives it a seamless appearance and makes it much more performative than Niemeyer's concrete sculpt... ops, buildings. 
 
 <image-gallery folder="/guides/singapore/" prefix="asm2" :num-images="4"/>
 
@@ -130,11 +130,11 @@ Check the opening times, get a ticket, and explore. Watch out for the top-floor 
 
 <captioned-image alt="The Helix Bridge in Singapore" caption="" imgFile="/guides/singapore/180302-091225-SG-Singapore.jpg"/>
 
-Right next to the Art Science Museum you'll see a cool-looking bridge: the **Helix Bridge**, by COX Architecture. As you exit the museum or the Shoppes, you can walk through it to reach the other side and explore the north part of the Marina Bay. 
+Right next to the Art Science Museum, you'll see a cool-looking bridge: the **Helix Bridge**, by COX Architecture. As you exit the museum or the Shoppes, you can walk through it to reach the other side and explore the north part of Marina Bay. 
 
 <captioned-image alt="The Helix Bridge in Singapore" caption="" imgFile="/guides/singapore/180302-091918-SG-Singapore.jpg"/>
 
-The bridge is a perfect combination of concept, design, and structure. The double-helix curved structure allows for efficient structural design while creating a soft, arc-shaped connection between both sides of the Marina. The four rest stops along the 280m structure create viewing platforms with great views to the CBD, the Marina Bay Sands complex and the Esplanade. And the illumination at night is a destination on itself.
+The bridge is a perfect combination of concept, design, and structure. The double-helix curved structure allows for efficient structural design while creating a soft, arc-shaped connection between both sides of the Marina. The four rest stops along the 280m structure create viewing platforms with great views to the CBD, the Marina Bay Sands complex, and the Esplanade. And the illumination at night is a destination on itself.
 
 ### Visit
 
@@ -154,7 +154,7 @@ The greenhouses are what impressed me the most. The Flower Dome impresses first 
 
 <captioned-image alt="The flower dome" caption="The Flower Dome" imgFile="/guides/singapore/flower-dome.jpg" format="v"/>
 
-The **Cloud Forest** (cool-wet tropical zones) welcomes you with a blast of cool air and humidity from a surprising huge waterfall right at the entrance. By taking an elevator, you are quickly transported to the top, at the canopy level, and can walk your way down through trees, waterfalls, and caves. It is so much fun, and so well done. The plants are beautiful, the air is fresh, and I've never seen so many different types of orchids in my life.
+The **Cloud Forest** (cool-wet tropical zones) welcomes you with a blast of cool air and humidity from a surprising huge waterfall right at the entrance. By taking an elevator, you are quickly transported to the top, at the canopy level, and can walk your way down through trees, waterfalls, and caves. It is so much fun and so well done. The plants are beautiful, the air is fresh, and I've never seen so many different types of orchids in my life.
 
 <image-gallery folder="/guides/singapore/" prefix="gbtb" :num-images="3"/>
 
@@ -185,9 +185,9 @@ Try to get into a concert or a play. But be careful: I got a play ticket which, 
 
 <building-info-container id="116" />
 
-<divider/>  
+<divider/> 
 
-If you head up north to check the next building in this list (Foster+Partners' South Beach Tower), check on the way the **Raffles City Singapore** complex, by I.M.Pei, one of his earliest works in Singapore (currently undergoing massive renovation).
+If you head up north to check the next building in this list (Foster+Partners' South Beach Tower), check on the way the **Raffles City Singapore** complex by I.M.Pei, one of his earliest works in Singapore (currently undergoing massive renovation).
 
 <captioned-image alt="IM Pei's Raffles City" caption="I.M. Pei's Raffles City undergoing renovations" imgFile="/guides/singapore/180301-134537-SG-Singapore.jpg" format="v"/>
 
@@ -196,9 +196,9 @@ If you head up north to check the next building in this list (Foster+Partners' S
 
 <image-gallery folder="/guides/singapore/" prefix="sbt" :num-images="2"/>
 
-Two towers stand out in this development from Foster + Partners. The first tower is a hotel, the second an apartment tower. They both taper at the top and at the base, creating a distinct volume which makes them stand out in the skyline. Like towers with a "little belly."
+Two towers stand out in this development from Foster + Partners. The first tower is a hotel, the second is an apartment tower. They both taper at the top and at the base, creating a distinct volume, which makes them stand out in the skyline. Like towers with a "little belly."
 
-But these towers are the least exciting part of the development. What you see when you approach it is this huge canopy extending out to the street, inviting you in to explore. The whole ground plot is open and permeable, covered by this friendly, undulating roof. Sometimes the site dips down into basement level, other times it opens to the east and west revealing drop-offs and pedestrian entrances. 
+But these towers are the least exciting part of the development. What you see when you approach it is this huge canopy extending out to the street, inviting you in to explore. The whole ground plot is open and permeable, covered by this friendly, undulating roof. Sometimes the site dips down into the basement level; other times, it opens to the east and west, revealing drop-offs and pedestrian entrances. 
 
 It is an enjoyable environment, an escape from the heat of Singapore. In between, old buildings of the former military complex and the 19th century Raffles Hotel previously located on the site, create an exciting contrast between old and new. The canopy unites it all and creates a truly open and comfortable public space.
 
@@ -206,7 +206,7 @@ It is an enjoyable environment, an escape from the heat of Singapore. In between
 
 ### Visit
 
-The canopy area is open, and you can circulate freely. If you are hungry for something sweet, check out Lady M's shop in the south side for delicious and beautiful cakes.
+The canopy area is open, and you can circulate freely. If you are hungry for something sweet, check out Lady M's shop on the south side for delicious and beautiful cakes.
 
 <building-info-container id="117" />
 
@@ -214,7 +214,7 @@ The canopy area is open, and you can circulate freely. If you are hungry for som
 
 <captioned-image alt="Aerial photo of the DUO in Singapore" caption="Photo by Iwan Baan" imgFile="/guides/singapore/duo-iwan-baan.jpg"/>
 
-Ole Scheeren's **DUO** is composed of two towers housing hotel and high-end serviced apartments with retail at its base. It is characterized by its rounded, sliced volumetry, clad all over with distinct hexagonal facade panels. Its lower, public floors are also relatively welcoming and are a nice addition to the surrounding public space. 
+Ole Scheeren's **DUO** is composed of two towers housing hotel, and high-end serviced apartments with retail at its base. It is characterized by its rounded, sliced volumetry, clad all over with distinct hexagonal facade panels. Its lower, public floors are also relatively welcoming and are a nice addition to the surrounding public space. 
 
 Built right across the street from I.M. Pei's Gateway towers (great buildings, BTW), it is said that its round, soft shape tries to balance Pei's sharp and aggressive design. Well, _Feng Shui_. But what impressed me the most was the weird-looking building right on the same plot as the DUO towers: the Parkview Square. It is as if their rounded shape were their reaction to this building's excess of gold and marble and weird statues and globes. Such an odd (but fun!) contrast to the modernity and sleekness of the DUO.
 
@@ -232,7 +232,7 @@ You can walk all around the ground and visit the public areas of the hotel and o
 
 <captioned-image alt="The Gateway Towers from IM Pei in Singapore" caption="Aren't they wonderful?" imgFile="/guides/singapore/The_Gateway_Singapore.jpg" format="v"/>
 
-Right behind the DUO, Pei's **Gateway Towers** are such a contrast. They are sleek, sharp, simple, two 150m tall towers, built in the 90s, with trapezoidal plans. Its extreme angles make it seem flat and thin from some angles, and its striped facade merges both towers together and remove a sense of scale. It is wonderful. 
+Right behind the DUO, Pei's **Gateway Towers** is such a contrast. They are sleek, sharp, simple, two 150m tall towers, built in the 90s, with trapezoidal plans. Its extreme angles make it seem flat and thin from some angles, and its striped facade merges both towers together and remove a sense of scale. It is wonderful. 
 
 The sharp angles, however, stirred up _Feng Shui_ masters, and are deemed responsible for many bankruptcies of its tenant companies throughout the years. The DUO plot remained vacant for many years, as it was considered bad luck to build across from such aggressive geometry. However, the addition of landscaped features seems to have calmed the energy of the site, and it is all in peace now. 
 
@@ -245,7 +245,7 @@ It is mainly offices, but you can go up the Mexico Embassy if you fancy taking a
 
 <captioned-image alt="The full elevation of the National Gallery Singapore" caption="Full elevation of the National Gallery Singapore, with the old Supreme Court on the left and the old City Hall on the right" imgFile="/guides/singapore/National-Gallery-Singapore-Full-Facade.jpg"/>
 
-During my research for the guide, I heard little about the **National Gallery**. Much was talked about Foster's new Supreme Court building located right behind it, but little was published about **Studio Milou**'s magnificent restoration of the old Supreme Court and City Hall to turn them into this museum. It is always nice when you are surprised by a building, and this was one of them. 
+During my research for the guide, I heard little about the **National Gallery**. Much was talked about Foster's new Supreme Court building located right behind it, but little was published about **Studio Milou **'s magnificent restoration of the old Supreme Court and City Hall to turn them into this museum. It is always nice when you are surprised by a building, and this was one of them. 
 
 I reached it from the backside, missing its imponent entrance canopy overlooking the Padang field. However, once inside, I got struck by the powerful yet delicate entrance foyer, occupying the space between both former buildings, lined with bridges, and dotted by tree-like columns holding a filigrain roof that let just the right amount of sunlight in. Large staircases led to the ticketing area and cloakroom, and I went exploring. 
 
@@ -255,7 +255,7 @@ It was so much fun to explore this building. You pass through old, restored hall
 
 <image-gallery folder="/guides/singapore/" prefix="ngs2" :num-images="4"/>
 
-At one point, going slowly up, you reach the roof level. Find the entrance to the Padang deck and go one level higher, for a great view towards the field and the Marina Bay in the horizon. Then start your way down, when you'll for sure discover new rooms to explore and more art to see. For me, one of the most impressive buildings during my visit to Singapore.
+At one point, going slowly up, you reach the roof level. Find the entrance to the Padang deck and go one level higher for a great view towards the field and the Marina Bay on the horizon. Then start your way down, when you'll for sure discover new rooms to explore and more art to see. For me, one of the most impressive buildings during my visit to Singapore.
 
 <image-gallery folder="/guides/singapore/" prefix="ngs3" :num-images="4"/>
 
@@ -269,7 +269,7 @@ Check their website for opening times and current exhibitions. Plan to spend at 
 
 <captioned-image alt="PARKROYAL on Pickering at sunset" caption="" imgFile="/guides/singapore/parkroyal-01.jpg" format="v"/>
 
-This hotel feels like what's left of four rectangular towers after the plants took over and a river passed through and eroded their lower floors. When you look at it, the lush vegetation hanging from everywhere is what first jumps at you. When you approach it, the soft geometric lines composing the "erosion" in the ground floor draws you in. When you go up to your room, you realize how functional it all is, how everything comes together: the rectangular towers offering the possibility for a standard hotel room layout, the shading and privacy from the plant terraces on the facade, the variety of spaces on the lower floor common areas. It is all kind of perfect. 
+This hotel feels like what's left of four rectangular towers after the plants took over, and a river passed through and eroded their lower floors. When you look at it, the lush vegetation hanging from everywhere is what first jumps at you. When you approach it, the soft geometric lines composing the "erosion" in the ground floor draws you in. When you go up to your room, you realize how functional it all is, how everything comes together: the rectangular towers offering the possibility for a standard hotel room layout, the shading and privacy from the plant terraces on the facade, the variety of spaces on the lower floor common areas. It is all kind of perfect. 
 
 <image-gallery folder="/guides/singapore/" prefix="rpp" :num-images="4"/>
 
@@ -285,7 +285,7 @@ I recommend you to try and stay in this hotel. The room was great, service excel
 
 ### CBD
 
-There are so many impressive office towers in downtown Singapore. Here are some pictures so you have an idea of what you are looking at when walking around the city.
+There are so many impressive office towers in downtown Singapore. Here are some pictures, so you have an idea of what you are looking at when walking around the city.
 
 Looking from across the Singapore River on the lawn of the Asian Civilizations Museum, you can have quite a cool panorama of the older part of the CBD:
 
@@ -302,9 +302,9 @@ If you are on the Marina Bay, either right out the Shoppes or on top of the Sand
 
 Just like with the PARKROYAL, WOHA managed to turn this hotel into another "urban oasis" (sorry for the tacky term!). And while the PARKROYAL has a nice little park as a neighbor, the **Oasia** is in the middle of Singapore's CBD in a relatively small plot. 
 
-It is striking in many ways: from the red tones of the metal mesh facade to all the plants growing from the ground up all up to the top, and spilling out of huge holes throughout the building. These sky gardens span several floors and serve as the hotel lobby and common areas. 
+It is striking in many ways: from the red tones of the metal mesh facade to all the plants growing from the ground up all up to the top and spilling out of huge holes throughout the building. These sky gardens span several floors and serve as the hotel lobby and common areas. 
 
-The lobby is totally open, no air-conditioning, just the breeze passing through. It is like being in a hotel lobby on the beach. In the mornings, people are doing some yoga in the grass in front of the lobby. In the higher sky garden, you can find a swimming pool and bar, also fully open. The room is definitely not the main attraction, as it is small, and the mesh facade does interfere with the guest's view to the outside. However, you'll want to stay as much as possible in the public areas as they are so special. 
+The lobby is totally open, with no air-conditioning, just the breeze passing through. It is like being in a hotel lobby on the beach. In the mornings, people are doing some yoga in the grass in front of the lobby. In the higher sky garden, you can find a swimming pool and bar, also fully open. The room is definitely not the main attraction, as it is small, and the mesh facade does interfere with the guest's view to the outside. However, you'll want to stay as much as possible in the public areas as they are so special. 
 
 <image-gallery folder="/guides/singapore/" prefix="oasia2" :num-images="3"/>
 
@@ -318,9 +318,9 @@ Even if you are not staying there, I'd recommend going up to the hotel lobby, ju
 
 <captioned-image alt="The art-deco facade of the National Design Centre" caption="The art-deco facade of the National Design Centre" imgFile="/guides/singapore/national-design-centre-01.jpg"/>
 
-This art-deco group of building is home to all things design. It houses exhibitions, think tanks, spaces for lectures and performances. 
+This art-deco group of buildings is home to all things design. It houses exhibitions, think tanks, spaces for lectures and performances. 
 
-The buildings were initially constructed as convent schools and a chapel, which now functions as the Centre's lecture theatre. Architect Soo K. Chan took the existing structure and modernized it by emphasizing the central courtyard as the main meeting space. Cantilevering volumes and rotating walls create interconnected reconfigurable new spaces. It is an attractive building from the outside, with exceptional exhibitions and overall clean, calm feeling on the inside. 
+The buildings were initially constructed as convent schools and a chapel, which now functions as the Centre's lecture theatre. Architect Soo K. Chan took the existing structure and modernized it by emphasizing the central courtyard as the main meeting space. Cantilevering volumes and rotating walls create interconnected, reconfigurable new spaces. It is an attractive building from the outside, with exceptional exhibitions and overall clean, calm feeling on the inside. 
 
 <captioned-image alt="The atrium" caption="The atrium" imgFile="/guides/singapore/national-design-centre-02.jpg"/>
 
@@ -339,9 +339,9 @@ Although there is so much more to see around downtown, the next buildings lead y
 
 <captioned-image alt="The Star Vista" caption="" imgFile="/guides/singapore/180303-135042-SG-Singapore.jpg"/>
 
-I first heard of **The Star Vista** in a class by my former professor Neil Leach during my master studies. The course was about public spaces and how their architectural qualities allow for unexpected uses by the population. The Star Vista's public spaces are composed of landscaped communal zones on many levels, creating areas for performances, exhibitions, gatherings, etc. All of it covered by a 5000-seat theater standing 40 meters in the air supported by a forest of slanting concrete columns.  
+I first heard of **The Star Vista** in a class by my former professor Neil Leach during my master studies. The course was about public spaces and how their architectural qualities allow for unexpected uses by the population. The Star Vista's public spaces are composed of landscaped communal zones on many levels, creating areas for performances, exhibitions, gatherings, etc. All of it covered by a 5000-seat theater standing 40 meters in the air supported by a forest of slanting concrete columns. 
 
-Protected against the elements and refreshed by a constant breeze, "The building is an organic object opening to public discovery. One can crawl under, move through, transverse around and climb onto the complex via a series of ramps, escalators, terraces and public gardens" (Aedas).
+Protected against the elements and refreshed by a constant breeze, "The building is an organic object opening to public discovery. One can crawl under, move through, transverse around, and climb onto the complex via a series of ramps, escalators, terraces, and public gardens" (Aedas).
 
 The community quickly adopted these spaces as their new living room, and the place is always buzzing with activities.
 
@@ -351,7 +351,7 @@ The whole thing is owned by Singapore's New Creation Church, a Christian megachu
 
 ### Visit
 
-It is a shopping mall, but food-focused. You can come anytime and explore and eat. If you are into church, I believe you are more than welcome to come in on Sundays for the mass. Otherwise, check their event schedule, and maybe you'll catch something other than God at the theater.
+It is a shopping mall, but food-focused. You can come anytime and explore and eat. If you are into the church, I believe you are more than welcome to come in on Sundays for the mass. Otherwise, check their event schedule, and maybe you'll catch something other than God at the theater.
 
 <building-info-container id="125" />
 
@@ -363,7 +363,7 @@ Walking around the beautiful Nanyang Technological University reminded me of hom
 
 <image-gallery folder="/guides/singapore/" prefix="hive1" :num-images="4"/>
 
-One of them and perhaps one of my favorite buildings in Singapore is Heatherwick's **The Hive**. This funny-looking building with no regular windows or doors welcomes the user through a completely open ground floor plan. You can just go in and explore. It is named a "learning hub," a collection of classrooms and spaces to be used by different disciplines and projects. Each of its 12 "towers" house a stack of tutorial rooms, each with no front or back or corners. It all allows for creative use of the space, without pre-considerations of how a learning space should look like.
+One of them, and perhaps one of my favorite buildings in Singapore, is Heatherwick's **The Hive**. This funny-looking building with no regular windows or doors welcomes the user through a completely open ground floor plan. You can just go in and explore. It is named a "learning hub," a collection of classrooms and spaces to be used by different disciplines and projects. Each of its 12 "towers" houses a stack of tutorial rooms, each with no front or back or corners. It all allows for creative use of the space, without pre-considerations of how a learning space should look like.
 
 <captioned-image alt="The inner atrium" caption="The inner atrium" imgFile="/guides/singapore/180303-105527-SG-Singapore.jpg" format="v"/>
 
@@ -371,20 +371,20 @@ One of them and perhaps one of my favorite buildings in Singapore is Heatherwick
 
 The common areas are the main attraction, with the full-height, irregular atrium creating visual connections and allowing just the right amount of sunlight in. Surrounding the atrium, balconies, and niches form great spaces for spontaneous studying and interactions. 
 
-Entering the building, you feel the temperature drop, and there is always a breeze going through. The fact that it lacks proper windows in the classrooms seems to be an intentional move to keep the sunlight out and regulate the interior temperature to counteract to the hot and humid Singaporean weather. 
+Entering the building, you feel the temperature drop, and there is always a breeze going through. The fact that it lacks proper windows in the classrooms seems to be an intentional move to keep the sunlight out and regulate the interior temperature to counteract the hot and humid Singaporean weather. 
 
 Add to that the concrete facades acting like natural heat sinks (but also beautifully engraved to resemble hand-modeled clay), and you have high environmental quality married with a beautiful interior space.
 
 <image-gallery folder="/guides/singapore/" prefix="hive3" :num-images="4"/>
 
 
-I could go on and on about this building. Check [this great in-depth critic](https://www.architectural-review.com/today/learning-hub-in-singapore-by-thomas-heatherwick/8681493.article) of The Hive from Austin Willian in the Architectural Review, and don't miss Heatherwick's amazing images in his website's [project page](http://www.heatherwick.com/project/learning-hub-the-hive/). Then, go visit and reserve some good hour just to sit around and observe. It is a building that makes users happy.
+I could go on and on about this building. Check [this great in-depth critic](https://www.architectural-review.com/today/learning-hub-in-singapore-by-thomas-heatherwick/8681493.article) of The Hive from Austin Willian in the Architectural Review, and don't miss Heatherwick's amazing images in his website's [project page](http://www.heatherwick.com/project/learning-hub-the-hive/). Then, go visit and reserve some good hours just to sit around and observe. It is a building that makes users happy.
 
 <image-gallery folder="/guides/singapore/" prefix="hive4" :num-images="3"/>
 
 ### Visit
 
-I believe it is open 24-hours. It is a place for students to go and use as they want. So you can just go and explore, up and down, in and out of the classrooms. Make sure to check all niches and terraces and balconies, and the great views from the top.
+I believe it is open 24-hours. It is a place for students to go and use it as they want. So you can just go and explore, up and down, in and out of the classrooms. Make sure to check all niches and terraces and balconies, and the great views from the top.
 
 <building-info-container id="126" />
 
@@ -398,11 +398,11 @@ There are two large buildings, impressive in their complexity. It definitely doe
 
 <image-gallery folder="/guides/singapore/" prefix="sky" :num-images="2"/>
 
-It is, however, a house for the rich, developed by Capitaland, the same developer getting Zaha and other big-name architects to try and heat up the slow Singaporean housing market.  It inaugurated as the most expensive address in Singapore. 
+It is, however, a house for the rich, developed by Capitaland, the same developer getting Zaha and other big-name architects to try and heat up the slow Singaporean housing market. It inaugurated as the most expensive address in Singapore. 
 
 ### Visit
 
-It is worth the visit, even if you cannot get inside. Just walk around and check how the building has so many different aspects depending on the viewpoints.
+It is worth the visit, even if you cannot get inside. Just walk around and check how the building has so many different aspects, depending on the viewpoints.
 
 <building-info-container id="127" />
 
@@ -410,7 +410,7 @@ It is worth the visit, even if you cannot get inside. Just walk around and check
 
 <captioned-image alt="The Interlace from OMA in Singapore" caption="" imgFile="/guides/singapore/interlace.jpg"/>
 
-This is one of those building you hear so much about it that you just have to go and see. I remember seeing the renders for the first time, and sometime later, the construction photos. We were all like, "OMG, they are really building it!". 
+This is one of those buildings you hear so much about it that you just have to go and see. I remember seeing the renders for the first time, and sometime later, the construction photos. We were all like, "OMG, they are really building it!". 
 
 But there is not much to see except if you know someone who'll let you inside. I didn't, so I just flew my drone on top of it and went home. But it is indeed quite impressive when seen from afar, perched on top a slight hill on Depot Road. It is gigantic: more than 1000 apartment units distributed into 31 blocks with 6-floors each, placed on top of each other in a hexagonal pattern. This formation creates several cool moments: roof terraces, covered plazas, thematic courtyards. Probably a really cool place to live in.
 
@@ -438,10 +438,10 @@ The more I research after my trip, the more I realized how much I missed. There 
 
 ## More tips & links...
 
-During my research I also collected some pretty interesting set of links with tips and great articles about the city. Here are some of them:
+During my research, I also collected some pretty interesting set of links with tips and great articles about the city. Here are some of them:
 
-- **[The Best Singapore Travel Tips From Our Readers](https://lifehacker.com/the-best-singapore-travel-tips-from-our-readers-1829179524)**: I really like Lifehacker's _Hack Your City_ series, where they ask their uses to send in their best tips. 
-- **["Corridors of Diversity": Showcasing the Secret of Singapore's Public Housing Success ](https://www.archdaily.com/866987/corridors-of-diversity-showcasing-the-secret-of-singapores-public-housing-success)**: You'll notice I did not get much into residential projects in the guide,  because I like to keep the guide with buildings you can actually walk in and visit (well, mostly...). However, Singapore's public housing program is quite famous and successful, and this article showcases some important projects to look at in case you are interested.
-- **[The 38 Essential Restaurants in Singapore](https://www.eater.com/maps/best-restaurants-singapore)**: Great map and tips from Eater. Some if them are in the map above, but check it out for the full range in the link.
-- **[Unpacking Paul Rudolph’s Overlooked Architectural Feats in Southeast Asia ](https://www.archdaily.com/883921/unpacking-paul-rudolphs-overlooked-architectural-feats-in-southeast-asia)**: although I like how this guide turned out, my biggest pain is not having included any of Paul Rudolph's projects. I did not visit them and they are on my list "first things to do when in Singapore again".
-- **[Interview with WOHA: “The Only Way to Preserve Nature is to Integrate it into Our Built Environment” ](https://www.archdaily.com/800182/interview-with-woha-the-only-way-to-preserve-nature-is-to-integrate-it-into-our-built-environment)**: WOHA is the quintessencial contemporary Singaporean architecture practice. Their buildings are everywhere and are (mostly) wonderful. 
+- **[The Best Singapore Travel Tips From Our Readers](https://lifehacker.com/the-best-singapore-travel-tips-from-our-readers-1829179524)**: I really like Lifehacker's _Hack Your City_ series, where they ask their users to send in their best tips. 
+- **["Corridors of Diversity": Showcasing the Secret of Singapore's Public Housing Success ](https://www.archdaily.com/866987/corridors-of-diversity-showcasing-the-secret-of-singapores-public-housing-success)**: You'll notice I did not get much into residential projects in the guide, because I like to keep the guide with buildings you can actually walk in and visit (well, mostly...). However, Singapore's public housing program is quite famous and successful, and this article showcases some important projects to look at in case you are interested.
+- **[The 38 Essential Restaurants in Singapore](https://www.eater.com/maps/best-restaurants-singapore)**: Great map and tips from Eater. Some of them are in the map above, but check it out for the full range in the link.
+- **[Unpacking Paul Rudolph's Overlooked Architectural Feats in Southeast Asia ](https://www.archdaily.com/883921/unpacking-paul-rudolphs-overlooked-architectural-feats-in-southeast-asia)**: although I like how this guide turned out, my biggest pain is not having included any of Paul Rudolph's projects. I did not visit them, and they are on my list "first things to do when in Singapore again."
+- **[Interview with WOHA: "The Only Way to Preserve Nature is to Integrate it into Our Built Environment"](https://www.archdaily.com/800182/interview-with-woha-the-only-way-to-preserve-nature-is-to-integrate-it-into-our-built-environment)**: WOHA is the quintessential contemporary Singaporean architecture practice. Their buildings are everywhere and are (mostly) wonderful. 
