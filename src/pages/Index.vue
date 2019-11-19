@@ -134,7 +134,7 @@
 
 <page-query>
 query {
-  guides: allGuide (filter: {chapter: {eq: 0}}, sortBy: "city" ){
+  guides: allGuide (filter: {chapter: {eq: 0}}, sortBy: "date", limit: 6 ){
     edges {
       node {
         id
