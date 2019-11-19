@@ -83,7 +83,10 @@ export default {
         { key: "description", name: "description", content: this.$page.guide.excerpt },
         { key: "twitter:description", name: "twitter:description", content: this.$page.guide.excerpt },
         { key: "twitter:title",name: "twitter:title", content: this.$page.guide.title },
-        { key: "twitter:image",name: "twitter:image", content: this.$page.guide.coverImage.src },
+        { key: "twitter:image",name: "twitter:image", content: this.getCoverImage },
+        { key: "twitter:card",name: "twitter:card", content: 'summary_large_image' },
+        { property: "og:image", content: this.getCoverImage },
+        { property: "og:image:secure_url", content: this.getCoverImage }
         { key: "og:type",name: "og:type", content: "article" },
         { key: "og:title",name: "og:title", content: this.$page.guide.title },
         { key: "og:description", name: "og:description", content: this.$page.guide.excerpt },
@@ -97,6 +100,16 @@ export default {
       script: [{ src: "https://platform.twitter.com/widgets.js", async: true }]
     };
   },
+  computed: {
+    getCoverImage() {
+      let coverImage = "";
+      const cover = this.$page.post.cover;
+      if (cover != null) {
+        coverImage = `${this.getBaseUrl}${this.$page.post.cover.src}`;
+      }
+      return coverImage;
+    },
+  }
 }
 </script>
 
