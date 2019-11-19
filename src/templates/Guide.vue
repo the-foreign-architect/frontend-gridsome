@@ -82,7 +82,7 @@ export default {
         {  name: "description", content: this.$page.guide.excerpt },
         {  name: "twitter:description", content: this.$page.guide.excerpt },
         { name: "twitter:title", content: this.$page.guide.title },
-        { name: "twitter:image", csontent: `${process.env.GRIDSOME_BASE_URL}${this.$page.guide.coverImage.src}` },
+        { name: "twitter:image", content: `${process.env.GRIDSOME_BASE_URL}${this.$page.guide.coverImage.src}` },
         { name: "twitter:card", content: 'summary_large_image' },
         { property: "og:image", content: `${process.env.GRIDSOME_BASE_URL}${this.$page.guide.coverImage.src}` },
         { property: "og:image:secure_url", content: `${process.env.GRIDSOME_BASE_URL}${this.$page.guide.coverImage.src}` }
