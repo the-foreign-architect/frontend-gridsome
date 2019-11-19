@@ -38,9 +38,7 @@
         :current-chapter="$page.guide.chapter"
         :chapters="$page.guide.series.belongsTo.edges.map(edge => edge.node)"/>
     </section>
-    <section>
-      <post-social/>
-    </section>
+
   </article>
   </Layout>
 </template>
@@ -52,6 +50,7 @@ query Guide ($id: ID!) {
     excerpt
     city
     chapter
+    date
     series {
       id
       belongsTo {
@@ -80,36 +79,21 @@ export default {
     return {
       title: this.$page.guide.title,
       meta: [
-        { key: "description", name: "description", content: this.$page.guide.excerpt },
-        { key: "twitter:description", name: "twitter:description", content: this.$page.guide.excerpt },
-        { key: "twitter:title",name: "twitter:title", content: this.$page.guide.title },
-        { key: "twitter:image",name: "twitter:image", content: this.getCoverImage },
-        { key: "twitter:card",name: "twitter:card", content: 'summary_large_image' },
-        { property: "og:image", content: this.getCoverImage },
-        { property: "og:image:secure_url", content: this.getCoverImage }
-        { key: "og:type",name: "og:type", content: "article" },
-        { key: "og:title",name: "og:title", content: this.$page.guide.title },
-        { key: "og:description", name: "og:description", content: this.$page.guide.excerpt },
-        {
-          key: "article:published_time",
-          name: "article:published_time",
-          content: this.$page.guide.date
-        },
-        { key: "og:image", name: "og:image",content: this.$page.guide.coverImage.src },
+        {  name: "description", content: this.$page.guide.excerpt },
+        {  name: "twitter:description", content: this.$page.guide.excerpt },
+        { name: "twitter:title", content: this.$page.guide.title },
+        { name: "twitter:image", csontent: `${process.env.GRIDSOME_BASE_URL}${this.$page.guide.coverImage.src}` },
+        { name: "twitter:card", content: 'summary_large_image' },
+        { property: "og:image", content: `${process.env.GRIDSOME_BASE_URL}${this.$page.guide.coverImage.src}` },
+        { property: "og:image:secure_url", content: `${process.env.GRIDSOME_BASE_URL}${this.$page.guide.coverImage.src}` }
+        { name: "og:type", content: "article" },
+        { name: "og:title", content: this.$page.guide.title },
+        {  name: "og:description", content: this.$page.guide.excerpt },
+        { name: "article:published_time", content: this.$page.guide.date},
       ],
-      script: [{ src: "https://platform.twitter.com/widgets.js", async: true }]
-    };
+    }
   },
-  computed: {
-    getCoverImage() {
-      let coverImage = "";
-      const cover = this.$page.post.cover;
-      if (cover != null) {
-        coverImage = `${this.getBaseUrl}${this.$page.post.cover.src}`;
-      }
-      return coverImage;
-    },
-  }
+
 }
 </script>
 

@@ -63,6 +63,12 @@ query {
 
 <script>
 export default {
+  metaInfo: {
+    titleTemplate: '%s - TFA',
+    htmlAttrs: {
+        lang: 'en',
+    }
+  },
   data() {
     return {
       showMenu: false
