@@ -3,13 +3,13 @@
     <article>
     <!-- COVER IMAGE -->
     <div id="image" class="px-4">
-      <div class="hidden w-full
+      <div class="w-full
         border-2 border-black
         image-cover
         guide-cover
         mb-8
         max-h-full
-        sm:flex sm:items-center sm:justify-center"
+        flex items-center justify-center"
       :style="`background-image: url('${$page.guide.coverImage.src}')`">
         <span class="stripe-shadow-white max-w-xl mx-auto p-4 font-bold text-3xl uppercase leading-none tracking-wide">
             {{$page.guide.city}}
@@ -18,7 +18,7 @@
     </div>
     <header id="header" class="mb-8">
       <div class="px-4 max-w-xl mx-auto">
-        <h1 class="text-3xl font-bold leading-none mb-2">{{ $page.guide.title }}</h1>
+        <h1 class="text-3xl font-bold leading-tight mb-2">{{ $page.guide.title }}</h1>
         <!-- <hr class="border-black border-b-2 mb-4"/> -->
         <p class="text-xl ">{{ $page.guide.excerpt }}</p>
       </div>
@@ -29,7 +29,7 @@
         :current-chapter="$page.guide.chapter"
         :chapters="$page.guide.series.belongsTo.edges.map(edge => edge.node)"/>
     </section>
-    <section  id="content" class="content px-4 max-w-xl mx-auto">
+    <section  id="content" class="content px-4 max-w-xl mx-auto mb-12">
       <vue-remark-content class="flow"/>
     </section>
     <section  id="navigation-bottom"  v-if="$page.guide.series && $page.guide.chapter > 0" class="content px-4 max-w-xl mx-auto">
@@ -37,6 +37,9 @@
         :total-chapters="$page.guide.series.belongsTo.totalCount"
         :current-chapter="$page.guide.chapter"
         :chapters="$page.guide.series.belongsTo.edges.map(edge => edge.node)"/>
+    </section>
+    <section>
+      <post-social/>
     </section>
   </article>
   </Layout>
@@ -71,6 +74,7 @@ query Guide ($id: ID!) {
 </page-query
 
 <script>
+
 export default {
   metaInfo() {
     return {
@@ -92,7 +96,7 @@ export default {
       ],
       script: [{ src: "https://platform.twitter.com/widgets.js", async: true }]
     };
-  }
+  },
 }
 </script>
 
