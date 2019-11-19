@@ -22,6 +22,7 @@ module.exports = {
     'g-image--lazy',
     'g-image--loaded',
     'svg-inline--fa',
+    'blockquote'
   ],
   whitelistPatterns: [/^fa-/, /-fa/, /shiki/],
   whitelistPatternsChildren: [/^token/, /^pre/, /^code/],
