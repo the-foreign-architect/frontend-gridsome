@@ -70,7 +70,7 @@ query Guide ($id: ID!) {
     coverImage (width: 1920, height: 800, quality: 90)
   }
 }
-</page-query
+</page-query>
 
 <script>
 
@@ -85,15 +85,14 @@ export default {
         { name: "twitter:image", content: `${process.env.GRIDSOME_BASE_URL}${this.$page.guide.coverImage.src}` },
         { name: "twitter:card", content: 'summary_large_image' },
         { property: "og:image", content: `${process.env.GRIDSOME_BASE_URL}${this.$page.guide.coverImage.src}` },
-        { property: "og:image:secure_url", content: `${process.env.GRIDSOME_BASE_URL}${this.$page.guide.coverImage.src}` }
+        { property: "og:image:secure_url", content: `${process.env.GRIDSOME_BASE_URL}${this.$page.guide.coverImage.src}` },
         { name: "og:type", content: "article" },
         { name: "og:title", content: this.$page.guide.title },
         {  name: "og:description", content: this.$page.guide.excerpt },
         { name: "article:published_time", content: this.$page.guide.date},
       ],
     }
-  },
-
+  }
 }
 </script>
 
