@@ -14,7 +14,7 @@
       <h3
         class="stripe-shadow-white
         inline-block uppercase font-bold tracking-wide px-4 bg-white text-center"
-      >{{node.city}}</h3>
+      ><g-link :to="node.path" class="no-decoration">{{node.city}}</g-link></h3>
     </div>
   </div>
 </template>
