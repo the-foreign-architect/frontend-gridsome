@@ -6,7 +6,8 @@
 
 const purgecss = require('@fullhuman/postcss-purgecss');
 const tailwind = require('tailwindcss');
-const postcssPlugins = [tailwind()];
+const postcssNested = require('postcss-nested')
+const postcssPlugins = [tailwind(), postcssNested];
 if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss());
 
 module.exports = {
