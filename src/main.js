@@ -62,5 +62,11 @@ export default function(Vue, { router, head, isClient }) {
       return format(new Date(String(value)), dateFormat, { enUS });
     }
   });
-
+  // Add a meta tag
+  head.meta.push({
+    name: 'google-site-verification',
+    content: 'hVDv5JzvYipaM6TqMePoqKROGa7nNbX-oi5A8yzwoxY'
+  })
 }
+
+
