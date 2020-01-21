@@ -56,6 +56,16 @@ export default {
           content: this.$page.post.excerpt
         },
         {
+          key: "twitter:site",
+          name: "twitter:site",
+          content: '@theForeignArch'
+        },
+        {
+          key: "twitter:creator",
+          name: "twitter:creator",
+          content: '@@danrocc'
+        },
+        {
           key: "twitter:description",
           name: "twitter:description",
           content: this.$page.post.excerpt
