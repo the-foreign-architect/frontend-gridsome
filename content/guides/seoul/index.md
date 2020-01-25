@@ -1,6 +1,6 @@
 ---
 title: 'Seoul: a small guide to the best contemporary architecture in town'
-date: 2017-03-25
+date: 2020-01-27
 chapter: 0
 description: A fascinating city where architecture is fresh and the food is delicious.
 excerpt: A fascinating city where architecture is fresh and the food is delicious.
@@ -20,20 +20,28 @@ import VideoPlayer from '~/components/VideoPlayer.vue'
 import BackToTop from '~/components/BackToTop.vue'
 import McGetGuideForm from '~/components/McGetGuideForm.vue' 
 
+Seoul is a city very dear to me. It was there that I had my first adventure in the far east when I accepted a job offer in town in 2009. Contemporary architecture in Seoul, at that time, was starting to show its face to the world. 
 
-Seoul is a city very dear to me. It was there that I had my first adventure in the far east when I accepted a job offer in town in 2009. Back then, I had no idea what it was like to land in a place where everyone and everything is different from you and what you are used to. It was a shock, but a good one. The people were great, the culture of the place fascinating, but it was the food the left the deepest impression on me. Deeper, even, than architecture.
+### Architecture in Seoul
 
-### Food
+Offices such as Mass Studies were building more and more, and huge projects such as the Dongdaemun Design Plaza from Zaha Hadid were being erected at a fast pace. 
 
-The delicious, street-bought Topokki, soft rice cakes with savory red sauce, scallions and fish cakes; the comforting Bibimbap, rice with toppings served in a hot stone bowl; the joy of sharing Korean barbeque with friends, accompanied by cold shots of Soju; grilled mackerel, served with only salt and lemon and needing nothing else; even simple fried chicken, elevated to Korean standards and washed down with liters of cold beer on a Friday night. I was hooked, and until today Korean food is easily on my top-five list of best cuisines in the world.
+Seoul of today, therefore, is a much different place. Zaha's DDP is finally open; the city recently inaugurated its first supertall, the **Lotte World Tower**. Thanks in part to PSY and his pop hit Gangnam Style, new hype projects in that neighborhood are popping up on every architecture website, and new exciting local offices are gaining traction in this bustling market.
 
-### Architecture
 
-Contemporary architecture in Seoul, at that time, was starting to show its face to the world. Offices such as Mass Studies were building more and more, and huge projects such as the Dongdaemun Design Plaza from Zaha Hadid were being erected at a fast pace. Seoul of today, therefore, is a much different place. Zaha's DDP is finally open; the city is about to inaugurate its first supertall, the Lotte World Tower. Thanks in part to PSY and his pop hit Gangnam Style, new hype projects in that neighborhood are popping up on every architecture website, and new exciting local offices are gaining traction in this bustling market.
+### Korean Food
 
-### This guide
+Back then, I had no idea what it was like to land in a place where everyone and everything is different from you and what you are used to. It was a shock, but a good one. The people were great, the culture of the place fascinating, but it was the food the left the deepest impression on me. Deeper, even, than architecture.
 
-After seven years, I finally had the chance to visit Seoul again. It was a short weekend trip from Beijing, but I tried to eat as much as I could and see as much architecture as possible during my brief stay. I tried to collect it all in this little guide and in the included map. The focus will be architecture, with some food interludes in between. Of course, I could not see all I wanted or all that Seoul has to offer. This little guide is still a work in progress, which I hope to keep updating after my future visits to the city, which will still be many.
+The delicious, street-bought Topokki, soft rice cakes with savory red sauce, scallions and fish cakes; the comforting Bibimbap, rice with toppings served in a hot stone bowl; the joy of sharing Korean barbecue with friends, accompanied by cold shots of Soju; grilled mackerel, served with only salt and lemon and needing nothing else; even simple fried chicken, elevated to Korean standards and washed down with liters of cold beer on a Friday night. I was hooked, and until today Korean food is easily on my top-five list of best cuisines in the world.
+
+### This architecture guide
+
+After many years, I finally had the chance to visit Seoul again. It was a short weekend trip from Beijing, but I tried to eat as much as I could and see as much architecture as possible during my brief stay. 
+
+I tried to collect it all in this little guide and the included map. The focus will be contemporary architecture in Seoul, with some food "interludes" in between. 
+
+Of course, I could not see all I wanted or all that Seoul has to offer. This little guide is still a work in progress, which I hope to keep updating after my future visits to the city, which will still be many.
 
 <mc-get-guide-form guide="Seoul"/>
 
@@ -43,7 +51,9 @@ toc
 
 ### Map
 
-In the meantime, it should help you get started. Here is the map of everything I mention in the article and more (last updated on May 25th, 2018). Black icons were visited in person and/or are mentioned in the guide below, while gray icons are further recommendations, not necessarily tried or visited.
+Here is the map of everything I mention in the article and more. Black icons were visited in person and/or are mentioned in the guide below, while gray icons are further recommendations, not necessarily tried or visited.
+
+Make sure you also check my little list of **[Hotels in Seoul for architecture & design lovers](/blog/hotels-in-seoul)**.
 
 <guide-map title="Architecture Map of Seoul" map="https://www.google.com/maps/d/u/1/embed?mid=1ZZ7l8OA90YvPrS9oxG52e_Mwsxk" />
 
@@ -73,11 +83,11 @@ Rem Koolhaas, Mario Botta, Jean Nouvel. Three architecture giants. Few cities ar
 
 Hidden in the back alleys of this expat neighborhood, the Leeum Samsung Museum was inaugurated in 2004, housing a mixed permanent collection of Korean traditional artifacts and contemporary national and international artists, as well as frequent temporary exhibitions. Coming up the street, you can see all three buildings at once: Koolhaas's glass and concrete blocks, Nouvel's black metal boxes and Botta's terra-cotta cylinder. In front of it all an elevated sculpture garden, at the time of my visit housing huge reflective sculptures by Anish Kapoor.
 
-It is an impressive ensemble, Nouvel’s building being, IMHO, the most intriguing. The entrance is underground, in a space where all three buildings meet. Museum 1, designed by Botta, houses a collection of traditional Korean artifacts and is characterized by its central stairway atrium. It is beautiful: a white funnel spiral atrium, bringing light all the way down to the lobby, serving as the main circulation through the four floors of the collection.
+It is an impressive ensemble, Nouvel’s building being, IMHO, the most intriguing. The entrance is underground, in a space where all three buildings meet. Museum 1, designed by Botta, houses a collection of traditional Korean artifacts and is characterized by its central stairway atrium. It is beautiful: a white funnel spiral atrium, bringing light down to the lobby, serving as the main circulation through the four floors of the collection.
 
 Museum 2 was by far my favorite. Designed by Nouvel, it houses various works from international and Korean contemporary artists. The building is incredible. Its black walls made of rusted stainless steel (invented especially for this building!); the column-free space in the middle out of which smaller boxes stick out, offering a range of possibilities to exhibit and experience art; the clear glass offering views not only to the outside city and garden but also to the unique sunken gardens bordered by massive stone walls. It all contributes to an amazing experience, a building that starts in the underground and shoots up as if reaching out to the sky.
 
-Koolhaas building is undeniably his. Housing the Samsung Child Education & Culture Center, it is large space with tall concrete columns and a glass facade, housing another smaller volume, rendered in beautiful black concrete, and all exhibition areas occupying the spaces in-between. A wide diversity of surfaces and volumes allowing for a large variety of uses. At the time of my visit, a temporary exhibition from Olafur Eliasson showcased not only great art but also the flexibility of that space.
+Koolhaas building is undeniably his. Housing the Samsung Child Education & Culture Center, it is a large space with tall concrete columns and a glass facade, housing another smaller volume, rendered in beautiful black concrete, and all exhibition areas occupying the spaces in-between. A wide diversity of surfaces and volumes allowing for a large variety of uses. At the time of my visit, a temporary exhibition from Olafur Eliasson showcased not only great art but also the flexibility of that space.
 
 <image-gallery folder="guides/seoul/" prefix="leeum" :num-imgs="3" />
 
@@ -87,9 +97,9 @@ The garden is open and free to visit, and chances are you’ll be able to see on
 
 <building-info-container id=1 />
 
-## Ewha Womans University - Dominique Perrault
+## Ewha Woman's University - Dominique Perrault
 
-This a marvelous building, probably my favorite in Seoul. "Building", "landscape", "sculpture", all names fit this work by Dominique Perrault. It invites you in many ways, its scale grows and shrinks as you traverse its spaces. Another building that deserves its own post. Go check it out: **[Ewha Womans University: the unique work of Dominique Perrault in Seoul](http://theforeignarchitect.com/ewha-womans-university-perrault/)**
+This a marvelous building, probably my favorite in Seoul. "Building", "landscape", "sculpture", all names fit this work by Dominique Perrault. It invites you in many ways, its scale grows and shrinks as you traverse its spaces. Another building that deserves its own post. Go check it out: **[Ewha Woman's University: the unique work of Dominique Perrault in Seoul](http://theforeignarchitect.com/ewha-womans-university-perrault/)**
 
 <captioned-image alt="Ewha Womans University" caption="Ewha Womans University's central valley" imgFile="guides/seoul/Ewha-Womans-University-17-1.jpg"/>
 
@@ -105,11 +115,11 @@ I am not a fan of malls, but this one, designed by South Korean architects GA.A,
 
 <captioned-image alt="Ssamziegil Mall" caption="Ssamziegil Mall's courtyard" imgFile="guides/seoul/Ssamgiezil-1-595x892.jpg" format="v"/>
 
-To start with, it is located in Insadong, where one of my favorite pedestrian streets connects with many small little alleys full of shops, cafes and street food. The mall works with that and recognizes the importance of this street life by creating an alley that continues from the street all the way up the building. It spirals up around a large courtyard, passing along small shops and ending on the rooftop area, where gardens, resting spaces, and coffee shops create a bustling public space.
+To start with, it is located in Insadong, where one of my favorite pedestrian streets connects with many small little alleys full of shops, cafes and street food. The mall works with that and recognizes the importance of this street life by creating an alley that continues from the street up the building. It spirals up around a large courtyard, passing along small shops and ending on the rooftop area, where gardens, resting spaces, and coffee shops create a bustling public space.
 
 ### Visit
 
-It is very a very popular and unique little mall. There is always something going on in the inner courtyard, an exhibition or event. On your way up the ramp, you can check the shops, all original and local, lots of handcraft and unique products. In the end, grab some unique handcraft Korean goods, a coffee, and snacks, while checking the view from the top. You can reach by subway at Anguk Station (Line 3), Exit 6.
+It is a very popular and unique little mall. There is always something going on in the inner courtyard, an exhibition or event. On your way up the ramp, you can check the shops, all original and local, lots of handcraft and unique products. In the end, grab some unique handcraft Korean goods, a coffee, and snacks, while checking the view from the top. You can reach by subway at Anguk Station (Line 3), Exit 6.
 
 <building-info-container id=21 />
 
@@ -149,17 +159,17 @@ This is another building that was not there when I first came to Seoul in 2009, 
 
 <captioned-image alt="Modern Museum of Contemporary Art" caption="Modern Museum of Contemporary Art" imgFile="guides/seoul/161210-110628-KR-Seoul.jpg"/>
 
-In its prominent site right next to the Gyeongbokgung Palace, the MMCA is wonderful. The building starts on the brick-facade of the old Defense Security Command, renovated and standing proud as the memory of the site. What seems like a small gallery museum, opens up to reveal large exhibition halls spread on the site. But the architect’s accomplishment is that they do not feel huge. A lot of it is underground, and the friendly scale of the elements above ground fits so well within the context of its historic neighborhood. A public path lets you cross the museum site, along which courtyards open up to reveal the buildings inner workings, as well as historical buildings preserved on the site. The change of scales, directions, and elevations of this public path offers a great way to experience the building and its surroundings.
+In its prominent site right next to the Gyeongbokgung Palace, the MMCA is wonderful. The building starts on the brick-façade of the old Defense Security Command, renovated and standing proud as the memory of the site. What seems like a small gallery museum, opens up to reveal large exhibition halls spread on the site. But the architect’s accomplishment is that they do not feel huge. A lot of it is underground, and the friendly scale of the elements above ground fits so well within the context of its historic neighborhood. A public path lets you cross the museum site, along which courtyards open up to reveal the building's inner workings, as well as historical buildings preserved on the site. The change of scales, directions, and elevations of this public path offers a great way to experience the building and its surroundings.
 
 ### Visit
 
-A lot of it is freely accessible. The entrance building houses shops, through which you can reach the first courtyard. From there you can take a passageway up all the way to the back of the site, leaving you in the small streets of the Samcheong-ro neighborhood. Due to my short time in the city, I did not get in to check the exhibits. On my to-do list for the next visit. You can reach it by subway via the stations: Anguk (Line 3 - Exit 1),  Gyeongbokgung (Line 3 - Exit 5), or Gwanghwamun (Line 5 - Exit 2).
+A lot of it is freely accessible. The entrance building houses shops, through which you can reach the first courtyard. From there you can take a passageway up to the back of the site, leaving you in the small streets of the Samcheong-ro neighborhood. Due to my short time in the city, I did not get in to check the exhibits. On my to-do list for the next visit. You can reach it by subway via the stations: Anguk (Line 3 - Exit 1),  Gyeongbokgung (Line 3 - Exit 5), or Gwanghwamun (Line 5 - Exit 2).
 
 <building-info-container id=24 />
 
 ### If you get hungry...
 
-...one of my favorite Mandu restaurants is just beside the Museum. Mandu are Korean dumplings, served alone or in a clear soup, called Manduguk. Just go there and try. They make their dumplings fresh every day and it is delicious ([check the map!](#map)).
+...one of my favorite Mandu restaurants is just beside the Museum. Mandus are Korean dumplings, served alone or in a clear soup, called Manduguk. Just go there and try. They make their dumplings fresh every day and it is delicious ([check the map!](#map)).
 
 ## Kukje Gallery 3 - SO-IL
 
@@ -177,7 +187,7 @@ You cannot see it from the street, as it is hidden behind a building. But follow
 
 ## Chungha Building - MVRDV
 
-The Chungha Building was another one hard to find. We used it as facade reference for a recent project, so I was quite curious to see how it looked in person.
+The Chungha Building was another one hard to find. We used it as façade reference for a recent project, so I was quite curious to see how it looked in person.
 
 <captioned-image alt="Chungha Building" caption="© Kyungsub Shin" imgFile="guides/seoul/0_MVRDV.jpg"/>
 
@@ -189,7 +199,7 @@ I was most impressed by the materials. The walls look like smooth plaster from a
 
 ### Visit
 
-The Apgujung Road is an 8-lane avenue lined with luxury big name shops. You can see some interesting buildings along the way, but I would just drive directly to the Chungha. The closest subway station is Apgujeon Rodeo, take exit 2 and follow along Apgujung Road until you see the building on your left.
+The Apgujung Road is an 8-lane avenue lined with luxury big-name shops. You can see some interesting buildings along the way, but I would just drive directly to the Chungha. The closest subway station is Apgujeon Rodeo, take exit 2 and follow along Apgujung Road until you see the building on your left.
 
 <building-info-container id=26 />
 
@@ -209,7 +219,7 @@ The building is placed on top of a commercial plinth open to the public. I have
 
 ## Lotte World Tower - KPF
 
-Seoul’s first super tall, KPF’s Lotte tower is a 555m tall building located in Gangam. Its shape is quite unique, if not a little weird: it looks like a corn ear, half-open, or like a large rocket ready to take off. Add to that the funny-looking split tip, and you have a one-of-a-kind skyscraper.
+Seoul’s first super tall, KPF’s Lotte Tower is a 555m tall building located in Gangnam. Its shape is unique, if not a little weird: it looks like a corn ear, half-open, or like a large rocket ready to take off. Add to that the funny-looking split tip, and you have a one-of-a-kind skyscraper.
 
 <captioned-image alt="Lotte World Tower" caption="© Kohn Pedersen Fox Associates PC" imgFile="guides/seoul/Lotte_World_Tower_hero.jpg"/>
 
@@ -217,13 +227,13 @@ Surrounding it, another gigantic shopping mall, over six floors of shops and res
 
 <captioned-image alt="Lotte World Tower" imgFile="guides/seoul/lotte-2.jpg"/>
 
-At the time of my visit, it was still not finished, so no visiting allowed. But I believe its future observatory at almost 500m height will be a must-visit destination in Seoul, competing to the Namsan Tower as the best view in town.
+At the time of my visit, it was still not finished, so no visiting allowed. Now its observatory at almost 500m height is a must-visit destination in Seoul, competing to the Namsan Tower as the best view in town.
 
 <image-gallery folder="guides/seoul/" prefix="lotte" :imgs="3" />
 
 ### Visit
 
-The tower is set to open in April 2017. The top ten stories of the building are originally reserved for public functions, and the observatory will certainly be worth a visit. **Update**: the tower is open since April 2007. It's [observatory](https://seoulsky.lotteworld.com/) inaugurated right after and the [LOTTE Museum of Art](https://www.lottemuseum.com/) opened on the 7th floor of the tower in January 2018. The Lotte World Mall is gigantic and luxurious, if you are into this stuff you can have a blast there while the tower is not open. Otherwise, you won’t miss much to just skip it and enjoy other more interesting stuff to see in Seoul. You can reach by subway, Line 2, Jamsil Station, exits 3 & 4.
+The tower is open since April 2007. It's [observatory](https://seoulsky.lotteworld.com/) inaugurated right after and the [LOTTE Museum of Art](https://www.lottemuseum.com/) opened on the 7th floor of the tower in January 2018. The Lotte World Mall is gigantic and luxurious, if you are into this stuff you can have a blast there while the tower is not open. Otherwise, you won’t miss much to just skip it and enjoy other more interesting stuff to see in Seoul. You can reach by subway, Line 2, Jamsil Station, exits 3 & 4.
 
 <building-info-container id=28 />
 
@@ -235,7 +245,7 @@ The first skyscraper in Seoul, the 63-Building is quite striking in its 80’s a
 
 ### Visit
 
-The top floors are public, containing what is said to be the highest art gallery in the world, an observation deck, and some restaurants. An interesting feature is a panoramic elevator leading you all the way to the observation deck. The base of the tower is dominated by a shopping mall, aquariums, and cinemas. The 63 Building is not located close to any stations so you will need to take the free shuttle bus, taxi or walk. Three stations are served by the free shuttle bus: Daebang (Line 1, exit 6), Teouinaru (Line 5, exit 4) and Yeoido (Line 5 or 9, exit 5).
+The top floors are public, containing what is said to be the highest art gallery in the world, an observation deck, and some restaurants. An interesting feature is a panoramic elevator leading you to the observation deck. The base of the tower is dominated by a shopping mall, aquariums, and cinemas. The 63 Building is not located close to any stations so you will need to take the free shuttle bus, taxi or walk. Three stations are served by the free shuttle bus: Daebang (Line 1, exit 6), Teouinaru (Line 5, exit 4) and Yeoido (Line 5 or 9, exit 5).
 
 <building-info-container id=29 />
 
@@ -243,7 +253,7 @@ The top floors are public, containing what is said to be the highest art gallery
 
 <captioned-image alt="S-Trenue Tower" caption="S-Trenue Tower © Yong-Kwan Kim" imgFile="guides/seoul/stringio.jpg" format="v"/>
 
-The S-Trenue is an exceptional tower. It escapes from the boring, overdone boxy highrise by being creative with how you deal with FAR and GFA requirements. Instead of building a low and chunky building, like most of its neighbors, MASS Studies designed a group of slender, slanted towers which lean on and off each other, creating gaps in between filled with green.
+The S-Trenue is an exceptional tower. It escapes from the boring, overdone boxy highrise by being creative with how you deal with FAR and GFA requirements. Instead of building a low and chunky building, like most of its neighbors, MASS Studies designed a group of slender, slanted towers that lean on and off each other, creating gaps in between filled with green.
 
 ### Visit
 
@@ -252,6 +262,8 @@ The tower is a mix of commercial, residential and office. The lower podium conta
 <building-info-container id=30 />
 
 ## More...
+
+If you are still looking for a place to stay, check my little list of **[Hotels in Seoul for architecture & design lovers](/blog/hotels-in-seoul)**.
 
 - **Get a prepaid SIM card**: in Seoul, you can purchase it at major convenience stores, Incheon airport or Korean mobile service provider stores (KT, SKT, LG). I got a 4G Unlimited from KT.
 - **[CityMapper app](https://citymapper.com/apps)**: one of the best apps to help navigate public transport works really well in Seoul. It helps you find subway and bus routes and even tell you where to get o while you ride. [You can also use it online.](https://citymapper.com/seoul)
@@ -266,4 +278,4 @@ There are many other resources online for you to make the best of Seoul. These a
 
 ### Work in progress...
 
-As I mentioned early, this guide is a work in progress. I intend to go back to Seoul many times and will continue updating this guide in the future. But this is a good start for you to start exploring this beautiful city and eat your way through its exciting architecture. [The map](#map) includes all of the above, with photos for easy browsing while on the go. Also, some of the food recommendations from the guide plus many others are also included. If you like this guide, please share it! And any comments, corrections, and suggestions are always welcome.
+As I mentioned early, this guide is a work in progress. I intend to go back to Seoul many times and will continue updating this guide in the future. But this is a good start for you to start exploring this beautiful city and eat your way through its exciting architecture. [The map](#map) includes all of the above, with photos for easy browsing while on the go. Also, some of the food recommendations from the guide plus many others are included. If you like this guide, please share it! And any comments, corrections, and suggestions are always welcome.
