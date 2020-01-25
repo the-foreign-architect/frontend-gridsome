@@ -12,6 +12,7 @@ import { enUS } from 'date-fns/locale';
 require('typeface-merriweather');
 require('typeface-poppins');
 require('typeface-source-sans-pro');
+require('typeface-cookie');
 import SocialSharing from 'vue-social-sharing';
 import VueDisqus from 'vue-disqus';
 
