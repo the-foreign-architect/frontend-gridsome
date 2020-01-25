@@ -107,6 +107,9 @@ a.white-link, a.white-link:hover {
 .content-page h2 {
   @apply text-2xl font-bold;
 }
+.content-page h3 {
+  @apply text-xl font-bold;
+}
 
 .content-page a + a {
   @apply ml-1;

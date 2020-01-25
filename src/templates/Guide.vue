@@ -3,36 +3,30 @@
     <article>
     <!-- COVER IMAGE -->
     <div id="image" class="px-4">
-      <div class="w-full
-        border-2 border-black
-        image-cover
-        guide-cover
-        mb-8
-        max-h-full
-        flex items-center justify-center"
+      <div class="flex items-center justify-center w-full max-h-full mb-8 border-2 border-black image-cover guide-cover"
       :style="`background-image: url('${$page.guide.coverImage.src}')`">
-        <span class="stripe-shadow-white max-w-xl mx-auto p-4 font-bold text-3xl uppercase leading-none tracking-wide">
+        <span class="max-w-xl p-4 mx-auto text-3xl font-bold leading-none tracking-wide uppercase stripe-shadow-white">
             {{$page.guide.city}}
         </span>
       </div>
     </div>
     <header id="header" class="mb-8">
-      <div class="px-4 max-w-xl mx-auto">
-        <h1 class="text-3xl font-bold leading-tight mb-2">{{ $page.guide.title }}</h1>
-        <!-- <hr class="border-black border-b-2 mb-4"/> -->
+      <div class="max-w-xl px-4 mx-auto">
+        <h1 class="mb-2 text-3xl font-bold leading-tight">{{ $page.guide.title }}</h1>
+        <!-- <hr class="mb-4 border-b-2 border-black"/> -->
         <p class="text-xl ">{{ $page.guide.excerpt }}</p>
       </div>
     </header>
-    <section id="navigation-top" v-if="$page.guide.series && $page.guide.chapter > 0" class="content px-4 max-w-xl mx-auto">
+    <section id="navigation-top" v-if="$page.guide.series && $page.guide.chapter > 0" class="max-w-xl px-4 mx-auto content">
       <series-navigation
         :total-chapters="$page.guide.series.belongsTo.totalCount"
         :current-chapter="$page.guide.chapter"
         :chapters="$page.guide.series.belongsTo.edges.map(edge => edge.node)"/>
     </section>
-    <section  id="content" class="content px-4 max-w-xl mx-auto mb-12">
+    <section  id="content" class="max-w-xl px-4 mx-auto mb-12 content">
       <vue-remark-content class="flow"/>
     </section>
-    <section  id="navigation-bottom"  v-if="$page.guide.series && $page.guide.chapter > 0" class="content px-4 max-w-xl mx-auto">
+    <section  id="navigation-bottom"  v-if="$page.guide.series && $page.guide.chapter > 0" class="max-w-xl px-4 mx-auto content">
       <series-navigation
         :total-chapters="$page.guide.series.belongsTo.totalCount"
         :current-chapter="$page.guide.chapter"
@@ -145,7 +139,7 @@ export default {
   @apply mb-2;
 } */
 .guide-cover {
-  height: 320px;
+  height: 60vh;
 }
 
 .content #buildings + ul, .content nav > ul {
