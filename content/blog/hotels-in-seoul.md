@@ -1,6 +1,6 @@
 ---
 title: Hotels in Seoul for Architecture and Design Lovers
-date: 2020-01-25 17:00:00
+date: 2020-01-13 17:00:00
 tags:
   - hotels
   - Seoul

@@ -1,6 +1,6 @@
 ---
 title: Where do architects hangout online?
-date: 2020-01-19 17:00
+date: 2020-01-19 17:00:00
 tags:
   - Misc
   - Personal
