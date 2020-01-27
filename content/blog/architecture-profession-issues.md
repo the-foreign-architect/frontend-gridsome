@@ -1,5 +1,5 @@
 ---
-title: "The pain of being an architect: issues with architecture as a profession"
+title: "The pains of being an architect: issues with architecture as a profession"
 date: 2020-01-27 09:01:30
 tags:
   - Misc
