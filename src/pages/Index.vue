@@ -126,6 +126,20 @@
           />
         </a>
         <a
+          href="https://facebook.com/theforeignarchitect"
+          class="mr-4 shadow-none hover:shadow-none hover:text-grey-dark"
+          target="_blank"
+          alt="Facebook Page"
+          aria-label="Open my Facebook Page"
+          rel="noopener"
+        >
+          <font-awesome
+            :icon="['fab', 'facebook']"
+            size="2x"
+            class="text-white"
+          />
+        </a>
+        <a
           href="https://www.linkedin.com/in/danrocha/"
           class="mr-4 shadow-none hover:shadow-none hover:text-grey-dark"
           target="_blank"
