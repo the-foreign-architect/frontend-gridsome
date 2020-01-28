@@ -1,8 +1,8 @@
 <template>
-  <div class=" mx-auto my-12 p-8 border-2 border-black max-w-sm">
+  <div class="max-w-sm p-8 mx-auto my-12 border-2 border-black ">
     <div v-if="title">
       <h3 class="font-bold">Subscribe to my newsletter</h3>
-      <p>I only send 1-2 emails per month, and I promise it will always be entertaining! And you can unsubscribe at any time.</p>
+      <p>I will send you a weekly email on Mondays. I promise it will always be interesting! And you can unsubscribe at any time.</p>
     </div>
     <div id="mc_embed_signup">
       <form
@@ -17,15 +17,15 @@
       >
         <div id="mc_embed_signup_scroll">
           <div class="block my-4">
-            <label for="mce-EMAIL" class="uppercase tracking-wide text-grey-darker text-sm">Email</label>
+            <label for="mce-EMAIL" class="text-sm tracking-wide uppercase text-grey-darker">Email</label>
             <input
               type="email"
               name="EMAIL"
               placeholder="Enter your email address"
-              class="w-full bg-grey-light p-2 rounded border border-black focus:bg-white focus:border-black"
+              class="w-full p-2 border border-black rounded bg-grey-light focus:bg-white focus:border-black"
               id="mce-EMAIL"
             >
-            <input type="hidden" name="SIGNUP" value="general">
+            <input type="hidden" name="SIGNUP" value="General">
           </div>
 
           <div id="mce-responses" class="clear">
@@ -42,7 +42,7 @@
               value="Subscribe"
               name="subscribe"
               id="mc-embedded-subscribe"
-              class="bg-red-600 text-white p-2 uppercase font-bold tracking-wide rounded text-sm cursor-pointer shadow hover:shadow-lg hover:bg-red-700"
+              class="p-2 text-sm font-bold tracking-wide text-white uppercase bg-red-600 rounded shadow cursor-pointer hover:shadow-lg hover:bg-red-700"
             >
           </div>
         </div>
