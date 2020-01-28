@@ -1,11 +1,7 @@
 <template>
   <Layout>
     <section
-      class="px-4 mb-12 text-lg
-      sm:w-3/4 sm:text-xl
-      md:text-2xl md:py-12 md:flex md:w-full md:p-0
-      lg:text-3xl
-      xl:text-4xl xl:py-16"
+      class="px-4 mb-12 text-lg sm:w-3/4 sm:text-xl md:text-2xl md:py-12 md:flex md:w-full md:p-0 lg:text-3xl xl:text-4xl xl:py-16"
     >
       <div class="hidden md:w-1/3 md:block xl:max-w-sm">&nbsp;</div>
       <div class="md:w-2/3 xl:w-full md:px-4">
@@ -74,10 +70,10 @@
 
     <!-- ABOUT -->
     <section
-      class="bg-black text-white py-12 flex flex-col items-center justify-center"
+      class="flex flex-col items-center justify-center py-12 text-white bg-black"
     >
       <h2
-        class="mb-8 stripe-shadow-white uppercase tracking-wide py-1 font-bold px-4 bg-white text-black inline-block  lg:text-lg"
+        class="inline-block px-4 py-1 mb-8 font-bold tracking-wide text-black uppercase bg-white stripe-shadow-white lg:text-lg"
       >
         What's this?
       </h2>
@@ -88,7 +84,7 @@
         <g-image
           src="../assets/daniel.jpg"
           alt="Daniel da Rocha in Beijing"
-          class="border-2 border-white w-64 mx-auto mb-4 flex-none h-auto sm:m-0 "
+          class="flex-none w-64 h-auto mx-auto mb-4 border-2 border-white sm:m-0 "
         />
         <div class="mb-8 sm:px-4">
           <p class="mb-4">
