@@ -1,5 +1,5 @@
 <template>
-  <div class="full-width px-4">
+  <div class="px-4 full-width">
       <div class="max-w-4xl mx-auto mb-8" >
         <client-only>
           <masonry
@@ -7,7 +7,7 @@
             :gutter="0"
           >
             <div v-for="(item, index) in imgUrls" :key="index" class="py-1 sm:px-1">
-              <img :src="`${item}?w=600`" loading="lazy" class="border-2 border-black"/>
+              <img :src="`${item}?w=${maxSize}&auto=format`" loading="lazy" class="border-2 border-black"/>
             </div>
           </masonry>
         </client-only>
@@ -45,8 +45,13 @@ export default {
         imgUrls.push(`${process.env.GRIDSOME_IMGIX_URL}/${this.folder}/${this.prefix}-${paddedNumber}.jpg`.replace(/([^:])(\/\/+)/g, '$1/'))
       }
       return imgUrls;
+    },
+    maxSize() {
+      if (this.maxNumCols === 2) return '450'
+      return '300'
     }
   },
+
 }
 </script>
 
