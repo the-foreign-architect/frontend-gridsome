@@ -9,6 +9,4 @@ The best newsletters are those that seem especially curated, containing not only
 
 **The TFA Newsletter will provide you with the latest content of this site, as well as selected links about architecture and travel.**
 
-Subscribe and receive every 2 weeks my little update to you.
-
 <mc-general-form />
