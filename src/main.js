@@ -2,14 +2,11 @@
 // The Client API can be used here. Learn more: gridsome.org/docs/client-api
 
 import {
-  format,
-  differenceInCalendarYears,
-  startOfToday,
-  getYear,
+  format
 } from 'date-fns';
 import { enUS } from 'date-fns/locale';
 
-require('typeface-merriweather');
+//require('typeface-merriweather');
 require('typeface-poppins');
 require('typeface-source-sans-pro');
 require('typeface-cookie');
@@ -24,6 +21,7 @@ import {
   faLinkedin,
   faPinterest,
   faInstagram,
+  faFacebook
 } from '@fortawesome/free-brands-svg-icons';
 import {
   faArrowLeft,
@@ -41,7 +39,8 @@ library.add(
   faTwitter,
   faLinkedin,
   faPinterest,
-  faInstagram
+  faInstagram,
+  faFacebook
 );
 
 import DefaultLayout from '~/layouts/Default.vue';
@@ -67,7 +66,8 @@ export default function(Vue, { router, head, isClient }) {
   head.meta.push({
     name: 'google-site-verification',
     content: 'hVDv5JzvYipaM6TqMePoqKROGa7nNbX-oi5A8yzwoxY'
-  })
+  });
+
 }
 
 
