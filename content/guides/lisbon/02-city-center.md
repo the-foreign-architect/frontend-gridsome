@@ -38,7 +38,7 @@ toc
 
 ## Calouste Gulbenkian Foundation and Museum - Alberto J. Pessoa, Pedro Cid and Ruy Jervis d'Athouguia
 
- <captioned-image alt="Museum Calouste Gulbekian" caption="Museum Calouste Gulbekian" imgFile="/guides/lisbon/1-1100x589.jpg"/>
+ <captioned-image alt="Museum Calouste Gulbekian" caption="Museum Calouste Gulbekian" imgFile="/guides/lisbon/lisbon-1-1100x589.jpg"/>
 
 Maybe the most valuable specimen of Portugal's Modernism, the Museum Calouste Gulbenkian offers a mix of great architecture, art and landscape design in a beautiful setting. It is a group of austere, simple building distributed throughout a park. The Modern Collection building offers a wide variety of spaces and light situations, while the main Museum is a simpler rectangular building perforated by two courtyards. Its importance was recognized when it received the status of National Monument in 2010. It is a great group of buildings housing excellent art.
 
