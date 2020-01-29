@@ -6,9 +6,9 @@
       class="w-full p-4 mt-8 mb-2 border-2 border-black building-info"
     >
       <section class="w-full h-64 pb-4">
-        <ClientOnly>
+        <!-- <ClientOnly> -->
           <google-map :location="{ lat: building.lat, lng: building.lng }" class="w-full h-full"/>
-        </ClientOnly>
+        <!-- </ClientOnly> -->
         <!-- <GmapMap
             :center="{ lat: building.lat, lng: building.lng }"
             :zoom="17"
@@ -91,6 +91,7 @@
 
 <script>
 import BackToTop from "~/components/BackToTop";
+import GoogleMap from "~/components/GoogleMap";
 
 export default {
   name: "BuildingInfoBox",
@@ -102,10 +103,11 @@ export default {
   },
   components: {
     BackToTop,
-    GoogleMap: () =>
-      import("./GoogleMap.vue")
-        .then(m => m)
-        .catch(),
+    GoogleMap
+    // GoogleMap: () =>
+    //   import("./GoogleMap.vue")
+    //     .then(m => m)
+    //     .catch(),
   },
   data() {
     return {
