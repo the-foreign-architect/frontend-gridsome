@@ -5,8 +5,8 @@
       :id="'building-info-' + building.id"
       class="w-full p-4 mt-8 mb-2 border-2 border-black building-info"
     >
-      <section class="h-64 pb-4 ">
-
+      <section class="w-full h-64 pb-4">
+        <ClientOnly>
           <GmapMap
             :center="{ lat: building.lat, lng: building.lng }"
             :zoom="17"
@@ -14,6 +14,7 @@
           >
             <GmapMarker :position="{ lat: building.lat, lng: building.lng }" />
           </GmapMap>
+        </ClientOnly>
 
         <!-- <iframe
           :src="
