@@ -7,15 +7,15 @@
     >
       <section class="w-full h-64 pb-4">
         <ClientOnly>
-          <GmapMap
+          <google-map :location="{ lat: building.lat, lng: building.lng }" class="w-full h-full"/>
+        </ClientOnly>
+        <!-- <GmapMap
             :center="{ lat: building.lat, lng: building.lng }"
             :zoom="17"
             style="width: 100%; height: 100%"
           >
             <GmapMarker :position="{ lat: building.lat, lng: building.lng }" />
-          </GmapMap>
-        </ClientOnly>
-
+          </GmapMap> -->
         <!-- <iframe
           :src="
       'https://www.google.com/maps/embed?pb='+ building.gmapsEmbed"
@@ -91,6 +91,7 @@
 
 <script>
 import BackToTop from "~/components/BackToTop";
+
 export default {
   name: "BuildingInfoBox",
   props: {
@@ -101,14 +102,10 @@ export default {
   },
   components: {
     BackToTop,
-    GmapMap: () =>
-      import("vue2-google-maps/src/components/map.vue")
+    GoogleMap: () =>
+      import("./GoogleMap.vue")
         .then(m => m)
         .catch(),
-    GmapMarker: () =>
-      import("vue2-google-maps/src/components/marker")
-        .then(m => m)
-        .catch()
   },
   data() {
     return {

@@ -48,7 +48,7 @@ import '~/assets/css/tailwind.css';
 
 import VueMasonry from 'vue-masonry-css';
 import SeriesNavigation from '~/components/SeriesNavigation';
-import * as VueGoogleMaps from "vue2-google-maps";
+// import * as VueGoogleMaps from "vue2-google-maps";
 
 
 export default function(Vue, { router, head, isClient }) {
@@ -56,12 +56,12 @@ export default function(Vue, { router, head, isClient }) {
   Vue.use(SocialSharing);
   Vue.use(VueMasonry);
   Vue.use(VueDisqus);
-  Vue.use(VueGoogleMaps, {
-    load: {
-      key: process.env.GRIDSOME_GOOGLE_API_KEY,
-    },
-    installComponents: false
-  });
+  // Vue.use(VueGoogleMaps, {
+  //   load: {
+  //     key: process.env.GRIDSOME_GOOGLE_API_KEY,
+  //   },
+  //   installComponents: false
+  // });
   Vue.component('font-awesome', FontAwesomeIcon);
   Vue.component('series-navigation', SeriesNavigation);
   Vue.component('Layout', DefaultLayout);
