@@ -59,16 +59,8 @@ export default function(Vue, { router, head, isClient }) {
   Vue.use(VueGoogleMaps, {
     load: {
       key: process.env.GRIDSOME_GOOGLE_API_KEY,
-      // libraries: "places" // This is required if you use the Autocomplete plugin
-      // OR: libraries: 'places,drawing'
-      // OR: libraries: 'places,drawing,visualization'
-      // (as you require)
-
-      //// If you want to set the version, you can do so:
-      // v: '3.26',
     },
-
-    installComponents: true
+    installComponents: false
   });
   Vue.component('font-awesome', FontAwesomeIcon);
   Vue.component('series-navigation', SeriesNavigation);

@@ -12,9 +12,7 @@
             :zoom="17"
             style="width: 100%; height: 100%"
           >
-            <GmapMarker
-              :position="{ lat: building.lat, lng: building.lng }"
-            />
+            <GmapMarker :position="{ lat: building.lat, lng: building.lng }" />
           </GmapMap>
         </client-only>
         <!-- <iframe
@@ -25,7 +23,11 @@
           frameborder="0"
           style="border:0"
         ></iframe> -->
-        <p class="text-xs text-right"><a :href="building.gmapsLink" target="_blank" alt="Google Maps Link">open on Google Maps</a></p>
+        <p class="text-xs text-right">
+          <a :href="building.gmapsLink" target="_blank" alt="Google Maps Link"
+            >open on Google Maps</a
+          >
+        </p>
       </section>
       <div class=" sm:pr-2">
         <section class="mb-4">
@@ -97,7 +99,15 @@ export default {
     }
   },
   components: {
-    BackToTop
+    BackToTop,
+    GmapMap: () =>
+      import("vue2-google-maps/src/components/map.vue")
+        .then(m => m)
+        .catch(),
+    GmapMarker: () =>
+      import("vue2-google-maps/src/components/marker")
+        .then(m => m)
+        .catch()
   },
   data() {
     return {
