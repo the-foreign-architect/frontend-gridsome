@@ -48,12 +48,28 @@ import '~/assets/css/tailwind.css';
 
 import VueMasonry from 'vue-masonry-css';
 import SeriesNavigation from '~/components/SeriesNavigation';
+import * as VueGoogleMaps from "vue2-google-maps";
+
 
 export default function(Vue, { router, head, isClient }) {
   // Set default layout as a global component
   Vue.use(SocialSharing);
   Vue.use(VueMasonry);
   Vue.use(VueDisqus);
+  Vue.use(VueGoogleMaps, {
+    load: {
+      key: process.env.GRIDSOME_GOOGLE_API_KEY,
+      // libraries: "places" // This is required if you use the Autocomplete plugin
+      // OR: libraries: 'places,drawing'
+      // OR: libraries: 'places,drawing,visualization'
+      // (as you require)
+
+      //// If you want to set the version, you can do so:
+      // v: '3.26',
+    },
+
+    installComponents: true
+  });
   Vue.component('font-awesome', FontAwesomeIcon);
   Vue.component('series-navigation', SeriesNavigation);
   Vue.component('Layout', DefaultLayout);

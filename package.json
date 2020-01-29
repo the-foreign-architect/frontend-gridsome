@@ -25,6 +25,7 @@
     "vue-disqus": "^3.0.5",
     "vue-gallery": "^2.0.1",
     "vue-social-sharing": "^2.4.7",
+    "vue2-google-maps": "^0.10.7"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.26",
