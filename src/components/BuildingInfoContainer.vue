@@ -6,15 +6,17 @@
       class="w-full p-4 mt-8 mb-2 border-2 border-black building-info"
     >
       <section class="h-64 pb-4 ">
-        <GmapMap
-          :center="{ lat: building.lat, lng: building.lng }"
-          :zoom="17"
-          style="width: 100%; height: 100%"
-        >
-          <GmapMarker
-            :position="{ lat: building.lat, lng: building.lng }"
-          />
-        </GmapMap>
+        <client-only>
+          <GmapMap
+            :center="{ lat: building.lat, lng: building.lng }"
+            :zoom="17"
+            style="width: 100%; height: 100%"
+          >
+            <GmapMarker
+              :position="{ lat: building.lat, lng: building.lng }"
+            />
+          </GmapMap>
+        </client-only>
         <!-- <iframe
           :src="
       'https://www.google.com/maps/embed?pb='+ building.gmapsEmbed"
