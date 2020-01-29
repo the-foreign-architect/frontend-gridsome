@@ -1,12 +1,10 @@
 <template>
   <Layout>
-    <section class="mb-12 px-4">
+    <section class="px-4 mb-12">
       <div class="md:flex">
         <div class="mb-4 sm:w-3/4 md:w-1/3 xl:max-w-sm">
           <h2
-            class="stripe-shadow-black uppercase tracking-wide px-4 py-1 mb-4
-            font-bold text-white bg-black inline-block
-            lg:text-lg">
+            class="inline-block px-4 py-1 mb-4 font-bold tracking-wide text-white uppercase bg-black stripe-shadow-black lg:text-lg">
               Blog
           </h2>
           <p>
@@ -43,7 +41,7 @@ import BlogGrid from '~/components/BlogGrid'
 export default {
   metaInfo() {
     return {
-      title: 'Blog - TFA',
+      title: 'Blog',
     }
   },
   components: {

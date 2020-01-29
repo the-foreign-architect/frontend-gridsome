@@ -82,7 +82,7 @@ query {
 <script>
 export default {
   metaInfo: {
-    titleTemplate: "%s - TFA",
+    titleTemplate: "%s - The Foreign Architect",
     htmlAttrs: {
       lang: "en"
     }
