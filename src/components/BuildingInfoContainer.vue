@@ -6,9 +6,9 @@
       class="w-full p-4 mt-8 mb-2 border-2 border-black building-info"
     >
       <section class="w-full h-64 pb-4">
-        <!-- <ClientOnly> -->
+        <ClientOnly>
           <google-map :location="{ lat: building.lat, lng: building.lng }" class="w-full h-full"/>
-        <!-- </ClientOnly> -->
+        </ClientOnly>
         <!-- <GmapMap
             :center="{ lat: building.lat, lng: building.lng }"
             :zoom="17"
@@ -90,8 +90,9 @@
 </template>
 
 <script>
+import lazyLoadComponent from '~/plugins/lazy-load-component';
 import BackToTop from "~/components/BackToTop";
-import GoogleMap from "~/components/GoogleMap";
+import PlaceholderMap from "~/components/PlaceholderMap";
 
 export default {
   name: "BuildingInfoBox",
@@ -103,11 +104,14 @@ export default {
   },
   components: {
     BackToTop,
-    GoogleMap
     // GoogleMap: () =>
     //   import("./GoogleMap.vue")
     //     .then(m => m)
     //     .catch(),
+    GoogleMap: lazyLoadComponent({
+      componentFactory: () => import('./GoogleMap.vue'),
+      loading: PlaceholderMap,
+    }),
   },
   data() {
     return {
