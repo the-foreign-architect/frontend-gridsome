@@ -79,7 +79,15 @@ Now head south to check the **Jewish Museum**, by **Daniel Liebeskind**. On the 
 
 <captioned-image alt="Jewish Museum Berlin" caption="Jewish Museum Berlin" imgFile="/guides/berlin/JewishMuseumBerlin.jpg" />
 
-I remember coming to Berlin for the first time and going to this museum. I had studied it in school and heard so much about it from friends who visited it before. The expectation was high. And, same as with Berlin itself, it surpassed my expectations. I left stunned and humbled at how powerful architecture can be, how space can shape your feelings, and how complexity can be manipulated to bring out powerful emotions. This building started from a competition back in 1988. **Libeskind** came out as the winner, and the museum opened 12 years later. The goal was to bring the Jewish presence back to the city and to establish a new identity for the museum in Berlin. Libeskind used his architecture as narrative and emotion. It tries to express the feelings of absence, emptiness, and invisibility, through a series of unique spaces created to present the effects of the Holocaust. Telling too much would spoil the surprise. I recommend you go there, do not read anything about it and only experience the space. Oh, and the exhibition is cool too!
+I remember coming to Berlin for the first time and going to this museum. I had studied it in school and heard so much about it from friends who visited it before. 
+
+The expectation was high. And, same as with Berlin itself, it surpassed my expectations. I left stunned and humbled at how powerful architecture can be, how space can shape your feelings, and how complexity can be manipulated to bring out powerful emotions. 
+
+This building started from a competition back in 1988. **Libeskind** came out as the winner, and the museum opened 12 years later. The goal was to bring the Jewish presence back to the city and to establish a new identity for the museum in Berlin. 
+
+Libeskind used his architecture as narrative and emotion. It tries to express the feelings of absence, emptiness, and invisibility, through a series of unique spaces created to present the effects of the Holocaust. Telling too much would spoil the surprise. 
+
+I recommend you go there, do not read anything about it and only experience the space. Oh, and the exhibition is cool too!
 
 <image-gallery folder="/guides/berlin/" prefix="jewish" :num-images="2"/>
 
