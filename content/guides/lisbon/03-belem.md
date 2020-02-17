@@ -49,7 +49,7 @@ This huge building right next to the Monastery of Jeronimos was built to host P
 
 It currently houses the [Berardo Museum of Modern and Contemporary Art](http://www.museuberardo.com/) with an incredible permanent collection and rotating exhibits. If you don’t fancy getting in, just walk around the outdoor areas and don’t miss the terrace overlooking the Monument for the Discoveries. For opening times, check the [General Information page](https://www.ccb.pt/Default/en/Homepage/GeneralInformation) at their website.
 
-<image-gallery folder="/guides/lisbon/" prefix="ccb" :num-imgs="3"/>
+<image-gallery folder="/guides/lisbon/" prefix="ccb" :num-images="3"/>
 
 <building-info-container id=17 />
 

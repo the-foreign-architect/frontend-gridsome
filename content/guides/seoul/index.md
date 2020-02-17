@@ -89,7 +89,7 @@ Museum 2 was by far my favorite. Designed by Nouvel, it houses various works fro
 
 Koolhaas building is undeniably his. Housing the Samsung Child Education & Culture Center, it is a large space with tall concrete columns and a glass facade, housing another smaller volume, rendered in beautiful black concrete, and all exhibition areas occupying the spaces in-between. A wide diversity of surfaces and volumes allowing for a large variety of uses. At the time of my visit, a temporary exhibition from Olafur Eliasson showcased not only great art but also the flexibility of that space.
 
-<image-gallery folder="guides/seoul/" prefix="leeum" :num-imgs="3" />
+<image-gallery folder="guides/seoul/" prefix="leeum" :num-images="3" />
 
 ### Visit
 
