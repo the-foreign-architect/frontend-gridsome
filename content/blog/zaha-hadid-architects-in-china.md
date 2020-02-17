@@ -71,7 +71,7 @@ The **2008 Summer Olympics** were the perfect example of that. The Olympics is m
 This led to many new international design competitions and commissions. In 2001, [Herzog & de Meuron](http://herzogdemeuron.com/) won the bid to build the **Beijing National Stadium** - even before Beijing had been awarded the games. [TFP Farrells](https://farrells.com/) would design the **Beijing South Railway Station**. [Foster+Partners](https://www.fosterandpartners.com/) were awarded the commission to design **Beijing Capital Airport's Terminal 3**.
 
 <captioned-image alt="National Stadium" caption="National Stadium, by Herzog & de Meuron (2001-2008)" imgFile="/blog/200217-zaha-hadid-china/beijing-national-stadium.jpg"/>
-<captioned-image alt="Beijing South Railway Station" caption="Beijing South Railway Station, by TFA Farrells (2001-2008)" imgFile="/blog/200217-zaha-hadid-china/beijing-south-railway-station.jpg"/>
+<captioned-image alt="Beijing South Railway Station" caption="Beijing South Railway Station, by TFP Farrell (2001-2008)" imgFile="/blog/200217-zaha-hadid-china/beijing-south-railway-station.jpg"/>
 <captioned-image alt="Aerial view of the Terminal 3 of Beijing Capital International Airport" caption="Beijing Capital Airport Terminal 3, by Foster+Partners (2002-2008)" imgFile="/blog/200217-zaha-hadid-china/bcia-t3.jpg"/>
 
 ## Guangzhou Opera House
@@ -86,11 +86,11 @@ Zaha's design, a complex mix of curves and inclined surfaces covered by intricat
 
 <captioned-image alt="Construction photo of the Guangzhou Opera House" caption="Guangzhou Opera House during construction" imgFile="/blog/200217-zaha-hadid-china/goh-construction.jpg"/>
 
-And this was made more critical due to the focus on Beijing at the time. The Beijing National Stadium was not a simple building, but it had all the attention of the central government. The same with Foster's Airport: they were supposed to be the entry points, the face of China to the world during the Olympic Games. It was essential they'd be state-of-the-art buildings.
+And this was made more critical due to the focus on Beijing at the time. The Beijing National Stadium was not a simple building, but it had all the attention of the central government. The same with Foster's Airport: they were supposed to be the entry points, the face of China to the world during the Olympic Games. It was essential they'd be state-of-the-art buildings, built to perfection.
 
 <captioned-image alt="Construction photo of the National Stadium" caption="The National Stadium during construction" imgFile="/blog/200217-zaha-hadid-china/national-stadium-construction.jpg"/>
 
-Facing such competition, Zaha's Opera House inevitably fell into the background. And it shows when you visit the building. Up close, its stone panels are misaligned, haphazardly cut and put together. It is quite messy, actually. Clearly, the work of an unskilled workforce. Also, while all Olympic buildings were completed in five years, the Opera House would open seven years after construction started, two years after the games.
+Facing such competition, Zaha's Opera House inevitably fell into the background. And it shows when you visit the building. Up close, its stone panels are misaligned, haphazardly cut and put together. It is quite messy, actually. Clearly, the work of unskilled builders. Also, while all Olympic buildings were completed in five years, the Opera House would only open seven years after construction started, two years after the games.
 
 <captioned-image alt="Detail of the facade of the Guangzhou Opera House" caption="Facade detail at the Guangzhou Opera House" imgFile="/blog/200217-zaha-hadid-china/goh-detail.jpg"/>
 
@@ -114,7 +114,7 @@ Zaha's big break in China, however, would come in 2009, when she won the bid to 
 
 <building-info-container :show-back-to-top="false" id=130 />
 
-It marked the start of a fruitful partnership between Zaha Hadid and **Zhang Xin**, SOHO's billionaire owner and CEO. Having met years earlier, when Zhang invited Hadid to China to examine the possibility of working together. They met again in 2004, Zhang was at the award ceremony for Zaha's Pritzker Prize, in St. Petersburg. 
+It marked the start of a fruitful partnership between Zaha Hadid and **Zhang Xin**, SOHO's billionaire owner and CEO. Having met years earlier, when Zhang invited Hadid to China to examine the possibility of working together, they met again in 2004, at the award ceremony for Zaha's Pritzker Prize, in St. Petersburg, which Zhang also attended. 
 
 She loved Zaha's style and felt SOHO China, which Zhang started with her husband, Pan Shiyi, in 1995, would provide a larger canvas for Zaha's talents. "Everything is bigger in China," she said in an interview for Fortune in 2014. "Bringing [Zaha] here is something that is very important for my work."
 
@@ -122,13 +122,13 @@ She loved Zaha's style and felt SOHO China, which Zhang started with her husband
 
 Known for getting big-name architects to design its developments (earlier SOHOs were created by the likes of Toyo Ito and Riken Yamamoto), Zhang would end up inviting Zaha to all her future competitions. In the same interview, she said that Hadid "always wins the work through competition. It's not like I went to her," she said. "We invite a few architects, and Zaha always comes up with the best design. "It's been a great partnership," Hadid said. "It's not easy in this industry to find good partners."
 
-It was a great partnership, indeed. Besides the Galaxy SOHO, three other large projects would come out of it: Wangjing SOHO and Leeza SOHO, in Beijing, and the Lingkong SOHO, in Shanghai. They are all fantastic projects. A mix of offices, apartments, and retail, combined with abundant public spaces on multiple levels.
+It was a great partnership, indeed. Besides the Galaxy SOHO, three other large projects would come out of it: **Wangjing SOHO** and **Leeza SOHO**, in Beijing, and the **Lingkong SOHO**, in Shanghai. They are all fantastic projects. A mix of offices, apartments, and retail, combined with abundant public spaces on multiple levels.
 
 <captioned-image alt="Wangjing SOHO" caption="Wangjing SOHO in Beijing (2009-2014)" imgFile="/blog/200217-zaha-hadid-china/wangjing-soho.jpg"/>
 <captioned-image alt="Lingkong SOHO" caption="Lingkong SOHO in Shanghai (2010-2014)" imgFile="/blog/200217-zaha-hadid-china/sky-soho.jpg"/>
 <captioned-image alt="Leeza SOHO" caption="Leeza SOHO in Beijing (2015-2019)" imgFile="/blog/200217-zaha-hadid-china/leeza-soho.jpg"/>
 
-And the public spaces are what make SOHO projects so unique. ZHA's SOHOs excel at that. As you visit them, you realize how well their public spaces work. They are always crowded, both during the week with office workers and residents, as well as on weekends when the whole neighborhood takes over. They offer unrivaled public plazas, half-covered, half-open, on multiple levels. There is a very cozy and human feeling to it, surrounded by spectacular, futuristic buildings.
+The public spaces are what make SOHO projects so unique. ZHA's SOHOs excel at that. As you visit them, you realize how well their public spaces work. They are always crowded, both during the week with office workers and residents, as well as on weekends when the whole neighborhood takes over. They offer a variety of public plazas, half-covered, half-open, on multiple levels. There is a very cozy and human feeling to it, surrounded by spectacular, futuristic buildings.
 
 <captioned-image alt="Galaxy SOHO public" caption="Public space at the Galaxy SOHO" imgFile="/blog/200217-zaha-hadid-china/galaxy-soho-event.jpg" format="v"/>
 
@@ -139,7 +139,7 @@ And the public spaces are what make SOHO projects so unique. ZHA's SOHOs excel a
 
 These projects were also fundamental to ZHA's development in China because SOHO is such a great client. When I was working in China, it was hard to get clients who understood the value of architecture, who respected the vision and pushed the concepts forward. Clients who were not only driven by costs and profits but who also shared the importance of having a high-quality, iconic, and forward-looking building. SOHO is undoubtedly one of those clients. **Probably, the best client that Zaha could have had to explore her architecture in the country. It has a rare mix of critical ingredients in a good client: good taste, ambition, and a lot of money.**
 
-With the SOHOs, you also start to see an evolution in the Chinese construction industry. From the Galaxy SOHO all the way to the Leeza SOHO, there is an increasing level of perfection and attention to intricate details. While in the Galaxy SOHO, you can still see some rough corners and areas where workers had to apply the good old Chinese _cha bu duo_, you'd have a hard time finding construction faults when looking at the Leeza SOHO up-close. And don't even try to compare the latter with the Guangzhou Opera House.
+With the SOHOs, you also start to see an evolution in the Chinese construction industry. From the Galaxy SOHO all the way to the Leeza SOHO, there is an increasing level of perfection and attention to intricate details. While in the Galaxy SOHO, you can still see some rough corners and areas where workers had to apply the good old Chinese _(chabuduo)[https://aeon.co/essays/what-chinese-corner-cutting-reveals-about-modernity]_, you'd have a hard time finding construction faults when looking at the Leeza SOHO up-close. And don't even try to compare the latter with the Guangzhou Opera House.
 
 <captioned-image alt="Leeza SOHO atrium" caption="Leeza SOHO's stunning atrium in Beijing" imgFile="/blog/200217-zaha-hadid-china/leeza-soho-atrium.jpg" format="v"/>
 
