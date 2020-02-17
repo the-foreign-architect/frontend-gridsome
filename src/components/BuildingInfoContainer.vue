@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div  class="mb-10">
     <article
       v-if="building"
       :id="'building-info-' + building.id"
@@ -9,22 +9,7 @@
         <ClientOnly>
           <google-map :location="{ lat: building.lat, lng: building.lng }" class="w-full h-full"/>
         </ClientOnly>
-        <!-- <GmapMap
-            :center="{ lat: building.lat, lng: building.lng }"
-            :zoom="17"
-            style="width: 100%; height: 100%"
-          >
-            <GmapMarker :position="{ lat: building.lat, lng: building.lng }" />
-          </GmapMap> -->
-        <!-- <iframe
-          :src="
-      'https://www.google.com/maps/embed?pb='+ building.gmapsEmbed"
-          width="100%"
-          height="100%"
-          frameborder="0"
-          style="border:0"
-        ></iframe> -->
-        <p class="text-xs text-right">
+        <p class="text-xs text-right" v-if="building.gmapsLink">
           <a :href="building.gmapsLink" target="_blank" alt="Google Maps Link"
             >open on Google Maps</a
           >
@@ -85,7 +70,7 @@
         </section>
       </div>
     </article>
-    <back-to-top anchor="#buildings" />
+    <back-to-top v-if="showBackToTop" anchor="#buildings" />
   </div>
 </template>
 
@@ -100,14 +85,14 @@ export default {
     id: {
       type: [Number, String],
       required: true
+    },
+    showBackToTop: {
+      type: Boolean,
+      default: true
     }
   },
   components: {
     BackToTop,
-    // GoogleMap: () =>
-    //   import("./GoogleMap.vue")
-    //     .then(m => m)
-    //     .catch(),
     GoogleMap: lazyLoadComponent({
       componentFactory: () => import('./GoogleMap.vue'),
       loading: PlaceholderMap,

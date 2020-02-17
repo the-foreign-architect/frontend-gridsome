@@ -1,32 +1,13 @@
 <template>
-  <figure class="my-8" :class="blog ? 'w-full' : 'full-width px-4'">
-    <div class="mx-auto" :class="format === 'v' ? 'max-w-sm' : 'max-w-3xl'">
-      <!-- <img
-        :ix-path="imgFile"
-        ix-params='{"fit": "max"}'
-        ix-host="tfa.imgix.net"
-        :sizes="sizes"
-        :alt="alt"
-        loading="lazy"
-      /> -->
-      <div>
-
+  <figure class="flex flex-col items-center my-8">
       <img
         :srcset="srcset"
         :src="src"
         :sizes="sizes"
-        class="mx-auto border-2 border-black"
+        class="border-2 border-black"
         loading="lazy"
       />
       <figcaption class="text-sm">{{ caption }}</figcaption>
-      </div>
-      <!-- <img
-        :src="url"
-        :alt="alt"
-        class="mx-auto border-2 border-black"
-        loading="lazy"
-      /> -->
-    </div>
   </figure>
 </template>
 <script>

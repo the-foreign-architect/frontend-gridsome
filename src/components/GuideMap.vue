@@ -1,7 +1,7 @@
 <template>
-  <div class="full-width px-4 my-8">
+  <div class="my-8">
     <div class="max-w-3xl mx-auto">
-      <!-- <div class="overlay w-full h-full absolute top-left bg-transparent" onClick="style.pointerEvents='none'"></div> -->
+      <!-- <div class="absolute w-full h-full bg-transparent overlay top-left" onClick="style.pointerEvents='none'"></div> -->
       <iframe :title="title" :src="map" height="500" scrolling="no" class="w-full border-2 border-black"></iframe>
     </div>
   </div>
