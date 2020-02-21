@@ -1,5 +1,5 @@
 ---
-title: Pier Luigi Verdi and his buildings in Rome
+title: Pier Luigi Nervi and his buildings in Rome
 date: 2020-02-03 06:46:50
 tags:
   - Misc
@@ -11,13 +11,13 @@ import CaptionedImage from '~/components/CaptionedImage.vue'
 import Divider from '~/components/Divider.vue'
 import McGeneralForm from '~/components/McGeneralForm.vue'
 
-As part of the upcoming **Rome Contemporary Architecture Guide**, I inevitably had to learn more about the Italian engineer/architect **Pier Luigi Verdi**. 
+As part of the upcoming **Rome Contemporary Architecture Guide**, I inevitably had to learn more about the Italian engineer/architect **Pier Luigi Nervi**. 
 
 <captioned-image alt="Pier Luigi Nervi" imgFile="/guides/rome/nervi/nervi.jpg" :blog="true"/>
 
-Called "the great Italian god of concrete in the 20th century," Verdi explored the potential of **prefabrication** and **reinforced concrete** to create beautiful buildings.
+Called "the great Italian god of concrete in the 20th century," Nervi explored the potential of **prefabrication** and **reinforced concrete** to create beautiful buildings.
 
-However, for Verdi, beauty was never the goal, but the simple result of the combination of **technology**, **structure**, **functionality**, and **economy**.
+However, for Nervi, beauty was never the goal, but the simple result of the combination of **technology**, **structure**, **functionality**, and **economy**.
 
 > "Beauty does not come from decorative effects but from structural coherence. Formal beauty and technical perfection are inseparable."
 
@@ -44,7 +44,7 @@ During his time as an engineering professor at the University of Rome, Nervi tri
 
 > "The conception of a structural system is a creative action only partly based on scientific data; static sensitivity entering in this process, although deriving from equilibrium and strength considerations, remains, in the same way as aesthetic sensitivity, an essentially personal aptitude"
 
-<captioned-image alt="Drawings of Brunelleschi's Dome" imgFile="/guides/rome/nervi/brunelleschi.png" caption="The dome of Santa Maria del Fiore built by Filippo Brunelleschi, which Verdi proclaimed ‘the perfect example of a technically perfect architecture, that for this very reason is also beautiful’" :blog="true"/>
+<captioned-image alt="Drawings of Brunelleschi's Dome" imgFile="/guides/rome/nervi/brunelleschi.png" caption="The dome of Santa Maria del Fiore built by Filippo Brunelleschi, which Nervi proclaimed ‘the perfect example of a technically perfect architecture, that for this very reason is also beautiful’" :blog="true"/>
 
 Nervi's buildings are a visual representation of all his ideas. And, in Rome, you can experience some of the most extraordinary examples of his approach.
 
@@ -111,7 +111,7 @@ From the outside, it is a simple construction - a disc-like, glazed structure. I
 
 ## Palazzetto dello Sport
 
-This is, however, the highlight of Verdi's buildings in Rome. Also, the one that left the most significant impression on me during my visit. 
+This is, however, the highlight of Nervi's buildings in Rome. Also, the one that left the most significant impression on me during my visit. 
 
 <captioned-image alt="Palazzetto dello Sport" imgFile="/guides/rome/palazzetto-dello-sport/pa5-Palazzetto-dello-Sport-1959.jpg" :blog="true"/>
 
