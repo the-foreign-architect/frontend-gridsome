@@ -2,7 +2,7 @@
 title: About
 ---
 import CaptionedImage from '~/components/CaptionedImage.vue'
-import McGeneralForm from '~/components/McGeneralForm.vue'
+import McApiForm from '~/components/McApiForm.vue'
 import Divider from '~/components/Divider.vue'
 
 
@@ -37,6 +37,6 @@ That is the goal of this site: **to join architecture and travel in one place an
 
 So bear with me, and **subscribe to receive news and notifications.** I promise to keep your privacy at a maximum and the bugging at a minimum:
 
-<mc-general-form />
+<mc-api-form sign-up-location="about_page"/>
 
 Also, you can follow **The Foreign Architect** in some social media out there (check links below!). And email me anytime with ideas, suggestions, or just to say hello: **daniel@theforeignarchitect.com**.

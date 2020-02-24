@@ -9,7 +9,7 @@ coverImage: ./_imgs/nervi-in-rome.jpg
 ---
 import CaptionedImage from '~/components/CaptionedImage.vue'
 import Divider from '~/components/Divider.vue'
-import McGeneralForm from '~/components/McGeneralForm.vue'
+import McApiForm from '~/components/McApiForm.vue'
 
 As part of the upcoming **Rome Contemporary Architecture Guide**, I inevitably had to learn more about the Italian engineer/architect **Pier Luigi Nervi**. 
 
@@ -163,4 +163,4 @@ The buildings above are direct translations of these principles. A must-see for 
 
 This is part of the upcoming **Rome Contemporary Architecture Guide**. Stay in the loop for future updates by joining the **TFA Mailing list**: 
 
-<mc-general-form />
+<mc-api-form form-type="general" sign-up-location="nervi" />

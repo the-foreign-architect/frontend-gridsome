@@ -18,7 +18,7 @@ import ImageGallery from '~/components/ImageGallery.vue'
 
 import VideoPlayer from '~/components/VideoPlayer.vue'
 import BackToTop from '~/components/BackToTop.vue'
-import McGetGuideForm from '~/components/McGetGuideForm.vue' 
+import McApiForm from '~/components/McApiForm.vue' 
 
 Seoul is a city very dear to me. It was there that I had my first adventure in the far east when I accepted a job offer in town in 2009. Contemporary architecture in Seoul, at that time, was starting to show its face to the world. 
 
@@ -43,7 +43,7 @@ I tried to collect it all in this little guide and the included map. The focus w
 
 Of course, I could not see all I wanted or all that Seoul has to offer. This little guide is still a work in progress, which I hope to keep updating after my future visits to the city, which will still be many.
 
-<mc-get-guide-form guide="Seoul"/>
+<mc-api-form sign-up-location="Seoul" form-type="guide"/>
 
 ### Buildings
 
@@ -274,7 +274,7 @@ There are many other resources online for you to make the best of Seoul. These a
 - **[Seoul Travel Guide for Food Lovers](https://migrationology.com/travel-guides/seoul-korea/)** Written by Mark Wiens at [Migrationology](https://migrationology.com), whose food tips are always on the spot.
 - **[Explore Parts Unknown: Korea](https://explorepartsunknown.com/destination/korea/)** My favorite traveler Anthony Bourdain once did a great episode of his show Parts Unknown in Korea. This is the accompanying article and it is great.
 
-<mc-get-guide-form guide="Seoul"/>
+<mc-api-form sign-up-location="Seoul" form-type="guide" />
 
 ### Work in progress...
 

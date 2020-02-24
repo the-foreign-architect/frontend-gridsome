@@ -1,7 +1,7 @@
 ---
 title: Newsletter
 ---
-import McGeneralForm from '~/components/McGeneralForm.vue'
+import McApiForm from '~/components/McApiForm.vue'
 
 I am a big fan of e-mail newsletters. For me, it feels like a more direct connection with the authors I am interested in.
 
@@ -9,4 +9,4 @@ The best newsletters are those that seem especially curated, containing not only
 
 **The TFA Newsletter will provide you with the latest content of this site, as well as selected links about architecture and travel.**
 
-<mc-general-form />
+<mc-api-form sign-up-location="newsletter_page"/>

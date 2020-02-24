@@ -16,7 +16,7 @@ pinterestMedia: /guides/lisbon/TFA-Lisbon-Architecture-Guide.jpg
 import GuideMap from '~/components/GuideMap.vue'
 import CaptionedImage from '~/components/CaptionedImage.vue'
 import BackToTop from '~/components/BackToTop.vue'
-import McGetGuideForm from '~/components/McGetGuideForm.vue' 
+import McApiForm from '~/components/McApiForm.vue' 
 
 Ah, Lisbon. I remember getting out of my 15-hour flight from Beijing, where the heat and smog were suffocating, and riding the taxi into Lisbon, feeling the breeze of its mild summertime, the fresh air blowing from the Tagus river, the blue skies. It all made me fall for this city at touchdown. Headed to my little [Airbnb flat](https://www.airbnb.com/rooms/2086734) up a small alley on the top of the Alfama neighborhood, passing by small alleys and squares, smelling the home cooking and overhearing conversations, I felt at home.
 
@@ -24,7 +24,7 @@ Ah, Lisbon. I remember getting out of my 15-hour flight from Beijing, where the 
 
 Lisbon is where we, Brazilians, came from. As we learned in school, from the sea explorers reaching our shores in 1500 to the accosted Portuguese monarch escaping ravaging crowds to take refuge in our country, somehow all our history leads back to Portugal. It all crossed my mind as I walked up the stairs to my flat and looked out the window, already in love with the city. It was my first and only visit to Lisbon. Until then I was always ashamed of not making the trip to the tip of Europe, as I was living in Berlin for such a long time. Now, from the other side of the globe, I finally did it. And among the desire to walk and explore, I wanted to try as much food as possible and see as much good architecture as I could.
 
-<mc-get-guide-form guide="Lisbon"/>
+<mc-api-form sign-up-location="Lisbon" form-type="guide" />
 
 Lisbon has tons to see. Contemporary architecture in the city is great, but it is a tiny piece of all the Portuguese capital can offer. This guide will walk you through some of the architecture I was so glad to see and experience in person. I divided it into three large sections:
 
@@ -69,5 +69,7 @@ You can find countless online resources about Lisbon. General travel guides, foo
 This is a map of the places mentioned in this guide, and more ([direct link](https://drive.google.com/open?id=1KNQk_F9UYTMJ-Fg6EU8rlljC9fA&usp=sharing)). Each section also has its own map. black icons are mentioned in the articles, while gray ones are further recommendations.
 
 <guide-map title="Architecture Map of Lisbon" map="https://www.google.com/maps/d/u/1/embed?mid=1KNQk_F9UYTMJ-Fg6EU8rlljC9fA" />
+
+<mc-api-form sign-up-location="Lisbon" form-type="guide" />
 
 <back-to-top />

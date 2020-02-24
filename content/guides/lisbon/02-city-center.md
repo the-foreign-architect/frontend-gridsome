@@ -20,7 +20,7 @@ import ImageGallery from '~/components/ImageGallery.vue'
 
 import VideoPlayer from '~/components/VideoPlayer.vue'
 import BackToTop from '~/components/BackToTop.vue'
-import McGetGuideForm from '~/components/McGetGuideForm.vue' 
+import McApiForm from '~/components/McApiForm.vue' 
 
 Lisbon's city center is a joy to get lost in. Do yourself a favor and just walk, no map, no destination. Eat everything that catches your eye and just take the city in. Spend some time soaking your feet in the Tagus, go up some buildings, enjoy some museums, and drink some beers at one of the many terraces overlooking the city. And then get back to your architecture trail.
 
@@ -74,4 +74,4 @@ The subway station is beautiful all clad in white tiles, while the Carmo terrace
 
 <building-info-container id=16 />
 
-<mc-get-guide-form guide="Lisbon"/>
+<mc-api-form sign-up-location="Lisbon" form-type="guide" />

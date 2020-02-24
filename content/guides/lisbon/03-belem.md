@@ -19,7 +19,7 @@ import ImageGallery from '~/components/ImageGallery.vue'
 
 import VideoPlayer from '~/components/VideoPlayer.vue'
 import BackToTop from '~/components/BackToTop.vue'
-import McGetGuideForm from '~/components/McGetGuideForm.vue' 
+import McApiForm from '~/components/McApiForm.vue' 
 
 **Time to go west and enjoy the beauties of Belém.**
 
@@ -91,4 +91,4 @@ The MAAT distributed its ten exhibition spaces in two buildings: a renovated po
 
 <building-info-container id=20 />
 
-<mc-get-guide-form guide="Lisbon"/>
+<mc-api-form sign-up-location="Lisbon" form-type="guide" />
