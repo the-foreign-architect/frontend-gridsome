@@ -136,7 +136,7 @@ _Work in progress in a Kanban board: just looking at it tells you everything_
 In the end, of course, we would take a picture to register how much work we did without any stress or overwork. All made possible by a Kanban board and the empowerment and transparency it brought to the whole team.
 
 ![](./_imgs/kanban/workflow-04.png)
-_The end goal of evert Kanban Board_
+_The end goal of every Kanban Board_
 
 <divider/>
 
