@@ -1,18 +1,15 @@
 <template>
-  <div class="full-width my-8 px-4">
-    <div class="max-w-3xl mx-auto">
+  <div>
       <iframe
         id="`player-${id}`"
         type="text/html"
-        width="800"
-        height="450"
+        width="560" height="349"
         :src="src"
         frameborder="0"
         webkitallowfullscreen
         mozallowfullscreen
         allowfullscreen
       ></iframe>
-    </div>
   </div>
 </template>
 
@@ -42,3 +39,19 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+div {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+div iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+</style>
