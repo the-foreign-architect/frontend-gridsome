@@ -8,6 +8,8 @@
   # Default build command.
   command = "gridsome build"
 
+  functions = "./functions/"
+
 ####### GUIDES
 # berlin
 [[redirects]]
