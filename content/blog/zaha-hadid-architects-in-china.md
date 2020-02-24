@@ -12,7 +12,6 @@ import GuideMap from '~/components/GuideMap.vue'
 import CaptionedImage from '~/components/CaptionedImage.vue'
 import BuildingInfoContainer from '~/components/BuildingInfoContainer.vue'
 import ImageGallery from '~/components/ImageGallery.vue'
-import VideoPlayer from '~/components/VideoPlayer.vue'
 
 From their first project in China in 2003, [Zaha Hadid Architects](https://www.zaha-hadid.com/) (ZHA) went on to shape the urban fabric of major Chinese cities with several high-profile projects, culminating in 2019's [Beijing Daxing International Airport](https://www.zaha-hadid.com/), the most important in China and one of the largest in the world. 
 
