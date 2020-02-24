@@ -98,14 +98,20 @@ a.white-link, a.white-link:hover {
     margin-top: var(--flow-space);
 }
 .flow h2 {
-  --flow-space: 4rem;
+  --flow-space: 3rem;
 }
 .flow h3 {
-  --flow-space: 3rem;
+  --flow-space: 1.5rem;
+  @apply -mb-3;
 }
 .flow img {
   @apply mt-8;
 }
+
+.flow ul {
+  @apply ml-8 list-disc;
+}
+
 
 .content-page h2 {
   @apply text-2xl font-bold;
