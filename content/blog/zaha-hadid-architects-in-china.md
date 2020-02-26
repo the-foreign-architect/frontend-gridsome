@@ -4,7 +4,7 @@ date: 2020-02-17 06:45:50
 tags:
   - Zaha Hadid
   - China
-excerpt: 'How did Zaha Hadid Architects enter the Chinese market and become one of the most successfull foreign architecture firms operating in the country'
+excerpt: 'How did Zaha Hadid Architects enter the Chinese market and become one of the most successful foreign architecture firms operating in the country'
 coverImage: ./_imgs/zaha-hadid-china.jpg
 ---
 import Divider from '~/components/Divider.vue'
