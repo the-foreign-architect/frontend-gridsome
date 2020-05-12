@@ -1,5 +1,5 @@
 ---
-title: 'Dubai: a curated contemporary architecture guide'
+title: "Dubai: a curated contemporary architecture guide"
 date: 2017-06-17
 excerpt: Dubai’s architecture is extravagant, excessive, inconsequent and opulent. Despite all that, it is also mind-blowing, impressive, and unique. Go see it.
 description: Dubai’s architecture is extravagant, excessive, inconsequent and opulent. Despite all that, it is also mind-blowing, impressive, and unique. Go see it.
@@ -11,7 +11,6 @@ city: Dubai
 coverImage: ./_imgs/cover.jpg
 pinterestMedia: v1552238685/guides/abu-dhabi/TFA-AbuDhabi-Architecture-Guide.png
 chapter: 0
-
 ---
 
 import GuideMap from '~/components/GuideMap.vue'
@@ -155,7 +154,6 @@ The Dubai Marina is a mindblowing area of Dubai. From afar, it is like a bundle 
 
 <image-gallery folder="/guides/dubai/" prefix="cayan" :num-images="4"/>
 
-
 The Cayan Tower, however, is unique. It is a simple move, immortalized by Calatrava in its Turning Torso building in Sweden, and taken to taller extremes in the latest Shanghai Tower: floor plan rotation along its height. The Cayman features square-shaped floor slabs rotated a full 90-degrees from base to tip. SOM uses both the views (bottom-half views to the marina, top-half views to the Gulf) and the wind (the twisted block “confuses” the wind) to justify the rotation.
 
 The resulting metal-clad tower is beautiful and striking, the sun hitting its faces in different subtle ways. Coming closer, a fine pattern of metal panels and opening reveals itself, and the impossible twist is even more impressive. When it comes to designing super-tall towers, there is only so much you can do. Structural and technical issues are extremely restrictive, and anything that deviates from a simple extrusion and tapering becomes incredibly complicated. Every architect who designs such buildings dream of having the right client who is willing to invest in groundbreaking ideas, who is ready to risk and try to do something different. Be it just for show, or via unjustifiable expenses, it is still admirable.
@@ -182,19 +180,19 @@ It was inaugurated after my time in Dubai, so I did not have the chance to visit
 
 <building-info-container id=60 />
 
+## The Opus Tower - Zaha Hadid Architects
+
+<captioned-image alt="The Opus Tower by Zaha Hadid Architects" caption="© Laurian Ghinitoiu" imgFile="/guides/dubai/opus-01.jpg"/>
+
+This is one of Zaha’s early high-rise projects that proved very complicated to design past the competition stage and built. Now, more than ten years later, <del>you can already recognize its shape on the recently topped-off structure on the site</del> it's done.. It is a fascinating building which is a unique addition to the city. The developers also [recently announced](http://www.designboom.com/architecture/the-opus-zaha-hadid-memorial-dubai-hotel-apartments-construction-12-30-2016/) that the building will house a permanent memorial to the late architect.
+
+<captioned-image alt="The Opus Tower by Zaha Hadid Architects" caption="© Laurian Ghinitoiu" imgFile="/guides/dubai/opus-02.jpg"/>
+
+<building-info-container id=61 />
+
 ---
 
 The buildings below are a selection of upcoming additions to the Dubai skyline that I am looking forward to visiting in my future trips.
-
-## The Opus Tower - Zaha Hadid Architects
-
-<captioned-image alt="The Opus Tower by Zaha Hadid Architects" caption="The Opus Tower rendering" imgFile="/guides/dubai/opus-tower-dubai-zaha-hadid-xxlarge.webp"/>
-
-This is one of Zaha’s early high-rise projects that proved very complicated to design past the competition stage and built. Now, more than ten years later, you can already recognize its shape on the recently topped-off structure on the site. It is a fascinating building which will be a unique addition to the city. The developers also [recently announced](http://www.designboom.com/architecture/the-opus-zaha-hadid-memorial-dubai-hotel-apartments-construction-12-30-2016/) that the building will house a permanent memorial to the late architect.
-
-<captioned-image alt="The Opus Tower by Zaha Hadid Architects" caption="Construction status (May/2017)" imgFile="/guides/dubai/1a-1.jpg"/>
-
-<building-info-container id=61 />
 
 ## Dubai Frame - DONIS
 
