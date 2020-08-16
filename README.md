@@ -24,7 +24,6 @@
 
 ## Other integrations
 
-- [Forest Admin](https://www.forestadmin.com/) - administration dashboard
 - [Mailchimp](https://mailchimp.com) - mailing list, fed by a Netlify Function
 
 ## Build Setup
