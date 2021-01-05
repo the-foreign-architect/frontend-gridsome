@@ -12,7 +12,7 @@
     "@gridsome/source-graphql": "^0.1.0",
     "@gridsome/transformer-remark": "^0.4.0",
     "@gridsome/vue-remark": "^0.1.9",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "crypto": "^1.0.1",
     "date-fns": "^2.9.0",
     "gridsome": "^0.7.12",
